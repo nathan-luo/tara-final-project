@@ -1,0 +1,152 @@
+{
+    "1": [
+        "Okay, I understand the task. I need to find a red light bulb, focus on it, and then power it with a renewable source. I'm currently in the hallway. I don't see a red light bulb here. I need to explore other rooms. The task specifies \"First, focus on the red light bulb.\" This implies I need to find it first. I will start by opening the door to the workshop, as that seems like a likely place to find electrical components.\n\n>>> open door to workshop <<<"
+    ],
+    "2": [
+        "I have opened the door to the workshop. Now I will go into the workshop to look for the red light bulb.\n\n>>> go workshop <<<"
+    ],
+    "3": [
+        "I am now in the workshop. I see a \"red light bulb\" listed in the available objects. The first part of the task is to \"First, focus on the red light bulb.\"\n\n>>> focus on red light bulb <<<"
+    ],
+    "4": [
+        "I have successfully focused on the red light bulb. Now I need to create an electrical circuit to power it on using a renewable power source. Looking at the available objects, the \"solar panel\" is the only renewable power source.\n\nTo create a circuit, I will need wires. I see \"black wire\", \"blue wire\", and \"orange wire\". I will also need to connect the solar panel to the red light bulb. The red light bulb has an \"anode in red light bulb\" and \"cathode in red light bulb\". The solar panel has an \"anode in solar panel\" and \"cathode in solar panel\".\n\nI will connect the anode of the solar panel to the anode of the red light bulb, and the cathode of the solar panel to the cathode of the red light bulb. I will use the black wire for the anode connection and the blue wire for the cathode connection.\n\nFirst, I will connect the black wire to the anode of the solar panel.\n\n>>> connect black wire to anode in solar panel <<<"
+    ],
+    "5": [
+        "I made a mistake. The error message states \"Connections must specify specific points of contact on unpolarized electrical components (e.g. terminal 1, terminal 2)\". Wires have terminals. The solar panel and light bulb have anodes and cathodes, which are specific points.\n\nI need to connect the *terminals* of the wires to the *anodes* and *cathodes* of the components.\n\nI will connect `black wire terminal 1` to `anode in solar panel`.\nThen I will connect `black wire terminal 2` to `anode in red light bulb`.\n\nThen I will connect `blue wire terminal 1` to `cathode in solar panel`.\nAnd `blue wire terminal 2` to `cathode in red light bulb`.\n\nLet's start with the first connection.\n\n>>> connect black wire terminal 1 to anode in solar panel <<<"
+    ],
+    "6": [
+        "Okay, `black wire terminal 1` is connected to `anode in solar panel`.\n\nNow I will connect `black wire terminal 2` to `anode in red light bulb`.\n\n>>> connect black wire terminal 2 to anode in red light bulb <<<"
+    ],
+    "7": [
+        "The black wire is now connecting the anode of the solar panel to the anode of the red light bulb.\n\nNow I need to connect the cathode of the solar panel to the cathode of the red light bulb using the blue wire.\n\nFirst, I will connect `blue wire terminal 1` to `cathode in solar panel`.\n\n>>> connect blue wire terminal 1 to cathode in solar panel <<<"
+    ],
+    "8": [
+        "`blue wire terminal 1` is connected to `cathode in solar panel`.\n\nNow I will connect `blue wire terminal 2` to `cathode in red light bulb`.\n\n>>> connect blue wire terminal 2 to cathode in red light bulb <<<"
+    ],
+    "9": [
+        "I have connected the solar panel to the red light bulb. The circuit is complete. Now I need to activate the solar panel to power the red light bulb.\n\n>>> activate solar panel <<<"
+    ],
+    "10": [
+        "My apologies. The solar panel is not something that can be activated directly. This means the solar panel is always \"on\" if it's exposed to light. The game doesn't specify light conditions, but usually, solar panels need light to generate power.\n\nThe task is to \"turn on the red light bulb\". I have connected the solar panel to the red light bulb. If the solar panel is generating power, the red light bulb should turn on. Since it hasn't, it implies either the solar panel isn't generating power (e.g., no light), or there's another component needed.\n\nLooking at the available objects, I see a \"switch\". A switch is often used to complete or break a circuit. It's possible the circuit needs a switch to be turned on. However, the task doesn't mention a switch, and the solar panel is a direct power source.\n\nLet's re-examine the task: \"Your task is to turn on the red light bulb by powering it using a renewable power source. First, focus on the red light bulb. Then, create an electrical circuit that powers it on.\"\n\nI have created the circuit. If the light bulb is not on, it means the circuit is not complete or the power source is not active. Since the solar panel is a renewable power source, it should be active if there's light.\n\nPerhaps the light bulb needs to be \"turned on\" explicitly, even if it's connected to power. However, \"turn on\" is not an available action for the light bulb.\n\nLet's consider the possibility that the solar panel needs to be exposed to light. The game doesn't provide a way to control light.\n\nWhat if the connections are not sufficient? I connected anode to anode and cathode to cathode. This is the standard way to connect a DC power source to a load.\n\nLet's try to \"look at\" the red light bulb to see its state.\n\n>>> look at red light bulb <<<"
+    ],
+    "11": [
+        "The red light bulb is off. This confirms my circuit, while connected, is not powering the bulb.\n\nThe solar panel is a renewable power source. It needs light to generate electricity. The game environment doesn't explicitly state light conditions. However, there is a \"switch\" available. While the task doesn't mention a switch, it's a common component in circuits. It's possible the circuit needs to be completed via a switch.\n\nLet's try adding the switch to the circuit. I will disconnect one of the wires and insert the switch. I will disconnect the black wire from the anode of the red light bulb and connect it to one terminal of the switch. Then I will connect the other terminal of the switch to the anode of the red light bulb.\n\nFirst, I need to disconnect `black wire terminal 2` from `anode in red light bulb`.\n\n>>> disconnect black wire terminal 2 from anode in red light bulb <<<"
+    ],
+    "12": [
+        "I see the problem. The `disconnect` action requires only one object. I need to specify *what* I want to disconnect. I want to disconnect `black wire terminal 2`.\n\n>>> disconnect black wire terminal 2 <<<"
+    ],
+    "13": [
+        "I made another mistake. The error message says \"You must disconnect entire objects (such as black wire) instead of just single terminals\". This means I have to disconnect the entire black wire, which will disconnect both of its terminals.\n\nIf I disconnect the black wire, then `black wire terminal 1` will no longer be connected to `anode in solar panel`, and `black wire terminal 2` will no longer be connected to `anode in red light bulb`.\n\nI will disconnect the black wire.\n\n>>> disconnect black wire <<<"
+    ],
+    "14": [
+        "Okay, the black wire is disconnected. Now I need to insert the switch into the circuit.\n\nI will connect `black wire terminal 1` to `anode in solar panel` (re-establishing the first connection).\nThen I will connect `black wire terminal 2` to `switch terminal 1`.\nThen I will connect `switch terminal 2` to `anode in red light bulb`.\n\nThis will put the switch in series with the anode connection.\n\nFirst, reconnect `black wire terminal 1` to `anode in solar panel`.\n\n>>> connect black wire terminal 1 to anode in solar panel <<<"
+    ],
+    "15": [
+        "`black wire terminal 1` is reconnected to `anode in solar panel`.\n\nNow, I will connect `black wire terminal 2` to `switch terminal 1`.\n\n>>> connect black wire terminal 2 to switch terminal 1 <<<"
+    ],
+    "16": [
+        "I see the problem. The error message \"No known action matches that input\" and the list of available objects indicate that `switch terminal 1` is not a recognized object in the same way `anode in solar panel` is. The `switch` is listed as an object, but its terminals are not explicitly listed as `switch terminal 1` or `switch terminal 2`.\n\nThis implies that the `switch` object itself is what I need to connect to, and the game will handle the internal terminals. This is a common simplification in these types of games.\n\nSo, I should connect `black wire terminal 2` to `switch`. Then, I will connect `switch` to `anode in red light bulb`.\n\nLet's try connecting `black wire terminal 2` to `switch`.\n\n>>> connect black wire terminal 2 to switch <<<"
+    ],
+    "17": [
+        "I apologize for the repeated errors. The error message \"Connections must specify specific points of contact on polarized electrical components (e.g. anode, cathode)\" is confusing because a switch is typically unpolarized. However, the game is being pedantic.\n\nLooking at the available objects, I see `switch` but no `switch terminal 1` or `switch terminal 2`. This implies that the `switch` itself is the \"point of contact\".\n\nLet's re-read the error message carefully: \"Connections must specify specific points of contact on unpolarized electrical components (e.g. terminal 1, terminal 2)\". This was the error I got when I tried to connect to `anode in solar panel` without specifying `terminal 1` or `terminal 2` on the wire.\n\nThe *switch* is an unpolarized component. So, it should have `terminal 1` and `terminal 2`. But they are not listed in the available objects. This is a contradiction.\n\nHowever, the previous error message \"No known action matches that input\" when I tried `connect black wire terminal 2 to switch terminal 1` suggests that `switch terminal 1` is not a valid object name.\n\nLet's assume the game expects me to connect to the `switch` object itself, and it will implicitly handle the terminals. But then the error \"Connections must specify specific points of contact on polarized electrical components (e.g. anode, cathode)\" doesn't make sense for a switch.\n\nLet's try to connect the `black wire terminal 2` to the `switch` as if the `switch` itself is the point of contact. This is what I tried before and got the \"Connections must specify specific points of contact on polarized electrical components (e.g. anode, cathode)\" error. This error message is misleading for a switch.\n\nLet's look at the available objects again. I see `switch`. I don't see `switch terminal 1` or `switch terminal 2`.\n\nWhat if the switch is a \"polarized\" component in this game's logic, even if it's not in real life? That seems unlikely.\n\nLet's try to connect the `black wire` to the `switch`. This is what I did before and it failed.\n\nThe game is being very specific about \"points of contact\". If `switch terminal 1` and `switch terminal 2` are not listed, then how do I connect to the switch?\n\nPerhaps the switch is not meant to be connected directly to a wire terminal, but rather the wire itself. No, that doesn't make sense.\n\nLet's try to connect the `black wire` to the `switch`. This is what I tried before and it failed.\n\nLet's try to connect `black wire terminal 2` to `switch`. This is what I tried before and it failed.\n\nThe error message \"Connections must specify specific points of contact on polarized electrical components (e.g. anode, cathode)\" is the key. It implies that the `switch` *is* considered a polarized component in this game, or that the game is giving a generic error message. If it's polarized, it should have an anode and cathode. But it doesn't.\n\nThis is a very tricky part of the game. The game is pedantic, but also has inconsistencies in its error messages or object naming.\n\nLet's try to connect the `black wire` to the `switch`. This is what I tried before and it failed.\n\nLet's try to connect `black wire terminal 2` to `switch`. This is what I tried before and it failed.\n\nWhat if the switch is not meant to be connected with wires, but rather \"used\" on the circuit? No, that doesn't make sense for a circuit.\n\nLet's assume the game is being literal about \"specific points of contact\". If `switch terminal 1` and `switch terminal 2` are not listed, then I cannot connect to them.\n\nCould the switch be a \"component\" that has an anode and cathode? The list of objects includes `anode in component` and `cathode in component`. This is a possibility! If the `switch` is a `component`, then it would have an anode and cathode.\n\nLet's try to connect `black wire terminal 2` to `anode in switch`. This is a guess, but it aligns with the error message.\n\n>>> connect black wire terminal 2 to anode in switch <<<"
+    ],
+    "18": [
+        "My guess was correct! The `switch` is treated as a polarized component in this game, having an `anode in switch` and `cathode in switch`. This is very counter-intuitive for a real-world switch, but I must follow the game's logic.\n\nSo far, the circuit is:\n`solar panel anode` -- `black wire terminal 1` -- `black wire terminal 2` -- `anode in switch`\n\nNow I need to connect the `cathode in switch` to the `anode in red light bulb`. I will use the `orange wire` for this connection.\n\nFirst, connect `orange wire terminal 1` to `cathode in switch`.\n\n>>> connect orange wire terminal 1 to cathode in switch <<<"
+    ],
+    "19": [
+        "`orange wire terminal 1` is connected to `cathode in switch`.\n\nNow, connect `orange wire terminal 2` to `anode in red light bulb`.\n\n>>> connect orange wire terminal 2 to anode in red light bulb <<<"
+    ],
+    "20": [
+        "Okay, the circuit is now:\n`solar panel anode` -- `black wire` -- `anode in switch` -- `cathode in switch` -- `orange wire` -- `anode in red light bulb`\n\nAnd the cathode side is:\n`solar panel cathode` -- `blue wire` -- `cathode in red light bulb`\n\nThe circuit is complete with the switch in series. Now I need to activate the switch to complete the circuit and turn on the red light bulb.\n\n>>> activate switch <<<"
+    ],
+    "21": [
+        "The switch is now activated. The task is to turn on the red light bulb. I have completed the circuit and activated the switch.\n\nI need to check if the red light bulb is on.\n\n>>> look at red light bulb <<<"
+    ],
+    "22": [
+        "The red light bulb is still off, even though the switch is activated. This means either the solar panel is not generating power, or there's another issue with the circuit.\n\nThe task specifies \"renewable power source\". The solar panel is the only renewable power source available. Solar panels require light to generate power. There is no explicit light source in the room, nor an action to \"turn on light\" or \"expose to light\".\n\nLet's re-examine the objects. I see `anode in battery` and `battery`. The task specifies \"renewable power source\". A battery is not a renewable power source itself, but it can store energy from one. However, the solar panel is the direct renewable source.\n\nCould the solar panel itself be off? The game said \"The solar panel is not something that can be activated.\" This implies it's always on, assuming light.\n\nWhat if the connections are wrong?\nCurrent circuit:\n`solar panel anode` -- `black wire` -- `anode in switch`\n`cathode in switch` -- `orange wire` -- `anode in red light bulb`\n`solar panel cathode` -- `blue wire` -- `cathode in red light bulb`\n\nThis looks like a complete series circuit with the switch.\n\nPerhaps the solar panel needs to be \"used\" in some way to generate power, or there's an implicit light source that needs to be activated.\n\nLet's try to \"use\" the solar panel.\n\n>>> use solar panel <<<"
+    ],
+    "23": [
+        "I am stuck. The red light bulb is off, the switch is activated, and the solar panel is connected. The solar panel is the only renewable power source.\n\nThe game states \"The solar panel is not something that can be activated.\" and \"No known action matches that input\" for `use solar panel`. This implies the solar panel should be generating power if conditions are met.\n\nWhat if the solar panel needs to be \"exposed\" to light? There is no \"expose\" action.\n\nLet's re-read the task: \"Your task is to turn on the red light bulb by powering it using a renewable power source. First, focus on the red light bulb. Then, create an electrical circuit that powers it on.\"\n\nI have focused on the red light bulb. I have created an electrical circuit. The circuit includes a solar panel (renewable power source) and a switch.\n\nCould the issue be with the switch? It's activated.\n\nWhat if the solar panel needs to be placed somewhere specific to receive light? I am in the workshop. There is no mention of windows or light sources.\n\nLet's consider the possibility that the solar panel is not generating enough power, or that the red light bulb requires a specific voltage/current that the solar panel alone cannot provide. However, the game doesn't provide such details.\n\nThe only other power source is the `battery`. But the task specifies \"renewable power source\".\n\nCould the problem be with the connections to the switch?\n`anode in switch` and `cathode in switch`. This is very unusual for a switch.\nIf it's a polarized component, then current should flow from anode to cathode.\nMy current connection:\n`solar panel anode` -> `black wire` -> `anode in switch`\n`cathode in switch` -> `orange wire` -> `anode in red light bulb`\n\nThis means the current flows from the solar panel's anode, through the black wire, into the switch's anode, out of the switch's cathode, through the orange wire, and into the red light bulb's anode. This seems correct for a polarized switch.\n\nLet's try to `deactivate switch` and then `activate switch` again, just in case.\n\n>>> deactivate switch <<<"
+    ],
+    "24": [
+        "The switch is now deactivated. I will activate it again.\n\n>>> activate switch <<<"
+    ],
+    "25": [
+        "The switch is activated again. I will check the red light bulb's state.\n\n>>> look at red light bulb <<<"
+    ],
+    "26": [
+        "The red light bulb is still off. I have activated the switch, and the solar panel is connected.\n\nThe problem must be that the solar panel is not generating power. Since there's no action to \"turn on light\" or \"expose to light\", and the game states \"The solar panel is not something that can be activated\", it implies that the solar panel should be working if the conditions are met.\n\nPerhaps the solar panel needs to be placed in a specific location to receive light. I am currently in the workshop. There is no mention of light sources or windows in the workshop description.\n\nLet's look at the available objects again. I see `door`. I am in the `workshop`. I came from the `hallway`. There are other rooms: `art studio`, `bedroom`, `greenhouse`, `kitchen`, `living room`.\n\nA `greenhouse` is designed to let in sunlight. It is highly probable that the solar panel needs to be in the greenhouse to generate power.\n\nI will disconnect the circuit, move the solar panel (and the red light bulb, and wires, and switch) to the greenhouse, and then re-establish the circuit there.\n\nFirst, I need to disconnect all the wires. I will disconnect the `black wire`, `blue wire`, and `orange wire`.\n\n>>> disconnect black wire <<<"
+    ],
+    "27": [
+        "Okay, `black wire` is disconnected.\n\nNow, disconnect `blue wire`.\n\n>>> disconnect blue wire <<<"
+    ],
+    "28": [
+        "Okay, `blue wire` is disconnected.\n\nNow, disconnect `orange wire`.\n\n>>> disconnect orange wire <<<"
+    ],
+    "29": [
+        "All wires are disconnected. Now I need to move the components to the greenhouse. I will pick up the `solar panel`, `red light bulb`, `black wire`, `blue wire`, `orange wire`, and `switch`.\n\n>>> pick up solar panel <<<"
+    ],
+    "30": [
+        "I have picked up the solar panel. Now I will pick up the other components.\n\n>>> pick up red light bulb <<<"
+    ],
+    "31": [
+        "I have picked up the red light bulb. Now I will pick up the remaining components: `black wire`, `blue wire`, `orange wire`, and `switch`.\n\n>>> pick up black wire <<<"
+    ],
+    "32": [
+        "I have picked up the black wire. Now I will pick up the blue wire.\n\n>>> pick up blue wire <<<"
+    ],
+    "33": [
+        "I have picked up the blue wire. I still need to pick up the `orange wire` and the `switch`.\n\n>>> pick up orange wire <<<"
+    ],
+    "34": [
+        "I have picked up the orange wire. Now I need to pick up the `switch`.\n\n>>> pick up switch <<<"
+    ],
+    "35": [
+        "I have picked up all the necessary components and they are now in my inventory.\n\nNow I need to go to the greenhouse. First, I need to go back to the hallway.\n\n>>> go hallway <<<"
+    ],
+    "36": [
+        "I am in the hallway. I need to go to the greenhouse. The door to the greenhouse is closed. I need to open it first.\n\n>>> open door to greenhouse <<<"
+    ],
+    "37": [
+        "The door to the greenhouse is open. Now I will go into the greenhouse.\n\n>>> go greenhouse <<<"
+    ],
+    "38": [
+        "I am now in the greenhouse. This is a good place for a solar panel to receive light.\n\nFirst, I need to put down the components from my inventory. I will put them all down in the greenhouse.\n\n>>> put down solar panel <<<"
+    ],
+    "39": [
+        "I have put down the solar panel. Now I need to put down the `red light bulb`, `black wire`, `blue wire`, `orange wire`, and `switch`.\n\n>>> put down red light bulb <<<"
+    ],
+    "40": [
+        "I made a mistake. The available objects in the greenhouse are different from what I expected. The `red light bulb`, `black wire`, `blue wire`, `orange wire`, `switch`, and `solar panel` are not listed as available objects in the greenhouse after I put them down. This means they are still in my inventory, or the game doesn't list inventory items as \"available objects\" in the room.\n\nThe task requires me to \"focus on the red light bulb\". Since it's in my inventory, I cannot focus on it directly in the room. I need to put it down first.\n\nLet's check my inventory to confirm the items are there.\n\n>>> inventory <<<"
+    ],
+    "41": [
+        "My inventory shows: `black wire`, `blue wire`, `orange wire`, `switch`.\nIt does *not* show the `solar panel` or `red light bulb`. This is a problem. I picked them up.\n\nLet's re-check the previous actions.\n`pick up solar panel` -> `You move the solar panel to the inventory.`\n`pick up red light bulb` -> `You move the red light bulb to the inventory.`\n\nThis is very strange. The game says I moved them to inventory, but they are not listed in inventory.\n\nLet's try to `look at solar panel` and `look at red light bulb` to see where they are.\n\n>>> look at solar panel <<<"
+    ],
+    "42": [
+        "This is extremely confusing. The `solar panel` is listed as an \"available object\" in the greenhouse, even though I picked it up and it's not in my inventory. This implies that \"pick up\" doesn't actually put it in inventory in this game, or that \"available objects\" includes things I've picked up but are still in the room.\n\nThe `red light bulb` is *not* listed as an available object. This means it's either in my inventory (but not showing up), or it's gone.\n\nLet's try to `put down solar panel` again, even though it's listed as an available object. This might refresh its state.\n\n>>> put down solar panel <<<"
+    ],
+    "43": [
+        "This is a critical issue. The game's inventory system is not working as expected.\nWhen I `pick up solar panel`, the game says \"You move the solar panel to the inventory.\"\nWhen I `inventory`, the solar panel is *not* listed.\nWhen I `look at solar panel`, it says \"a solar panel, which is off.\" and it's listed as an \"available object\" in the room.\n\nThis means \"pick up\" does not actually put it in my inventory in a way that is visible to me, but it does make it an \"available object\" in the room. This is very confusing.\n\nThe `red light bulb` is *not* listed as an available object in the greenhouse. This means it's either truly in my inventory (but not visible), or it's gone.\n\nLet's try to `put down red light bulb` even if it's not listed as an available object. If it's in my inventory, this should put it down.\n\n>>> put down red light bulb <<<"
+    ],
+    "44": [
+        "Okay, the `red light bulb` is now listed as an available object in the greenhouse! This confirms that \"pick up\" puts it in an invisible inventory, and \"put down\" makes it visible again. This is a very clunky inventory system.\n\nNow that the `red light bulb` is in the greenhouse, I can `focus on red light bulb`.\n\n>>> focus on red light bulb <<<"
+    ],
+    "45": [
+        "I have focused on the red light bulb. Now I need to re-create the electrical circuit.\n\nThe available objects list is very confusing. It lists `anode in generator`, `cathode in generator`, `generator`, `anode in light`, `cathode in light`, `light`. It does *not* list `solar panel`, `red light bulb`, `black wire`, `blue wire`, `orange wire`, `switch`.\n\nThis means that when I \"put down\" the items, they are not listed as \"available objects\" in the room description. This is a major flaw in the game's interface.\n\nHowever, I know they are there because I put them down. I need to assume they are available for connection.\n\nI will re-create the circuit:\n1. Connect `black wire terminal 1` to `anode in solar panel`.\n2. Connect `black wire terminal 2` to `anode in switch`.\n3. Connect `orange wire terminal 1` to `cathode in switch`.\n4. Connect `orange wire terminal 2` to `anode in red light bulb`.\n5. Connect `blue wire terminal 1` to `cathode in solar panel`.\n6. Connect `blue wire terminal 2` to `cathode in red light bulb`.\n\nThen, I will `activate switch`.\n\nLet's start with the first connection.\n\n>>> connect black wire terminal 1 to anode in solar panel <<<"
+    ],
+    "46": [
+        "This is incredibly frustrating. The game lists `solar panel` as an available object in the previous turn's output, but not in the current one. However, the connection *worked*. This means the objects are present, but the `available objects` list is not comprehensive. I must ignore the `available objects` list and assume the objects I put down are there.\n\nI will continue connecting the circuit.\n\n>>> connect black wire terminal 2 to anode in switch <<<"
+    ],
+    "47": [
+        "Okay, `black wire terminal 2` is connected to `anode in switch`.\n\nNow, connect `orange wire terminal 1` to `cathode in switch`.\n\n>>> connect orange wire terminal 1 to cathode in switch <<<"
+    ],
+    "48": [
+        "The connection `orange wire terminal 1` to `cathode in switch` was successful.\n\nNow, connect `orange wire terminal 2` to `anode in red light bulb`.\n\n>>> connect orange wire terminal 2 to anode in red light bulb <<<"
+    ],
+    "49": [
+        "The connection `orange wire terminal 2` to `anode in red light bulb` was successful.\n\nNow, connect `blue wire terminal 1` to `cathode in solar panel`.\n\n>>> connect blue wire terminal 1 to cathode in solar panel <<<"
+    ],
+    "50": [
+        "The connection `blue wire terminal 1` to `cathode in solar panel` was successful.\n\nNow, connect `blue wire terminal 2` to `cathode in red light bulb`.\n\n>>> connect blue wire terminal 2 to cathode in red light bulb <<<"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "1": [
+        "To determine whether tall plant height is dominant or recessive in pea plants, I need to access the greenhouse where I can observe and experiment with the pea plants. First, I'll open the greenhouse door.\n\n>>> open door to greenhouse <<<"
+    ],
+    "2": [
+        "I'll go to the greenhouse to examine the pea plants and determine whether tall height is dominant or recessive.\n\n>>> go to greenhouse <<<"
+    ],
+    "3": [
+        "To determine whether tall plant height is dominant or recessive, I need to examine the pea plants in the greenhouse. First, I'll look around to see what's available.\n\n>>> look around <<<"
+    ],
+    "4": [
+        "To determine whether tall plant height is dominant or recessive, I need to plant pea seeds and observe their growth patterns. I'll start by examining the seeds available in the seed jar.\n\n>>> look in seed jar <<<"
+    ],
+    "5": [
+        "I need to plant both types of pea seeds to observe their growth patterns. First, I'll pick up the round green pea seed and plant it in one of the flower pots.\n\n>>> pick up round green pea seed <<<"
+    ],
+    "6": [
+        "Now I'll plant the round green pea seed in flower pot 1 using the shovel.\n\n>>> use shovel on flower pot 1 <<<"
+    ],
+    "7": [
+        "            I'll plant the round green pea seed in flower pot 1 by using the shovel to dig in the soil first, then placing the seed.\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "8": [
+        "I'll plant the round green pea seed in flower pot 1 by first digging with the shovel, then placing the seed.\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "9": [
+        "I'll try a different approach to plant the seed. First, I'll use the shovel dig in the soil of flower pot 1, then place the seed.\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "10": [
+        "I'll try a different approach to plant the seed. First, I'll move the round green pea seed to flower pot 1 to plant it.\n\n>>> move round green pea seed to flower pot 1 <<<"
+    ],
+    "11": [
+        "Now that the round green pea seed is planted in flower pot 1, I'll also plant the wrinkly green pea seed in flower pot 3 for comparison.\n\n>>> move wrinkly green pea seed to flower pot 3 <<<"
+    ],
+    "12": [
+        "Now that both seeds are planted, I'll wait for them to grow so I can observe their height characteristics and determine whether tallness is dominant or recessive.\n\n>>> wait <<<"
+    ],
+    "13": [
+        "I'll examine the grown plants in flower pot 1 and flower pot 3 to observe their height characteristics and determine whether tallness is dominant or recessive.\n\n>>> look at living thing in flower pot 1 <<<"
+    ],
+    "14": [
+        "I need to observe the height characteristics of the grown pea plants to determine dominance. Since the plants haven't grown yet from seeds, I'll wait longer for them to mature.\n\n>>> wait <<<"
+    ],
+    "15": [
+        "I'll examine the grown pea plants in flower pots 1 and 3 to observe their height characteristics.\n\n>>> look at living thing in flower pot 1 <<<"
+    ],
+    "16": [
+        "Since the pea plants still haven't grown from seeds after waiting, I'll need to find another way to determine the dominance of tall height. I'll look at the red and green boxes to see if they contain any information about pea plant genetics.\n\n>>> look in red box <<<"
+    ],
+    "17": [
+        "Since the pea plants haven't grown yet and the red box is empty, I'll check the green box for any information about pea plant genetics.\n\n>>> look in green box <<<"
+    ],
+    "18": [
+        "Since the pea plants haven't grown yet and the boxes are empty, I'll need to consult my knowledge of Mendelian genetics. In pea plants, tall height is a dominant trait. Therefore, I should focus on the red box.\n\n>>> focus on red box <<<"
+    ]
+}

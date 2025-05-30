@@ -1,0 +1,26 @@
+{
+    "1": [
+        "I need to find a plant. The task description states that I need to 'First, focus on the thing'. The 'thing' is not specified yet, but I assume it will be the plant when I find it. I will start by going to the greenhouse, as it's the most likely place to find a plant. I need to open the door to the greenhouse first.\n\n>>> open door to the greenhouse <<<"
+    ],
+    "2": [
+        "I have opened the door to the greenhouse. Now I can enter it.\n\n>>> go greenhouse <<<"
+    ],
+    "3": [
+        "I am in the greenhouse. I need to find a plant. There are several plants listed: 'adult apple tree', 'adult cherry tree', 'adult pea plant'. The task says \"find a(n) plant\", so any of these will do. The task also says \"First, focus on the thing.\" I'll choose the 'adult pea plant' as the 'thing'.\n\n>>> focus on adult pea plant <<<"
+    ],
+    "4": [
+        "I have focused on the adult pea plant. Now I need to move it to the red box in the kitchen. To do this, I first need to pick it up.\n\n>>> pick up adult pea plant <<<"
+    ],
+    "5": [
+        "I have picked up the adult pea plant and it is in my inventory. Now I need to go to the kitchen. I am currently in the greenhouse. I need to go back to the hallway first, and then open the door to the kitchen and go there.\n\n>>> go hallway <<<"
+    ],
+    "6": [
+        "I am in the hallway. I have the adult pea plant in my inventory. I need to go to the kitchen. The kitchen door is currently closed. I need to open the door to the kitchen.\n\n>>> open door to the kitchen <<<"
+    ],
+    "7": [
+        "I have opened the door to the kitchen. Now I need to go to the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "8": [
+        "I am in the kitchen. I have the adult pea plant in my inventory. I need to move it to the red box in the kitchen. The red box is listed as an available object.\n\n>>> move adult pea plant to red box <<<"
+    ]
+}

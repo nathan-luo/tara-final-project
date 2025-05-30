@@ -1,0 +1,29 @@
+{
+    "1": [
+        "I need to find a living thing, focus on it, and then move it to the red box in the kitchen. First, let me explore the different rooms to find a living thing. The greenhouse seems like a promising place to start since it's likely to contain plants or other living organisms.\n\nLet me start by opening the door to the greenhouse.\n\n>>> open door to greenhouse <<<"
+    ],
+    "2": [
+        "Now that the greenhouse door is open, let me go into the greenhouse to look for living things.\n\n>>> go greenhouse <<<"
+    ],
+    "3": [
+        "Great! I can see several living things in the greenhouse: adult apple tree, adult cherry tree, adult pea plant, and a bee hive. Let me look around to get a better understanding of what's available.\n\n>>> look around <<<"
+    ],
+    "4": [
+        "I can see several living things in the greenhouse: adult apple tree, adult cherry tree, adult pea plant, and there's also a bee hive. Let me first focus on one of these living things. I'll start with the adult pea plant.\n\n>>> focus on adult pea plant <<<"
+    ],
+    "5": [
+        "Good! I've focused on the adult pea plant, which is a living thing. Now I need to move it to the red box in the kitchen. First, let me try to pick up the pea plant to see if I can move it.\n\n>>> pick up adult pea plant <<<"
+    ],
+    "6": [
+        "Perfect! I have successfully focused on the adult pea plant (a living thing) and picked it up. Now I need to go to the kitchen to find the red box and move the pea plant there.\n\nLet me go back to the hallway first, then to the kitchen.\n\n>>> go hallway <<<"
+    ],
+    "7": [
+        "Now I need to go to the kitchen to find the red box. Let me open the door to the kitchen first.\n\n>>> open door to kitchen <<<"
+    ],
+    "8": [
+        "Now I need to go into the kitchen to find the red box where I need to move the pea plant.\n\n>>> go kitchen <<<"
+    ],
+    "9": [
+        "Perfect! I can see the red box is available in the kitchen. I have already found a living thing (the adult pea plant), focused on it, and picked it up. Now I need to move it to the red box to complete the task.\n\n>>> move adult pea plant to red box <<<"
+    ]
+}

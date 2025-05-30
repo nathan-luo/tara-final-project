@@ -1,0 +1,359 @@
+{
+    "0": {
+        "episodeIdx": 0,
+        "history": {
+            "history": [
+                {
+                    "action": "look around",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)",
+                    "score": "0.0"
+                },
+                {
+                    "action": "go door to kitchen",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is not open.",
+                    "score": "0.0"
+                },
+                {
+                    "action": "open door to kitchen",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.0"
+                },
+                {
+                    "action": "go kitchen",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is open)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the kitchen.",
+                    "score": "0.05"
+                },
+                {
+                    "action": "focus on thermometer",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\tsolid unknown substance C\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You focus on the thermometer.",
+                    "score": "0.3833333333333333"
+                },
+                {
+                    "action": "focus on solid unknown substance c",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\tsolid unknown substance C\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You focus on the solid unknown substance C.",
+                    "score": "0.7166666666666667"
+                },
+                {
+                    "action": "use solid unknown substance c on thermometer",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\tsolid unknown substance C\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "I'm not sure how to use the solid unknown substance C.",
+                    "score": "0.7166666666666667"
+                },
+                {
+                    "action": "dunk solid unknown substance c in stove",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\tsolid unknown substance C\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The solid unknown substance C is not a container.",
+                    "score": "0.7166666666666667"
+                },
+                {
+                    "action": "use thermometer on solid unknown substance c",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\tsolid unknown substance C\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "the thermometer measures a temperature of 10 degrees celsius",
+                    "score": "0.7266666666666667"
+                },
+                {
+                    "action": "dunk solid unknown substance c in stove",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\tsolid unknown substance C\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The solid unknown substance C is not a container.",
+                    "score": "0.7266666666666667"
+                },
+                {
+                    "action": "activate stove",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\tsolid unknown substance C\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The stove is now activated.",
+                    "score": "0.7366666666666666"
+                },
+                {
+                    "action": "put solid unknown substance c on counter",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\tsolid unknown substance C\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the solid unknown substance C to the counter.",
+                    "score": "0.7366666666666666"
+                },
+                {
+                    "action": "put solid unknown substance c in oven",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer, solid unknown substance C.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "That can't be moved there, because the oven isn't open.",
+                    "score": "0.7366666666666666"
+                },
+                {
+                    "action": "open oven",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer, solid unknown substance C.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The oven is now open.",
+                    "score": "0.7366666666666666"
+                },
+                {
+                    "action": "put solid unknown substance c in oven",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer, solid unknown substance C.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned off. The oven door is open. In the oven is: nothing.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the solid unknown substance C to the oven.",
+                    "score": "0.7566666666666666"
+                },
+                {
+                    "action": "activate oven",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned off. The oven door is open. In the oven is: solid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The oven is now activated.",
+                    "score": "0.7766666666666666"
+                },
+                {
+                    "action": "wait1",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: solid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You decide to wait for 1 iterations.",
+                    "score": "0.7766666666666666"
+                },
+                {
+                    "action": "wait1",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You decide to wait for 1 iterations.",
+                    "score": "0.7766666666666666"
+                },
+                {
+                    "action": "use thermometer on solid unknown substance c",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.7766666666666666"
+                },
+                {
+                    "action": "use thermometer on solid unknown substance c",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.7766666666666666"
+                },
+                {
+                    "action": "use thermometer on solid unknown substance c",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.7766666666666666"
+                },
+                {
+                    "action": "use thermometer on solid unknown substance c",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.7766666666666666"
+                },
+                {
+                    "action": "use thermometer on solid unknown substance c",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.7766666666666666"
+                },
+                {
+                    "action": "wait1",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You decide to wait for 1 iterations.",
+                    "score": "0.7766666666666666"
+                },
+                {
+                    "action": "use thermometer on solid unknown substance c",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.7766666666666666"
+                },
+                {
+                    "action": "wait1",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You decide to wait for 1 iterations.",
+                    "score": "0.7766666666666666"
+                },
+                {
+                    "action": "use thermometer on solid unknown substance c",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.7766666666666666"
+                },
+                {
+                    "action": "use thermometer on liquid unknown substance c",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "the thermometer measures a temperature of 335 degrees celsius",
+                    "score": "0.7866666666666666"
+                },
+                {
+                    "action": "focus on orange box",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You focus on the orange box.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "focus on thermometer",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You focus on the thermometer.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "focus on solid unknown substance c",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "focus on liquid unknown substance c",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You focus on the liquid unknown substance C.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "look around",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "focus on solid unknown substance c",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "focus on liquid unknown substance c",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You focus on the liquid unknown substance C.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "wait1",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You decide to wait for 1 iterations.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "put liquid unknown substance c in freezer",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You can't pick up a liquid directly. Try pouring it from one container to another, or dunking empty containers into containers filled with the liquid.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "dunk cup in oven",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: liquid unknown substance C.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You dunk the glass cup in the oven, moving the liquids (liquid unknown substance C) to the glass cup.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "wait1",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: nothing.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing liquid unknown substance C).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You decide to wait for 1 iterations.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "wait1",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: nothing.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing liquid unknown substance C).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You decide to wait for 1 iterations.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "heat cup",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: nothing.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing liquid unknown substance C).\n\ta thermometer, currently reading a temperature of 11 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "use thermometer on cup",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: nothing.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing liquid unknown substance C).\n\ta thermometer, currently reading a temperature of 11 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "the thermometer measures a temperature of 148 degrees celsius",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "focus on yellow box",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta orange box (containing nothing)\n\ta oven, which is turned on. The oven door is open. In the oven is: nothing.\n\ta painting\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned on. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing liquid unknown substance C).\n\ta thermometer, currently reading a temperature of 11 degrees celsius\n\ta yellow box (containing nothing)\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "true",
+                    "observation": "You focus on the yellow box.",
+                    "score": "-1.0"
+                }
+            ],
+            "simplifications": "",
+            "taskDescription": "Your task is to measure the melting point of solid unknown substance C, which is located around the kitchen. First, focus on the thermometer. Next, focus on the solid unknown substance C. If the melting point of solid unknown substance C is above 150.0 degrees celsius, focus on the orange box. If the melting point of solid unknown substance C is below 150.0 degrees celsius, focus on the yellow box. The boxes are located around the kitchen.",
+            "taskIdx": "21",
+            "taskName": "measure-melting-point-unknown-substance",
+            "variationIdx": "0"
+        },
+        "notes": "v1"
+    }
+}

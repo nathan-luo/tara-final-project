@@ -1,0 +1,423 @@
+{
+    "0": {
+        "episodeIdx": 0,
+        "history": {
+            "history": [
+                {
+                    "action": "look around",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)",
+                    "score": "0.0"
+                },
+                {
+                    "action": "open art studio door",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.0"
+                },
+                {
+                    "action": "go art studio",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is open)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the art studio.",
+                    "score": "0.06666666666666667"
+                },
+                {
+                    "action": "look around",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is closed. \n\ta table. On the table is: a jug (containing nothing).\n\ta wood cup (containing yellow paint)\n\ta wood cup (containing red paint)\n\ta wood cup (containing blue paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is closed. \n\ta table. On the table is: a jug (containing nothing).\n\ta wood cup (containing yellow paint)\n\ta wood cup (containing red paint)\n\ta wood cup (containing blue paint)\nYou also see:\n\tA door to the hallway (that is open)",
+                    "score": "0.06666666666666667"
+                },
+                {
+                    "action": "open cupboard",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is closed. \n\ta table. On the table is: a jug (containing nothing).\n\ta wood cup (containing yellow paint)\n\ta wood cup (containing red paint)\n\ta wood cup (containing blue paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The large cupboard is now open.",
+                    "score": "0.06666666666666667"
+                },
+                {
+                    "action": "look in cupboard",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing red paint), a wood cup (containing blue paint), a wood cup (containing yellow paint).\n\ta table. On the table is: a jug (containing nothing).\n\ta wood cup (containing yellow paint)\n\ta wood cup (containing red paint)\n\ta wood cup (containing blue paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the large cupboard is: \n\ta drawer\n\ta wood cup (containing red paint)\n\ta wood cup (containing blue paint)\n\ta wood cup (containing yellow paint)",
+                    "score": "0.06666666666666667"
+                },
+                {
+                    "action": "open drawer",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing red paint), a wood cup (containing blue paint), a wood cup (containing yellow paint).\n\ta table. On the table is: a jug (containing nothing).\n\ta wood cup (containing yellow paint)\n\ta wood cup (containing red paint)\n\ta wood cup (containing blue paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The drawer is now open.",
+                    "score": "0.06666666666666667"
+                },
+                {
+                    "action": "look in drawer",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing red paint), a wood cup (containing blue paint), a wood cup (containing yellow paint).\n\ta table. On the table is: a jug (containing nothing).\n\ta wood cup (containing yellow paint)\n\ta wood cup (containing red paint)\n\ta wood cup (containing blue paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the drawer is: \n\tnothing",
+                    "score": "0.06666666666666667"
+                },
+                {
+                    "action": "go hallway",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing red paint), a wood cup (containing blue paint), a wood cup (containing yellow paint).\n\ta table. On the table is: a jug (containing nothing).\n\ta wood cup (containing yellow paint)\n\ta wood cup (containing red paint)\n\ta wood cup (containing blue paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the hallway.",
+                    "score": "0.06666666666666667"
+                },
+                {
+                    "action": "open bedroom door",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is open)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.06666666666666667"
+                },
+                {
+                    "action": "go bedroom",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is open)\n\tA door to the bedroom (that is open)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the bedroom.",
+                    "score": "0.06666666666666667"
+                },
+                {
+                    "action": "look around",
+                    "freelook": "This room is called the bedroom. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bed. On the bed is: a mattress. On the mattress is: a white pillow..\n\ta closet. The closet door is closed. \n\ta painting\n\ta table. On the table is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "This room is called the bedroom. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bed. On the bed is: a mattress. On the mattress is: a white pillow..\n\ta closet. The closet door is closed. \n\ta painting\n\ta table. On the table is: nothing.\nYou also see:\n\tA door to the hallway (that is open)",
+                    "score": "0.06666666666666667"
+                },
+                {
+                    "action": "open closet",
+                    "freelook": "This room is called the bedroom. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bed. On the bed is: a mattress. On the mattress is: a white pillow..\n\ta closet. The closet door is closed. \n\ta painting\n\ta table. On the table is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The closet is now open.",
+                    "score": "0.06666666666666667"
+                },
+                {
+                    "action": "look in closet",
+                    "freelook": "This room is called the bedroom. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bed. On the bed is: a mattress. On the mattress is: a white pillow..\n\ta closet. The closet door is open. In the closet is: nothing.\n\ta painting\n\ta table. On the table is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the closet is: \n\tnothing",
+                    "score": "0.06666666666666667"
+                },
+                {
+                    "action": "go hallway",
+                    "freelook": "This room is called the bedroom. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bed. On the bed is: a mattress. On the mattress is: a white pillow..\n\ta closet. The closet door is open. In the closet is: nothing.\n\ta painting\n\ta table. On the table is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the hallway.",
+                    "score": "0.06666666666666667"
+                },
+                {
+                    "action": "open door to workshop",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is open)\n\tA door to the bedroom (that is open)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.06666666666666667"
+                },
+                {
+                    "action": "go workshop",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is open)\n\tA door to the bedroom (that is open)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the workshop.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "focus on red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You focus on the red light bulb.",
+                    "score": "0.6333333333333333"
+                },
+                {
+                    "action": "connect battery to anode in red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Connections must specify specific points of contact on polarized electrical components (e.g. anode, cathode)",
+                    "score": "0.6333333333333333"
+                },
+                {
+                    "action": "connect anode in battery to anode in red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "anode on battery is now connected to anode on red light bulb",
+                    "score": "0.6333333333333333"
+                },
+                {
+                    "action": "connect battery cathode to cathode in red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "cathode on battery is now connected to cathode on red light bulb",
+                    "score": "0.6333333333333333"
+                },
+                {
+                    "action": "look at red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a red light bulb, which is off. its anode is connected to: a anode on battery. its cathode is connected to: a cathode on battery.",
+                    "score": "0.6333333333333333"
+                },
+                {
+                    "action": "activate battery",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The battery is not something that can be activated.",
+                    "score": "0.6333333333333333"
+                },
+                {
+                    "action": "activate switch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The switch is now activated.",
+                    "score": "0.6333333333333333"
+                },
+                {
+                    "action": "look at red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a red light bulb, which is off. its anode is connected to: a anode on battery. its cathode is connected to: a cathode on battery.",
+                    "score": "0.6333333333333333"
+                },
+                {
+                    "action": "disconnect anode in battery",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You must disconnect entire objects (such as battery) instead of just single terminals",
+                    "score": "0.6333333333333333"
+                },
+                {
+                    "action": "disconnect battery",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "battery has been disconnected",
+                    "score": "0.6333333333333333"
+                },
+                {
+                    "action": "connect anode in battery to black wire terminal 1",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "anode on battery is now connected to terminal 1 on black wire",
+                    "score": "0.6333333333333333"
+                },
+                {
+                    "action": "connect black wire terminal 2 to anode in red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "terminal 2 on black wire is now connected to anode on red light bulb",
+                    "score": "0.7666666666666666"
+                },
+                {
+                    "action": "connect battery cathode to blue wire terminal 1",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "cathode on battery is now connected to terminal 1 on blue wire",
+                    "score": "0.7666666666666666"
+                },
+                {
+                    "action": "connect blue wire terminal 2 to cathode in red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "terminal 2 on blue wire is now connected to cathode on red light bulb",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "look at red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a red light bulb, which is off. its anode is connected to: a terminal 2 on black wire. its cathode is connected to: a terminal 2 on blue wire.",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "look at switch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a switch, which is on. its anode is connected to: nothing. its cathode is connected to: nothing.",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "disconnect battery",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "battery has been disconnected",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "connect anode in battery to black wire terminal 1",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "anode on battery is now connected to terminal 1 on black wire",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "connect black wire terminal 2 to anode in switch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "terminal 2 on black wire is already connected, and must be disconnected before it can be connected to something else",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "disconnect black wire",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "black wire has been disconnected",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "connect anode in battery to black wire terminal 1",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "anode on battery is now connected to terminal 1 on black wire",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "connect black wire terminal 2 to anode in switch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "terminal 2 on black wire is now connected to anode on switch",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "connect cathode in switch to blue wire terminal 1",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "cathode on switch is now connected to terminal 1 on blue wire",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "connect blue wire terminal 2 to anode in red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "terminal 2 on blue wire is already connected, and must be disconnected before it can be connected to something else",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "disconnect blue wire",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "blue wire has been disconnected",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "connect cathode in switch to blue wire terminal 1",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "cathode on switch is now connected to terminal 1 on blue wire",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "connect blue wire terminal 2 to anode in red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "terminal 2 on blue wire is now connected to anode on red light bulb",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "connect battery cathode to orange wire terminal 1",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "cathode on battery is now connected to terminal 1 on orange wire",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "connect orange wire terminal 2 to cathode in red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "terminal 2 on orange wire is now connected to cathode on red light bulb",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "look at red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a red light bulb, which is off. its anode is connected to: a terminal 2 on blue wire. its cathode is connected to: a terminal 2 on orange wire.",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "look at switch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a switch, which is on. its anode is connected to: a terminal 2 on black wire. its cathode is connected to: a terminal 1 on blue wire.",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "deactivate switch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is on, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The switch is now deactivated.",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "look at red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a red light bulb, which is off. its anode is connected to: a terminal 2 on blue wire. its cathode is connected to: a terminal 2 on orange wire.",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "connect black wire terminal 2 to anode in switch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "terminal 2 on black wire is already connected, and must be disconnected before it can be connected to something else",
+                    "score": "0.8333333333333333"
+                }
+            ],
+            "simplifications": "",
+            "taskDescription": "Your task is to turn on the red light bulb. First, focus on the red light bulb. Then, create an electrical circuit that powers it on.",
+            "taskIdx": "25",
+            "taskName": "power-component",
+            "variationIdx": "0"
+        },
+        "notes": "v1"
+    }
+}

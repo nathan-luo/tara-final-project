@@ -1,0 +1,154 @@
+{
+    "1": [
+        "Okay, I need to get to the kitchen to find seeds.\n\n>>> open door to kitchen <<<"
+    ],
+    "2": [
+        "Now that the door to the kitchen is open, I can go into the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "3": [
+        "I am in the kitchen. I need to find an apple seed. I see \"apple seed on cup\" and \"seed apple seed in ceramic cup\". I will focus on the \"seed apple seed in ceramic cup\".\n\n>>> focus on seed apple seed in ceramic cup <<<",
+        "It seems there are multiple apple seeds. I will choose the first one.\n\n>>> 0 <<<"
+    ],
+    "4": [
+        "I have focused on the apple seed. Now I need to make changes to the environment to grow the plant. I need to get the seed out of the jar and into a suitable growing environment. I will pick up the apple seed.\n\n>>> pick up apple seed <<<",
+        "I will pick up the first apple seed.\n\n>>> 0 <<<"
+    ],
+    "5": [
+        "I have the apple seed in my inventory. Now I need to find a suitable place to plant it. The greenhouse seems like the best option. I need to go back to the hallway and then to the greenhouse.\n\n>>> go hallway <<<"
+    ],
+    "6": [
+        "I am in the hallway. I need to go to the greenhouse. The door to the greenhouse is closed.\n\n>>> open door to greenhouse <<<"
+    ],
+    "7": [
+        "Now that the door to the greenhouse is open, I can go into the greenhouse.\n\n>>> go greenhouse <<<"
+    ],
+    "8": [
+        "I am in the greenhouse. I have the apple seed in my inventory. I need to plant it in a flower pot. I see \"flower pot 1\", \"flower pot 2\", and \"flower pot 3\". I will use \"flower pot 1\". I need to put the apple seed in the soil in flower pot 1.\n\n>>> put down apple seed in flower pot 1 <<<"
+    ],
+    "9": [
+        "I see. I cannot directly \"put down apple seed in flower pot 1\". I need to use the \"move OBJ to OBJ\" action. I will move the apple seed to the soil in flower pot 1.\n\n>>> move apple seed to soil in flower pot 1 <<<"
+    ],
+    "10": [
+        "It seems I cannot directly move the apple seed to the soil. I need to \"put down\" the apple seed first, and then perhaps use a tool like a shovel to plant it. Or maybe I need to put it in the flower pot, and then it will automatically be in the soil. I will try to put down the apple seed in flower pot 1.\n\n>>> put down apple seed in flower pot 1 <<<"
+    ],
+    "11": [
+        "Okay, I understand. I need to use the available actions. I have the apple seed in my inventory. I need to get it into the flower pot. The action \"put down OBJ\" is available. I will try to put down the apple seed.\n\n>>> put down apple seed <<<"
+    ],
+    "12": [
+        "I have put down the apple seed in the greenhouse. It is now on the floor. I need to get it into the flower pot. I will try to pick up the apple seed and then put it into the flower pot.\n\n>>> pick up apple seed <<<"
+    ],
+    "13": [
+        "I have the apple seed in my inventory. I need to get it into the flower pot. I will try to use the \"move OBJ to OBJ\" action to move the apple seed to the soil in flower pot 1.\n\n>>> move apple seed to soil in flower pot 1 <<<"
+    ],
+    "14": [
+        "I am still struggling to plant the seed. I have the apple seed in my inventory. I have tried \"put down apple seed in flower pot 1\" and \"move apple seed to soil in flower pot 1\", both of which failed. I see \"shovel\" in the available objects. Perhaps I need to use the shovel to plant the seed. I will pick up the shovel.\n\n>>> pick up shovel <<<"
+    ],
+    "15": [
+        "I have the shovel and the apple seed in my inventory. I need to plant the apple seed in the soil. I will try to use the shovel on the soil, and then put the apple seed in the disturbed soil. Or perhaps I can use the shovel to plant the seed directly. I will try \"use shovel on soil in flower pot 1\".\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "16": [
+        "I am still in the greenhouse, with the apple seed and shovel in my inventory. I need to plant the seed. I have tried several ways to plant the seed, but none have worked. I see \"soil in flower pot 1\" as an available object. I will try to \"use\" the apple seed on the soil.\n\n>>> use apple seed on soil in flower pot 1 <<<"
+    ],
+    "17": [
+        "I am in the greenhouse. I have the apple seed and shovel in my inventory. I need to plant the seed. I have tried \"use apple seed on soil in flower pot 1\" and it failed. I also tried \"move apple seed to soil in flower pot 1\" and \"put down apple seed in flower pot 1\".\n\nI see \"soil in flower pot 1\" as an object. I also see \"flower pot 1\". I will try to \"put down\" the apple seed into \"flower pot 1\". This is different from putting it on the soil directly.\n\n>>> put down apple seed in flower pot 1 <<<"
+    ],
+    "18": [
+        "I am in the greenhouse. I have the apple seed and shovel in my inventory. I need to plant the seed. I have tried several actions, and none have worked. I need to re-evaluate the available actions and objects.\n\nI have the apple seed in my inventory. I need to get it into the flower pot. The action \"put down OBJ\" is available. I will try to put down the apple seed. This will place it on the floor of the greenhouse. Then, I will try to move it into the flower pot.\n\n>>> put down apple seed <<<"
+    ],
+    "19": [
+        "The apple seed is now on the floor of the greenhouse. I need to get it into a flower pot. I will try to \"move\" the apple seed to \"flower pot 1\".\n\n>>> move apple seed to flower pot 1 <<<"
+    ],
+    "20": [
+        "I have successfully moved the apple seed into flower pot 1. Now I need to make sure it's planted in the soil. I will try to \"use\" the apple seed on the soil in flower pot 1.\n\n>>> use apple seed on soil in flower pot 1 <<<"
+    ],
+    "21": [
+        "I have the apple seed in flower pot 1. I need to plant it. I have tried \"use apple seed on soil in flower pot 1\" and it failed. I also have the shovel in my inventory. I will try to use the shovel on the soil in flower pot 1.\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "22": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried using the shovel on the soil and using the apple seed on the soil, and neither worked.\n\nI need to think about how seeds are planted. They need to be in the soil, and then watered. I have the apple seed in the flower pot. Perhaps I need to \"bury\" the apple seed. I will try to \"move\" the apple seed to the \"soil in flower pot 1\".\n\n>>> move apple seed to soil in flower pot 1 <<<"
+    ],
+    "23": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"dunk\" the apple seed in the soil. This might be the equivalent of planting it.\n\n>>> dunk apple seed in soil in flower pot 1 <<<"
+    ],
+    "24": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI see \"soil in flower pot 1\" as an object. I also see \"use OBJ on OBJ\" as an available action. I will try to use the apple seed on the soil in flower pot 1.\n\n>>> use apple seed on soil in flower pot 1 <<<"
+    ],
+    "25": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"bury\" the apple seed in the soil. This is a common way to plant seeds.\n\n>>> bury apple seed in soil in flower pot 1 <<<"
+    ],
+    "26": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nLooking at the available actions, \"use OBJ on OBJ\" seems like the most promising. I have the apple seed and the soil. I will try to use the apple seed on the soil in flower pot 1 again, as it is the most logical action for planting. If that doesn't work, I will try to use the shovel on the soil.\n\n>>> use apple seed on soil in flower pot 1 <<<"
+    ],
+    "27": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to use the shovel on the soil in flower pot 1. Perhaps the shovel is needed to prepare the soil for planting.\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "28": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"pour\" the apple seed into the soil in flower pot 1. This might be the correct action for planting.\n\n>>> pour apple seed in soil in flower pot 1 <<<"
+    ],
+    "29": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI see \"soil in flower pot 1\" as an object. I also see \"use OBJ on OBJ\" as an available action. I will try to use the apple seed on the soil in flower pot 1 again. This is the most logical action for planting.\n\n>>> use apple seed on soil in flower pot 1 <<<"
+    ],
+    "30": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"put down\" the apple seed. It is currently in flower pot 1. Perhaps I need to put it down *into* the soil. I will try to put down the apple seed.\n\n>>> put down apple seed <<<"
+    ],
+    "31": [
+        "I am in the greenhouse. I have the apple seed on the floor of the greenhouse. I have the shovel in my inventory. I need to plant the seed.\n\nI will try to pick up the apple seed again, and then try to move it to the soil in flower pot 1.\n\n>>> pick up apple seed <<<"
+    ],
+    "32": [
+        "I have the apple seed in my inventory. I need to plant it in the soil. I will try to move the apple seed to the soil in flower pot 1.\n\n>>> move apple seed to soil in flower pot 1 <<<"
+    ],
+    "33": [
+        "I am in the greenhouse. I have the apple seed in my inventory. I have tried many actions to plant the seed, and none have worked. I have tried \"move apple seed to soil in flower pot 1\", \"put down apple seed in flower pot 1\", \"use apple seed on soil in flower pot 1\", \"dunk apple seed in soil in flower pot 1\", \"pour apple seed in soil in flower pot 1\", and \"bury apple seed in soil in flower pot 1\".\n\nI will try to \"put down\" the apple seed. This will place it on the floor of the greenhouse. Then, I will try to \"move\" the apple seed to \"flower pot 1\". I have done this before, and it worked. Once it is in the flower pot, I will try to use the shovel on the soil in the flower pot.\n\n>>> put down apple seed <<<"
+    ],
+    "34": [
+        "I am in the greenhouse. The apple seed is on the floor. I need to get it into a flower pot. I will try to move the apple seed to flower pot 1.\n\n>>> move apple seed to flower pot 1 <<<"
+    ],
+    "35": [
+        "I have the apple seed in flower pot 1. I need to plant it. I have tried many actions, and none have worked. I will try to use the shovel on the soil in flower pot 1. This is the most logical next step, as I have the shovel and the soil.\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "36": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"mix\" the apple seed with the soil in flower pot 1. This might be the correct action for planting.\n\n>>> mix apple seed with soil in flower pot 1 <<<"
+    ],
+    "37": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nGiven the available actions, \"use OBJ on OBJ\" is the most promising. I have the apple seed and the soil in flower pot 1. I will try to use the apple seed on the soil in flower pot 1 again. If that doesn't work, I will try to use the shovel on the soil in flower pot 1.\n\n>>> use apple seed on soil in flower pot 1 <<<"
+    ],
+    "38": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to use the shovel on the soil in flower pot 1. Perhaps the shovel is needed to prepare the soil for planting, and then the seed can be placed.\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "39": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"dunk\" the apple seed in the soil in flower pot 1. This is an available action, and it might be the correct way to plant the seed.\n\n>>> dunk apple seed in soil in flower pot 1 <<<"
+    ],
+    "40": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"pour\" the apple seed in the soil in flower pot 1. This is an available action, and it might be the correct way to plant the seed.\n\n>>> pour apple seed in soil in flower pot 1 <<<"
+    ],
+    "41": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"use\" the apple seed on the soil in flower pot 1. This is the most logical action for planting, and it is an available action.\n\n>>> use apple seed on soil in flower pot 1 <<<"
+    ],
+    "42": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"use\" the shovel on the soil in flower pot 1. Perhaps the shovel is needed to prepare the soil for planting.\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "43": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"mix\" the soil in flower pot 1. Perhaps this will prepare it for planting.\n\n>>> mix soil in flower pot 1 <<<"
+    ],
+    "44": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"use\" the apple seed on the soil in flower pot 1. This is the most logical action for planting, and it is an available action. I will keep trying this until it works or I get a different error message.\n\n>>> use apple seed on soil in flower pot 1 <<<"
+    ],
+    "45": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"use\" the apple seed on the soil in flower pot 1. This is the most logical action for planting, and it is an available action. I will keep trying this until it works or I get a different error message.\n\n>>> use apple seed on soil in flower pot 1 <<<"
+    ],
+    "46": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"use\" the shovel on the soil in flower pot 1. Perhaps the shovel is needed to prepare the soil for planting.\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "47": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"use\" the apple seed on the soil in flower pot 1. This is the most logical action for planting, and it is an available action. I will keep trying this until it works or I get a different error message.\n\n>>> use apple seed on soil in flower pot 1 <<<"
+    ],
+    "48": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"use\" the apple seed on the soil in flower pot 1. This is the most logical action for planting, and it is an available action. I will keep trying this until it works or I get a different error message.\n\n>>> use apple seed on soil in flower pot 1 <<<"
+    ],
+    "49": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"use\" the apple seed on the soil in flower pot 1. This is the most logical action for planting, and it is an available action. I will keep trying this until it works or I get a different error message.\n\n>>> use apple seed on soil in flower pot 1 <<<"
+    ],
+    "50": [
+        "I am in the greenhouse. I have the apple seed in flower pot 1. I have the shovel in my inventory. I need to plant the seed. I have tried many actions, and none have worked.\n\nI will try to \"use\" the apple seed on the soil in flower pot 1. This is the most logical action for planting, and it is an available action. I will keep trying this until it works or I get a different error message.\n\n>>> use apple seed on soil in flower pot 1 <<<"
+    ]
+}

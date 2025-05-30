@@ -1,0 +1,26 @@
+{
+    "1": [
+        "Since I need to find a plant, I should first go to the greenhouse where plants are typically found. I'll open the greenhouse door and enter.\n\n>>> open door to greenhouse <<<"
+    ],
+    "2": [
+        ">>> go greenhouse <<<"
+    ],
+    "3": [
+        "I see several plants here including an adult apple tree, adult cherry tree, and adult pea plant. I need to focus on one of these plants first. I'll focus on the adult pea plant since it's likely the smallest and easiest to move.\n\n>>> focus on adult pea plant <<<"
+    ],
+    "4": [
+        "Now that I've focused on the adult pea plant, I need to move it to the red box in the kitchen. First, I'll need to pick up the pea plant, then go to the kitchen, and finally move it to the red box there.\n\n>>> pick up adult pea plant <<<"
+    ],
+    "5": [
+        "Now that I have the pea plant in my inventory, I need to go to the kitchen where the red box is located. First, I'll return to the hallway.\n\n>>> go hallway <<<"
+    ],
+    "6": [
+        "Now I'll open the kitchen door and enter the kitchen to find the red box.\n\n>>> open door to kitchen <<<"
+    ],
+    "7": [
+        "Now I'll enter the kitchen to find the red box.\n\n>>> go kitchen <<<"
+    ],
+    "8": [
+        "I see the red box in the kitchen. Since I already have the adult pea plant in my inventory and have previously focused on it, I can now complete the task by moving it to the red box.\n\n>>> move adult pea plant to red box <<<"
+    ]
+}

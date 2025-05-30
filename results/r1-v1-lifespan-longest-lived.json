@@ -1,0 +1,20 @@
+{
+    "1": [
+        "I need to reach the \"outside\" location where the animals are located, but the hallway has no direct door to outside. The greenhouse might provide access to an outdoor area, so I'll start by opening its door. The available objects list includes \"door to greenhouse\", so I'll use that exact phrasing.\n\n>>> open door to greenhouse <<"
+    ],
+    "2": [
+        "The greenhouse door is now open, and since animals are located outside, I need to proceed to the greenhouse which may provide access to the outdoor area. I'll go through the open door to the greenhouse.\n\n>>> go greenhouse <<"
+    ],
+    "3": [
+        "I need to reach the \"outside\" location where the animals are located. The greenhouse has a \"door to outside\" listed among available objects. Since doors are typically closed initially, I'll open it first to access the outside area.\n\n>>> open door to outside <<"
+    ],
+    "4": [
+        "The door to outside is now open, and the task requires me to examine animals in the 'outside' location. I'll proceed outside to find the animals.\n\n>>> go outside <<"
+    ],
+    "5": [
+        "I need to examine the animals to determine which has the longest lifespan. The available animals are \"baby baby brown bear\", \"baby baby mouse\", and \"baby baby wolf\". I'll start by inspecting the brown bear to gather information about its lifespan.\n\n>>> look at baby baby brown bear <<"
+    ],
+    "6": [
+        "I need to determine the lifespan of each animal to identify the one with the longest. Since \"look at\" only provides basic descriptions, I'll use the \"focus on\" action to gather detailed information about each animal's lifespan, starting with the brown bear.\n\n>>> focus on baby baby brown bear <<"
+    ]
+}

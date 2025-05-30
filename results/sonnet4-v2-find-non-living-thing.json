@@ -1,0 +1,17 @@
+{
+    "1": [
+        "I need to find a non-living thing, focus on it, then move it to the red box in the kitchen. Looking at the current room (hallway), I can see a picture, which is a non-living thing. Let me first focus on the picture.\n\n>>> focus on picture <<<"
+    ],
+    "2": [
+        "Good! I've focused on the picture, which is a non-living thing. Now I need to move it to the red box in the kitchen. First, I need to pick up the picture so I can move it.\n\n>>> pick up picture <<<"
+    ],
+    "3": [
+        "Perfect! I have the picture in my inventory. Now I need to go to the kitchen to find the red box and move the picture there. I can see there's a door to the kitchen that I need to open first.\n\n>>> open door to kitchen <<<"
+    ],
+    "4": [
+        "Now I need to go to the kitchen to find the red box. The door to the kitchen is open, so I can go there.\n\n>>> go kitchen <<<"
+    ],
+    "5": [
+        "Great! I'm now in the kitchen and I can see the red box in the list of available objects. I have the picture (a non-living thing) in my inventory, and I've already focused on it. Now I need to move the picture to the red box to complete the task.\n\n>>> move picture to red box <<<"
+    ]
+}

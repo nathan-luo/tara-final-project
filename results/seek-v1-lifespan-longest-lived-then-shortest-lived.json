@@ -1,0 +1,35 @@
+{
+    "1": [
+        "I need to get to the 'outside' location to find the animals. Looking at the available doors, none directly lead to 'outside'. I'll check the greenhouse first since it might have access to outside.\n\n>>> go greenhouse <<<"
+    ],
+    "2": [
+        "I need to open the greenhouse door to access the outside area where the animals are located.\n\n>>> open door to greenhouse <<<"
+    ],
+    "3": [
+        "Now that the greenhouse door is open, I'll enter the greenhouse to see if it provides access to the outside area where the animals are located.\n\n>>> go greenhouse <<<"
+    ],
+    "4": [
+        "I see there's a door to outside in the greenhouse. I'll open this door to access the outside area where the animals are located.\n\n>>> open door to outside <<<"
+    ],
+    "5": [
+        "Now that the door to outside is open, I'll go outside to find the animals and determine which has the longest and shortest lifespan.\n\n>>> go outside <<<"
+    ],
+    "6": [
+        "I see three animals here: a baby brown bear, a baby mouse, and a baby wolf. To determine their lifespans, I'll examine each one in turn. First, I'll focus on the animal with the longest lifespan.\n\n1. Let's start by examining the baby brown bear:\n>>> focus on baby baby brown bear <<<"
+    ],
+    "7": [
+        "To determine the lifespan of the baby brown bear, I'll look at it to see if there's any information about its lifespan.\n\n>>> look at baby baby brown bear <<<"
+    ],
+    "8": [
+        "Since looking at the baby brown bear didn't provide lifespan information, I'll try examining it more closely to see if I can determine its lifespan characteristics.\n\n>>> examine baby baby brown bear <<<"
+    ],
+    "9": [
+        "Since examining the baby brown bear didn't provide lifespan information, I'll try focusing on the other animals to compare their lifespans. Next, I'll focus on the baby wolf which might have a different lifespan.\n\n>>> focus on baby baby wolf <<<"
+    ],
+    "10": [
+        "Now I'll examine the baby wolf to see if I can determine its lifespan characteristics.\n\n>>> examine baby baby wolf <<<"
+    ],
+    "11": [
+        "Since examining the baby wolf didn't provide lifespan information, I'll now focus on the remaining animal, the baby mouse, which might have a shorter lifespan.\n\n>>> focus on baby baby mouse <<<"
+    ]
+}

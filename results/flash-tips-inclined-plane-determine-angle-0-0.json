@@ -1,0 +1,423 @@
+{
+    "0": {
+        "episodeIdx": 0,
+        "history": {
+            "history": [
+                {
+                    "action": "look around",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)",
+                    "score": "0.0"
+                },
+                {
+                    "action": "open door to workshop",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.0"
+                },
+                {
+                    "action": "go to workshop",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the workshop.",
+                    "score": "0.1"
+                },
+                {
+                    "action": "pick up block",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C\n\ta stopwatch, which is deactivated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \n\ta wood block\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the wood block to the inventory.",
+                    "score": "0.1"
+                },
+                {
+                    "action": "use wood block on inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C\n\ta stopwatch, which is deactivated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta wood block\n",
+                    "isCompleted": "false",
+                    "observation": "I'm not sure how to use the wood block.",
+                    "score": "0.1"
+                },
+                {
+                    "action": "move wood block to inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C\n\ta stopwatch, which is deactivated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta wood block\n",
+                    "isCompleted": "false",
+                    "observation": "You move the wood block to the inclined plane.",
+                    "score": "0.15000000000000002"
+                },
+                {
+                    "action": "pick up stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 5% down the plane\n\tan inclined plane C\n\ta stopwatch, which is deactivated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the stopwatch to the inventory.",
+                    "score": "0.15000000000000002"
+                },
+                {
+                    "action": "look at inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 9% down the plane\n\tan inclined plane C\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta stopwatch, which is deactivated. The time reads 0 ticks.\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane B, with: a wood block approximately 9% down the plane",
+                    "score": "0.15000000000000002"
+                },
+                {
+                    "action": "put down stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 14% down the plane\n\tan inclined plane C\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta stopwatch, which is deactivated. The time reads 0 ticks.\n",
+                    "isCompleted": "false",
+                    "observation": "You move the stopwatch to the workshop.",
+                    "score": "0.15000000000000002"
+                },
+                {
+                    "action": "pick up block",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 19% down the plane\n\tan inclined plane C\n\ta stopwatch, which is deactivated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the wood block to the inventory.",
+                    "score": "0.15000000000000002"
+                },
+                {
+                    "action": "move wood block to inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C\n\ta stopwatch, which is deactivated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta wood block\n",
+                    "isCompleted": "false",
+                    "observation": "You move the wood block to the inclined plane.",
+                    "score": "0.15000000000000002"
+                },
+                {
+                    "action": "activate stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 5% down the plane\n\tan inclined plane C\n\ta stopwatch, which is deactivated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The stopwatch is now activated.",
+                    "score": "0.2"
+                },
+                {
+                    "action": "activate block",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 9% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The wood block is not something that can be activated.",
+                    "score": "0.2"
+                },
+                {
+                    "action": "pick up wood block",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 14% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the wood block to the inventory.",
+                    "score": "0.2"
+                },
+                {
+                    "action": "move wood block to inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta wood block\n",
+                    "isCompleted": "false",
+                    "observation": "You move the wood block to the inclined plane.",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 5% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane B, with: a wood block approximately 5% down the plane",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 9% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane B, with: a wood block approximately 9% down the plane",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 14% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane B, with: a wood block approximately 14% down the plane",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 19% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane B, with: a wood block approximately 19% down the plane",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 23% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a stopwatch, which is activated. The time reads 8 ticks.",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 28% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane B, with: a wood block approximately 28% down the plane",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 33% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a stopwatch, which is activated. The time reads 10 ticks.",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 38% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane B, with: a wood block approximately 38% down the plane",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 42% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a stopwatch, which is activated. The time reads 12 ticks.",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 47% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane B, with: a wood block approximately 47% down the plane",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 52% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a stopwatch, which is activated. The time reads 14 ticks.",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 56% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane B, with: a wood block approximately 56% down the plane",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 61% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a stopwatch, which is activated. The time reads 16 ticks.",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 66% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane B, with: a wood block approximately 66% down the plane",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 70% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a stopwatch, which is activated. The time reads 18 ticks.",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 75% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane B, with: a wood block approximately 75% down the plane",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 80% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a stopwatch, which is activated. The time reads 20 ticks.",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 85% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane B, with: a wood block approximately 85% down the plane",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 89% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a stopwatch, which is activated. The time reads 22 ticks.",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 94% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane B, with: a wood block approximately 94% down the plane",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block approximately 99% down the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a stopwatch, which is activated. The time reads 24 ticks.",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at inclined plane b",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block at the bottom of the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane B, with: a wood block at the bottom of the plane",
+                    "score": "0.2"
+                },
+                {
+                    "action": "look at stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block at the bottom of the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a stopwatch, which is activated. The time reads 26 ticks.",
+                    "score": "0.2"
+                },
+                {
+                    "action": "deactivate stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block at the bottom of the plane\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The stopwatch is now deactivated.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "pick up block",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B, with:  a wood block at the bottom of the plane\n\tan inclined plane C\n\ta stopwatch, which is deactivated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the wood block to the inventory.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "activate stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C\n\ta stopwatch, which is deactivated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta wood block\n",
+                    "isCompleted": "false",
+                    "observation": "The stopwatch is now activated.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "move wood block to inclined plane c",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta wood block\n",
+                    "isCompleted": "false",
+                    "observation": "You move the wood block to the inclined plane.",
+                    "score": "0.35"
+                },
+                {
+                    "action": "look at inclined plane c",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C, with:  a wood block approximately 5% down the plane\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane C, with: a wood block approximately 5% down the plane",
+                    "score": "0.35"
+                },
+                {
+                    "action": "look at inclined plane c",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C, with:  a wood block approximately 10% down the plane\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane C, with: a wood block approximately 10% down the plane",
+                    "score": "0.35"
+                },
+                {
+                    "action": "look at stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C, with:  a wood block approximately 15% down the plane\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a stopwatch, which is activated. The time reads 4 ticks.",
+                    "score": "0.39999999999999997"
+                },
+                {
+                    "action": "look at inclined plane c",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C, with:  a wood block approximately 20% down the plane\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane C, with: a wood block approximately 20% down the plane",
+                    "score": "0.39999999999999997"
+                },
+                {
+                    "action": "look at stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C, with:  a wood block approximately 25% down the plane\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a stopwatch, which is activated. The time reads 6 ticks.",
+                    "score": "0.39999999999999997"
+                },
+                {
+                    "action": "look at inclined plane c",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C, with:  a wood block approximately 30% down the plane\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane C, with: a wood block approximately 30% down the plane",
+                    "score": "0.39999999999999997"
+                },
+                {
+                    "action": "look at stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C, with:  a wood block approximately 34% down the plane\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a stopwatch, which is activated. The time reads 8 ticks.",
+                    "score": "0.39999999999999997"
+                },
+                {
+                    "action": "look at inclined plane c",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C, with:  a wood block approximately 39% down the plane\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "an inclined plane C, with: a wood block approximately 39% down the plane",
+                    "score": "0.39999999999999997"
+                },
+                {
+                    "action": "look at stopwatch",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\tan inclined plane B\n\tan inclined plane C, with:  a wood block approximately 44% down the plane\n\ta stopwatch, which is activated. \n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a stopwatch, which is activated. The time reads 10 ticks.",
+                    "score": "0.39999999999999997"
+                }
+            ],
+            "simplifications": "",
+            "taskDescription": "Your task is to determine which of the two inclined planes (C, B) has the shallowest angle. After completing your experiment, focus on the inclined plane with the shallowest angle.",
+            "taskIdx": "14",
+            "taskName": "inclined-plane-determine-angle",
+            "variationIdx": "0"
+        },
+        "notes": "v1"
+    }
+}

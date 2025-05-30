@@ -1,0 +1,17 @@
+{
+    "1": [
+        "I need to get to the \"outside\" location to find the animals. Looking at the available doors, none directly lead outside. I should explore other rooms to find a way outside. Let's start by checking the greenhouse, as greenhouses sometimes have outdoor access.\n\n>>> open door to greenhouse <<<"
+    ],
+    "2": [
+        ">>> go greenhouse <<<"
+    ],
+    "3": [
+        "I see there's a door to outside in the greenhouse! Let's go outside to find the animals.\n\n>>> open door to outside <<<"
+    ],
+    "4": [
+        ">>> go outside <<<"
+    ],
+    "5": [
+        "I see several animals here: a baby brown bear, a baby mouse, and a baby wolf. To determine which has the longest lifespan, I should focus on each one to get more information.\n\nFirst, let's focus on the baby brown bear.\n\n>>> focus on baby baby brown bear <<<"
+    ]
+}

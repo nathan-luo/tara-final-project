@@ -1,0 +1,17 @@
+{
+    "1": [
+        "To reach the 'outside' location where the animals are, I need to open one of the closed doors in the hallway. The task specifies that the animals are outside, so I will systematically open each door until I find the one that leads outside. Starting with the **door to the greenhouse**, as it is a common location connected to outdoor areas.\n\n>>> open door to greenhouse <<"
+    ],
+    "2": [
+        ">>> go greenhouse <<"
+    ],
+    "3": [
+        ">>> open door to outside <<"
+    ],
+    "4": [
+        ">>> go outside <<"
+    ],
+    "5": [
+        ">>> focus on baby baby brown bear <<"
+    ]
+}

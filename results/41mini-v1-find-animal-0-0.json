@@ -1,0 +1,423 @@
+{
+    "0": {
+        "episodeIdx": 0,
+        "history": {
+            "history": [
+                {
+                    "action": "look around",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)",
+                    "score": "0.0"
+                },
+                {
+                    "action": "open door to kitchen",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.08333333333333333"
+                },
+                {
+                    "action": "go kitchen",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is open)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the kitchen.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "look around",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta red box (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta red box (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)",
+                    "score": "0.25"
+                },
+                {
+                    "action": "open cupboard",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is closed. \n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta red box (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The cupboard is now open.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "look in cupboard",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is open. In the cupboard is: a ceramic cup (containing nothing), a drawer, a metal pot (containing nothing), a tin cup (containing nothing).\n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta red box (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the cupboard is: \n\ta ceramic cup (containing nothing)\n\ta drawer\n\ta metal pot (containing nothing)\n\ta tin cup (containing nothing)",
+                    "score": "0.25"
+                },
+                {
+                    "action": "open fridge",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is open. In the cupboard is: a ceramic cup (containing nothing), a drawer, a metal pot (containing nothing), a tin cup (containing nothing).\n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is closed. \n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta red box (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The fridge is now open.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "look in fridge",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is open. In the cupboard is: a ceramic cup (containing nothing), a drawer, a metal pot (containing nothing), a tin cup (containing nothing).\n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is open. In the fridge is: a wood cup (containing orange juice).\n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta red box (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the fridge is: \n\ta wood cup (containing orange juice)",
+                    "score": "0.25"
+                },
+                {
+                    "action": "open freezer",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is open. In the cupboard is: a ceramic cup (containing nothing), a drawer, a metal pot (containing nothing), a tin cup (containing nothing).\n\ta freezer. The freezer door is closed. \n\ta fridge. The fridge door is open. In the fridge is: a wood cup (containing orange juice).\n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta red box (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The freezer is now open.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "open door to greenhouse",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is open. In the cupboard is: a ceramic cup (containing nothing), a drawer, a metal pot (containing nothing), a tin cup (containing nothing).\n\ta freezer. The freezer door is open. In the freezer is: nothing.\n\ta fridge. The fridge door is open. In the fridge is: a wood cup (containing orange juice).\n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta red box (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "open door to greenhouse",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is open. In the cupboard is: a ceramic cup (containing nothing), a drawer, a metal pot (containing nothing), a tin cup (containing nothing).\n\ta freezer. The freezer door is open. In the freezer is: nothing.\n\ta fridge. The fridge door is open. In the fridge is: a wood cup (containing orange juice).\n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta red box (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "go greenhouse",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is open. In the cupboard is: a ceramic cup (containing nothing), a drawer, a metal pot (containing nothing), a tin cup (containing nothing).\n\ta freezer. The freezer door is open. In the freezer is: nothing.\n\ta fridge. The fridge door is open. In the fridge is: a wood cup (containing orange juice).\n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta red box (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "go bathroom door",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is open. In the cupboard is: a ceramic cup (containing nothing), a drawer, a metal pot (containing nothing), a tin cup (containing nothing).\n\ta freezer. The freezer door is open. In the freezer is: nothing.\n\ta fridge. The fridge door is open. In the fridge is: a wood cup (containing orange juice).\n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta red box (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is not open.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "open bathroom door",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is open. In the cupboard is: a ceramic cup (containing nothing), a drawer, a metal pot (containing nothing), a tin cup (containing nothing).\n\ta freezer. The freezer door is open. In the freezer is: nothing.\n\ta fridge. The fridge door is open. In the fridge is: a wood cup (containing orange juice).\n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta red box (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\nYou also see:\n\tA door to the bathroom (that is closed)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "go bathroom",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is open. In the cupboard is: a ceramic cup (containing nothing), a drawer, a metal pot (containing nothing), a tin cup (containing nothing).\n\ta freezer. The freezer door is open. In the freezer is: nothing.\n\ta fridge. The fridge door is open. In the fridge is: a wood cup (containing orange juice).\n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta red box (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\nYou also see:\n\tA door to the bathroom (that is open)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the bathroom.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "look around",
+                    "freelook": "This room is called the bathroom. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bathtub, which is turned off. In the bathtub is: nothing.\n\ta drawing\n\ta glass cup (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta toilet. In the toilet is: A drain, which is closed, a substance called water.\nYou also see:\n\tA door to the kitchen (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "This room is called the bathroom. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bathtub, which is turned off. In the bathtub is: nothing.\n\ta drawing\n\ta glass cup (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta toilet. In the toilet is: A drain, which is closed, a substance called water.\nYou also see:\n\tA door to the kitchen (that is open)",
+                    "score": "0.25"
+                },
+                {
+                    "action": "go hallway",
+                    "freelook": "This room is called the bathroom. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bathtub, which is turned off. In the bathtub is: nothing.\n\ta drawing\n\ta glass cup (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta toilet. In the toilet is: A drain, which is closed, a substance called water.\nYou also see:\n\tA door to the kitchen (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "go hallway",
+                    "freelook": "This room is called the bathroom. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bathtub, which is turned off. In the bathtub is: nothing.\n\ta drawing\n\ta glass cup (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta toilet. In the toilet is: A drain, which is closed, a substance called water.\nYou also see:\n\tA door to the kitchen (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "go kitchen",
+                    "freelook": "This room is called the bathroom. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bathtub, which is turned off. In the bathtub is: nothing.\n\ta drawing\n\ta glass cup (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta toilet. In the toilet is: A drain, which is closed, a substance called water.\nYou also see:\n\tA door to the kitchen (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the kitchen.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "go hallway",
+                    "freelook": "This room is called the kitchen. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta counter. On the counter is: a bowl (containing a red apple, a banana, an orange, a potato), a drawer.\n\ta cupboard. The cupboard door is open. In the cupboard is: a ceramic cup (containing nothing), a drawer, a metal pot (containing nothing), a tin cup (containing nothing).\n\ta freezer. The freezer door is open. In the freezer is: nothing.\n\ta fridge. The fridge door is open. In the fridge is: a wood cup (containing orange juice).\n\ta glass jar (containing a substance called sodium chloride)\n\ta lighter\n\ta oven, which is turned off. The oven door is closed. \n\ta painting\n\ta red box (containing nothing)\n\ta sink, which is turned off. In the sink is: nothing.\n\ta substance called soap\n\ta stopwatch, which is deactivated. \n\ta stove, which is turned off. On the stove is: nothing.\n\ta table. On the table is: a glass cup (containing nothing).\n\ta thermometer, currently reading a temperature of 10 degrees celsius\nYou also see:\n\tA door to the bathroom (that is open)\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the hallway.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "open door to living room",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is open)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "go living room",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is open)\n\tA door to the living room (that is open)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the living room.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "look around",
+                    "freelook": "This room is called the living room. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta couch. On the couch is: a white pillow.\n\ta desk. On the desk is: a drawer.\n\ta painting\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "This room is called the living room. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta couch. On the couch is: a white pillow.\n\ta desk. On the desk is: a drawer.\n\ta painting\nYou also see:\n\tA door to the hallway (that is open)",
+                    "score": "0.25"
+                },
+                {
+                    "action": "open drawer",
+                    "freelook": "This room is called the living room. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta couch. On the couch is: a white pillow.\n\ta desk. On the desk is: a drawer.\n\ta painting\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The drawer is now open.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "look in drawer",
+                    "freelook": "This room is called the living room. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta couch. On the couch is: a white pillow.\n\ta desk. On the desk is: a drawer.\n\ta painting\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the drawer is: \n\tnothing",
+                    "score": "0.25"
+                },
+                {
+                    "action": "go hallway",
+                    "freelook": "This room is called the living room. In it, you see: \n\tthe agent\n\ta substance called air\n\ta chair. On the chair is: nothing.\n\ta couch. On the couch is: a white pillow.\n\ta desk. On the desk is: a drawer.\n\ta painting\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the hallway.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "open door to greenhouse",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is open)\n\tA door to the living room (that is open)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "go greenhouse",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is open)\n\tA door to the living room (that is open)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the greenhouse.",
+                    "score": "0.25"
+                },
+                {
+                    "action": "focus on living thing in flower pot 2",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You focus on the pea plant.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "focus on bee hive",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You focus on the bee hive.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "look in bee hive",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The bee hive isn't open, so you can't see inside.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "open bee hive",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The bee hive is now open.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "focus on bee 0",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: a adult bee, a adult bee, a adult bee.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You focus on the adult bee.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "pick up bee 0",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: a adult bee, a adult bee.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the bee 0 to the inventory.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "move adult bee in bee hive to red box",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: a adult bee.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta adult bee\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "move adult bee in greenhouse to red box",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: a adult bee.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta adult bee\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "move adult bee in greenhouse to red box",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: a adult bee.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta adult bee\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "pick up adult bee in greenhouse",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: a adult bee.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta adult bee\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the bee 1 to the inventory.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "move bee 1 to red box",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta adult bee\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "move bee 1 to red box",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta adult bee\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "pick up bee 0",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta adult bee\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the bee 0 to the inventory.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "move bee 0 to red box",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta adult bee\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "pick up bee 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta adult bee\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the bee 1 to the inventory.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "focus on adult bee in flower",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You focus on the adult bee.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "pick up adult bee in greenhouse",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height. On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage. On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage. On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the bee 3 to the inventory.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "move bee 3 to red box",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height (that looks unwell). On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage (that looks unwell). On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage (that looks unwell). On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta adult bee\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "pick up bee 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height (that looks unwell). On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage (that looks unwell). On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage (that looks unwell). On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta adult bee\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the bee 1 to the inventory.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "move bee 1 to red box",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height (that looks unwell). On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage (that looks unwell). On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage (that looks unwell). On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "move bee 1 to red box",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height (that looks unwell). On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage (that looks unwell). On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage (that looks unwell). On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "move adult bee in flower to red box",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height (that looks unwell). On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage (that looks unwell). On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage (that looks unwell). On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "-1.0"
+                },
+                {
+                    "action": "focus on bee 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta flower pot 2 (containing a pea plant in the reproducing stage with a tall height (that looks unwell). On the pea plant you see: a purple flower. , soil)\n\ta flower pot 4 (containing a apple tree in the reproducing stage (that looks unwell). On the apple tree you see: a flower. , soil)\n\ta flower pot 5 (containing nothing)\n\ta flower pot 7 (containing a cherry tree in the reproducing stage (that looks unwell). On the cherry tree you see: a flower. , soil)\n\ta flower pot 9 (containing nothing)\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You focus on the adult bee.",
+                    "score": "-1.0"
+                }
+            ],
+            "simplifications": "",
+            "taskDescription": "Your task is to find a(n) animal. First, focus on the thing. Then, move it to the red box in the kitchen.",
+            "taskIdx": "5",
+            "taskName": "find-animal",
+            "variationIdx": "0"
+        },
+        "notes": "v1"
+    }
+}

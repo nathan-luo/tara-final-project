@@ -1,0 +1,423 @@
+{
+    "0": {
+        "episodeIdx": 0,
+        "history": {
+            "history": [
+                {
+                    "action": "look around",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)",
+                    "score": "0.0"
+                },
+                {
+                    "action": "open door to workshop",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.0"
+                },
+                {
+                    "action": "go to workshop",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the workshop.",
+                    "score": "0.1"
+                },
+                {
+                    "action": "focus on red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You focus on the red light bulb.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "pick up solar panel",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta solar panel, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the solar panel to the inventory.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "pick up red light bulb",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta red light bulb, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta solar panel, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "You move the red light bulb to the inventory.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "pick up black wire",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta red light bulb, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n\ta solar panel, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "You move the black wire to the inventory.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "go to hallway",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta table. On the table is: a battery, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta red light bulb, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n\ta solar panel, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "You move to the hallway.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "open door to greenhouse",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta red light bulb, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n\ta solar panel, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "go to greenhouse",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta red light bulb, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n\ta solar panel, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "You move to the greenhouse.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "open door to outside",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta red light bulb, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n\ta solar panel, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "go to outside",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta red light bulb, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n\ta solar panel, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "You move to the outside.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "put down solar panel",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta red light bulb, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n\ta solar panel, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "You move the solar panel to the outside.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "put down solar panel",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta red light bulb, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "You move the solar panel to the outside.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "put down red light bulb",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta red light bulb, which is off. its anode is connected to: nothing. its cathode is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "You move the red light bulb to the outside.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "connect generator to light",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Connections must specify specific points of contact on polarized electrical components (e.g. anode, cathode)",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "connect anode in generator to anode in light",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "anode on solar panel is now connected to anode on red light bulb",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "connect cathode in generator to cathode in light",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "cathode on solar panel is now connected to cathode on red light bulb",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "activate generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The solar panel is not something that can be activated.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "activate light",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The red light bulb is not something that can be activated.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "look at light",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a red light bulb, which is off. its anode is connected to: a anode on solar panel. its cathode is connected to: a cathode on solar panel.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "look at generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a solar panel, which is on. its anode is connected to: a anode on red light bulb. its cathode is connected to: a cathode on red light bulb.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "activate light",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The red light bulb is not something that can be activated.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "disconnect anode in generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You must disconnect entire objects (such as solar panel) instead of just single terminals",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "disconnect generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "solar panel has been disconnected",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "use black wire on generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "I'm not sure how to use the black wire.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "connect anode in generator to anode in light with black wire",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "go to greenhouse",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the greenhouse.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "go to hallway",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the hallway.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "go to workshop",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the workshop.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "pick up orange wire",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta table. On the table is: a battery, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the orange wire to the inventory.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "go to hallway",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta blue light bulb, which is off\n\ta electric buzzer, which is off\n\ta electric motor, which is off\n\ta gas generator, which is off\n\ta table. On the table is: a battery, a blue wire, a green light bulb, which is off, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "You move to the hallway.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "go to greenhouse",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "You move to the greenhouse.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "go to outside",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "You move to the outside.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "use black wire on anode in generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "I'm not sure how to use the black wire.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "use black wire on anode in generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "I'm not sure how to use the black wire.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "connect black wire to anode in generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "Connections must specify specific points of contact on unpolarized electrical components (e.g. terminal 1, terminal 2)",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "connect black wire to anode in generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "Connections must specify specific points of contact on unpolarized electrical components (e.g. terminal 1, terminal 2)",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "connect black wire to anode in generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "Connections must specify specific points of contact on unpolarized electrical components (e.g. terminal 1, terminal 2)",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "connect black wire to anode in generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "Connections must specify specific points of contact on unpolarized electrical components (e.g. terminal 1, terminal 2)",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "connect black wire to anode in generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "Connections must specify specific points of contact on unpolarized electrical components (e.g. terminal 1, terminal 2)",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "connect black wire to anode in generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "Connections must specify specific points of contact on unpolarized electrical components (e.g. terminal 1, terminal 2)",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "connect black wire to anode in generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "Connections must specify specific points of contact on unpolarized electrical components (e.g. terminal 1, terminal 2)",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "use black wire on anode in generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "I'm not sure how to use the black wire.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "connect terminal1 in black wire to anode in generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.43333333333333335"
+                },
+                {
+                    "action": "reset task",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "You reset the goal progress and focus.",
+                    "score": "0.1"
+                },
+                {
+                    "action": "connect black wire to anode in generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "Connections must specify specific points of contact on unpolarized electrical components (e.g. terminal 1, terminal 2)",
+                    "score": "0.1"
+                },
+                {
+                    "action": "connect black wire to anode in generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "Connections must specify specific points of contact on unpolarized electrical components (e.g. terminal 1, terminal 2)",
+                    "score": "0.1"
+                },
+                {
+                    "action": "connect anode in generator to black wire",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "Connections must specify specific points of contact on unpolarized electrical components (e.g. terminal 1, terminal 2)",
+                    "score": "0.1"
+                },
+                {
+                    "action": "connect anode in generator to anode in light with black wire",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.1"
+                },
+                {
+                    "action": "disconnect generator",
+                    "freelook": "This outside location is called the outside. Here you see: \n\tthe agent\n\ta substance called air\n\tan axe\n\ta fire pit (containing nothing)\n\ta fountain (containing a substance called water)\n\tthe ground\n\ta red light bulb, which is off\n\ta solar panel, which is on\n\ta substance called wood\nYou also see:\n\tA door to the foundry (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta black wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n\tan orange\n\ta orange wireits terminal 1 is connected to: nothing. its terminal 2 is connected to: nothing. \n",
+                    "isCompleted": "false",
+                    "observation": "solar panel has been disconnected",
+                    "score": "0.1"
+                }
+            ],
+            "simplifications": "",
+            "taskDescription": "Your task is to turn on the red light bulb by powering it using a renewable power source. First, focus on the red light bulb. Then, create an electrical circuit that powers it on.",
+            "taskIdx": "26",
+            "taskName": "power-component-renewable-vs-nonrenewable-energy",
+            "variationIdx": "0"
+        },
+        "notes": "v1"
+    }
+}

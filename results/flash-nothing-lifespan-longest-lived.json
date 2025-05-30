@@ -1,0 +1,23 @@
+{
+    "1": [
+        "I need to find the 'outside' location. None of the doors in the hallway lead directly to 'outside'. I will try opening the doors and exploring. I'll start with the greenhouse, as that seems like a likely place to find animals or a path to the outside.\n\n>>> open door to greenhouse <<<"
+    ],
+    "2": [
+        "I have opened the door to the greenhouse. Now I will go into the greenhouse to see if it leads to the outside or contains any animals.\n\n>>> go greenhouse <<<"
+    ],
+    "3": [
+        "I am in the greenhouse. I see a \"door to outside\". This is exactly what I need! I will go outside to find the animals.\n\n>>> go outside <<<"
+    ],
+    "4": [
+        "I made a mistake and tried to go outside without opening the door first. I need to open the door to outside.\n\n>>> open door to outside <<<"
+    ],
+    "5": [
+        "I have opened the door to outside. Now I can go outside to find the animals.\n\n>>> go outside <<<"
+    ],
+    "6": [
+        "I am now outside. I need to find the animals and then determine which one has the longest lifespan. I see \"baby baby brown bear\", \"baby baby mouse\", and \"baby baby wolf\". I will look at each of them to get more information. I'll start with the brown bear.\n\n>>> look at baby baby brown bear <<<"
+    ],
+    "7": [
+        "I have looked at the baby brown bear. Now I need to find out its lifespan. I don't see an obvious way to get lifespan information from \"look at\". I will try to \"focus on\" the bear, as that might give me more detailed information.\n\n>>> focus on baby baby brown bear <<<"
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "1": [
+        "I need to determine whether tall plant height is a dominant or recessive trait in pea plants. To do this, I'll need to find information about pea plant genetics. The greenhouse seems like the most logical place to find information about plants.\n\nLet me go to the greenhouse first.\n\n>>> open door to greenhouse <<<"
+    ],
+    "2": [
+        "Now I need to go into the greenhouse to look for information about pea plant genetics.\n\n>>> go greenhouse <<<"
+    ],
+    "3": [
+        "I can see I'm in the greenhouse and there are both a red box and green box here, along with pea seeds and flower pots. I need to determine whether tall plant height is dominant or recessive in pea plants. Let me first look around to get a better understanding of what's available.\n\n>>> look around <<<"
+    ],
+    "4": [
+        "I can see there are pea seeds in the seed jar and I need to determine if tall plant height is dominant or recessive in pea plants. Let me examine the seeds more closely to see if there are any clues about their traits.\n\n>>> look at seed jar <<<"
+    ],
+    "5": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me examine the individual seeds to see if there are any labels or information about their traits.\n\n>>> look at wrinkly green pea seed <<<"
+    ],
+    "6": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me check if there's any information I can read about the seeds or if there are any labels or documents in this room.\n\n>>> look at round green pea seed <<<"
+    ],
+    "7": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me check if there are any readable materials or labels in the greenhouse. I should also check the bee hive to see if there's any information there.\n\n>>> open bee hive <<<"
+    ],
+    "8": [
+        "I can see the bee hive is now open and there are bees and a ceramic cup inside. Let me check if there's any information in the ceramic cup that might help me understand pea plant genetics.\n\n>>> look at ceramic cup <<<"
+    ],
+    "9": [
+        "I need to find information about pea plant genetics. Let me check if there's anything readable in the ceramic cup or if I can read any of the objects in this room.\n\n>>> look in ceramic cup <<<"
+    ],
+    "10": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me try reading objects to see if there's any information available. Let me try reading the ceramic cup first.\n\n>>> read ceramic cup <<<"
+    ],
+    "11": [
+        "I need to find information about pea plant genetics. Let me check if there are any readable materials or documents in other rooms that might contain genetic information. Let me go back to the hallway and check other rooms.\n\n>>> go hallway <<<"
+    ],
+    "12": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me check the picture in the hallway to see if it contains any relevant information.\n\n>>> look at picture <<<"
+    ],
+    "13": [
+        "I need to find information about pea plant genetics. Let me try reading the picture to see if it contains any genetic information.\n\n>>> read picture <<<"
+    ],
+    "14": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me check other rooms for books, documents, or other sources of genetic information. Let me try the living room first.\n\n>>> open door to living room <<<"
+    ],
+    "15": [
+        "I need to find information about pea plant genetics. Let me go into the living room to look for books or other sources of information.\n\n>>> go living room <<<"
+    ],
+    "16": [
+        "I'm in the living room now. Let me look around to see what's available here, particularly looking for books or documents that might contain information about pea plant genetics.\n\n>>> look around <<<"
+    ],
+    "17": [
+        "I can see there's a desk with a drawer in the living room. The drawer might contain books or documents with information about pea plant genetics. Let me check the drawer.\n\n>>> open drawer <<<"
+    ],
+    "18": [
+        "I can see the drawer is now open. Let me look inside the drawer to see if there are any books or documents about pea plant genetics.\n\n>>> look in drawer <<<"
+    ],
+    "19": [
+        "The drawer is empty. Let me check the painting to see if it contains any information about genetics or pea plants.\n\n>>> look at painting <<<"
+    ],
+    "20": [
+        "I need to find information about pea plant genetics. Let me try reading the painting to see if it contains any genetic information.\n\n>>> read painting <<<"
+    ],
+    "21": [
+        "I need to find information about pea plant genetics. Let me check other rooms for books or documents. Let me go back to the hallway and try the bedroom.\n\n>>> go hallway <<<"
+    ],
+    "22": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me check the bedroom for books or documents.\n\n>>> open bedroom door <<<"
+    ],
+    "23": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me go into the bedroom to look for books or documents.\n\n>>> go bedroom <<<"
+    ],
+    "24": [
+        "I'm in the bedroom now. Let me look around to see what's available here, particularly looking for books or documents that might contain information about pea plant genetics.\n\n>>> look around <<<"
+    ],
+    "25": [
+        "I can see there's a closet in the bedroom that might contain books or documents about genetics. Let me open the closet to check for any educational materials.\n\n>>> open closet <<<"
+    ],
+    "26": [
+        "I can see the closet is now open. Let me look inside the closet to see if there are any books or documents about pea plant genetics.\n\n>>> look in closet <<<"
+    ],
+    "27": [
+        "I need to find information about pea plant genetics. Let me check other rooms for books or documents. Let me go back to the hallway and try the kitchen.\n\n>>> go hallway <<<"
+    ],
+    "28": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me check the kitchen for books or documents.\n\n>>> open door to kitchen <<<"
+    ],
+    "29": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me go into the kitchen to look for books or documents.\n\n>>> go kitchen <<<"
+    ],
+    "30": [
+        "I'm in the kitchen now. Let me look around to see what's available here, particularly looking for books or documents that might contain information about pea plant genetics.\n\n>>> look around <<<"
+    ],
+    "31": [
+        "I can see there's a drawer on the counter in the kitchen that might contain books or documents about genetics. Let me check the drawer.\n\n>>> open drawer <<<"
+    ],
+    "32": [
+        "I can see the drawer is now open. Let me look inside the drawer to see if there are any books or documents about pea plant genetics.\n\n>>> look in drawer <<<"
+    ],
+    "33": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me check the cupboard in the kitchen for books or documents.\n\n>>> open cupboard <<<"
+    ],
+    "34": [
+        "I can see the cupboard is now open and there are items inside including a drawer. Let me look inside the cupboard to see if there are any books or documents about pea plant genetics.\n\n>>> look in cupboard <<<"
+    ],
+    "35": [
+        "I can see there's another drawer inside the cupboard. Let me check this drawer for any books or documents about pea plant genetics.\n\n>>> open drawer in cupboard <<<"
+    ],
+    "36": [
+        "I can see the drawer in the cupboard is now open. Let me look inside this drawer to see if there are any books or documents about pea plant genetics.\n\n>>> look in drawer in cupboard <<<"
+    ],
+    "37": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me check other rooms for books or documents. Let me go back to the hallway and try the workshop.\n\n>>> go hallway <<<"
+    ],
+    "38": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me check the workshop for books or documents.\n\n>>> open door to workshop <<<"
+    ],
+    "39": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me go into the workshop to look for books or documents.\n\n>>> go workshop <<<"
+    ],
+    "40": [
+        "I'm in the workshop now and I can see there are light bulbs and electrical components here. Let me look around to see what's available in this room, particularly looking for any books or documents about pea plant genetics.\n\n>>> look around <<<"
+    ],
+    "41": [
+        "I can see there's an ultra low temperature freezer in the workshop that might contain scientific materials or documents about genetics. Let me check this freezer for any information about pea plant genetics.\n\n>>> open ultra low temperature freezer <<<"
+    ],
+    "42": [
+        "I can see the ultra low temperature freezer is now open. Let me look inside the freezer to see if there are any scientific materials or documents about pea plant genetics.\n\n>>> look in ultra low temperature freezer <<<"
+    ],
+    "43": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me check the art studio, which is the only room I haven't explored yet.\n\n>>> go hallway <<<"
+    ],
+    "44": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me check the art studio, which is the only room I haven't explored yet.\n\n>>> open door to art studio <<<"
+    ],
+    "45": [
+        "I need to find information about pea plant genetics to determine if tall plant height is dominant or recessive. Let me go into the art studio to look for books or documents.\n\n>>> go art studio <<<"
+    ],
+    "46": [
+        "I'm in the art studio now. Let me look around to see what's available here, particularly looking for any books or documents about pea plant genetics.\n\n>>> look around <<<"
+    ],
+    "47": [
+        "I can see there's a large cupboard in the art studio that might contain books or documents about pea plant genetics. Let me check this cupboard for any information.\n\n>>> open large cupboard <<<"
+    ],
+    "48": [
+        "I can see the large cupboard is now open. Let me look inside the cupboard to see if there are any books or documents about pea plant genetics.\n\n>>> look in cupboard <<<"
+    ],
+    "49": [
+        "I can see there's a drawer inside the large cupboard. Let me check this drawer for any books or documents about pea plant genetics.\n\n>>> open drawer <<<"
+    ],
+    "50": [
+        "I can see the drawer is now open. Let me look inside this drawer to see if there are any books or documents about pea plant genetics.\n\n>>> look in drawer <<<"
+    ]
+}

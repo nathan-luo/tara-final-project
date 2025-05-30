@@ -1,0 +1,155 @@
+{
+    "1": [
+        "I need to get to the kitchen to find seeds. I will open the door to the kitchen.\n\n>>> open door to kitchen <<<"
+    ],
+    "2": [
+        "I have opened the door to the kitchen. Now I need to go into the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "3": [
+        "I am in the kitchen. I need to find seeds. I will look around the kitchen to find them.\n\n>>> look around <<<"
+    ],
+    "4": [
+        "I have found the seed jar containing apple seeds. I need to pick up some apple seeds.\n\n>>> pick up apple seed from seed jar <<<"
+    ],
+    "5": [
+        "I need to pick up the apple seeds. The available action is \"pick up OBJ\". The object is \"apple seed\". I will try to pick up an apple seed.\n\n>>> pick up apple seed <<<",
+        "I need to pick up an apple seed. I will pick up the first one.\n\n>>> 0 <<<"
+    ],
+    "6": [
+        "I have one apple seed. I need to grow a plant. I will need to go to the greenhouse to plant it. First, I need to go back to the hallway.\n\n>>> go hallway <<<"
+    ],
+    "7": [
+        "I am in the hallway. I need to go to the greenhouse. The door to the greenhouse is closed. I will open the door to the greenhouse.\n\n>>> open door to greenhouse <<<"
+    ],
+    "8": [
+        "I have opened the door to the greenhouse. Now I need to go into the greenhouse.\n\n>>> go greenhouse <<<"
+    ],
+    "9": [
+        "I am in the greenhouse. I have an apple seed in my inventory. I need to plant the apple seed in a flower pot. I will use the shovel to plant the seed in flower pot 1.\n\n>>> use shovel on flower pot 1 <<<"
+    ],
+    "10": [
+        "I need to plant the apple seed. I have the apple seed in my inventory. I need to put the apple seed in the flower pot. I will use the \"put down OBJ\" action.\n\n>>> put down apple seed in flower pot 1 <<<"
+    ],
+    "11": [
+        "I need to plant the apple seed. I have the apple seed in my inventory. I need to put the apple seed in the flower pot. I will try \"put down apple seed\".\n\n>>> put down apple seed <<<"
+    ],
+    "12": [
+        "I have put down the apple seed in the greenhouse. It is now on the ground. I need to put it in flower pot 1. I will use the \"put down OBJ in OBJ\" action.\n\n>>> put down apple seed in flower pot 1 <<<"
+    ],
+    "13": [
+        "I have the apple seed in the greenhouse. I need to put it in flower pot 1. I will try \"move apple seed to flower pot 1\".\n\n>>> move apple seed to flower pot 1 <<<"
+    ],
+    "14": [
+        "I have moved the apple seed to flower pot 1. Now I need to cover it with soil. I will use the shovel to cover the apple seed with soil in flower pot 1.\n\n>>> use shovel on flower pot 1 <<<"
+    ],
+    "15": [
+        "I have the apple seed in flower pot 1. I need to cover it with soil. I see \"soil in flower pot 1\" as an object. I will use the shovel on the soil in flower pot 1.\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "16": [
+        "I have the apple seed in flower pot 1. I need to cover it with soil. I have a shovel. I will try to use the shovel on flower pot 1.\n\n>>> use shovel on flower pot 1 <<<"
+    ],
+    "17": [
+        "I have the apple seed in flower pot 1. I need to cover it with soil. I will try to use the shovel on the apple seed.\n\n>>> use shovel on apple seed <<<"
+    ],
+    "18": [
+        "I have the apple seed in flower pot 1. I need to cover it with soil. I have a shovel. I will try to use the shovel on the soil in flower pot 1.\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "19": [
+        "I have the apple seed in flower pot 1. I need to cover it with soil. I have a shovel. I will try to use the shovel on flower pot 1.\n\n>>> use shovel on flower pot 1 <<<"
+    ],
+    "20": [
+        "I have the apple seed in flower pot 1. I need to cover it with soil. I have a shovel. I will try to use the shovel on the soil in flower pot 1.\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "21": [
+        "I have the apple seed in flower pot 1. I need to cover it with soil. I have a shovel. I will try to use the shovel on flower pot 1.\n\n>>> use shovel on flower pot 1 <<<"
+    ],
+    "22": [
+        "I have the apple seed in flower pot 1. I need to cover it with soil. I have a shovel. I will try to use the shovel on the soil in flower pot 1.\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "23": [
+        "I have the apple seed in flower pot 1. I need to cover it with soil. I have a shovel. I will try to use the shovel on flower pot 1. I have tried this several times and it has not worked. I will try to use the shovel on the soil in flower pot 1. I have tried this several times and it has not worked.\n\nI need to plant the seed. I have the seed in the flower pot. I need to cover it with soil. I will try to use the shovel on the flower pot 1.\n\n>>> use shovel on flower pot 1 <<<"
+    ],
+    "24": [
+        "I have the apple seed in flower pot 1. I need to cover it with soil. I have a shovel. I have tried using the shovel on the flower pot and the soil in the flower pot, but it hasn't worked.\n\nI will try to use the shovel on the apple seed.\n\n>>> use shovel on apple seed <<<"
+    ],
+    "25": [
+        "I have the apple seed in flower pot 1. I need to cover it with soil. I have a shovel. I have tried using the shovel on the flower pot, the soil in the flower pot, and the apple seed, but it hasn't worked.\n\nI will try to use the shovel on the soil in flower pot 1. I see \"soil in flower pot 1\" as an object.\n\n>>> use shovel on soil in flower pot 1 <<<"
+    ],
+    "26": [
+        "I have the apple seed in flower pot 1. I need to cover it with soil. I have a shovel. I have tried using the shovel on the flower pot, the soil in the flower pot, and the apple seed, but it hasn't worked.\n\nI will try to use the shovel on the flower pot 1. I have tried this several times and it has not worked.\n\nI will try to use the shovel on the soil in flower pot 1. I have tried this several times and it has not worked.\n\nI will try to use the shovel on the apple seed. I have tried this several times and it has not worked.\n\nI am stuck on how to cover the seed with soil. I will try to pick up the soil in flower pot 1.\n\n>>> pick up soil in flower pot 1 <<<"
+    ],
+    "27": [
+        "I have picked up the soil from flower pot 1. I have the apple seed in flower pot 1. I need to put the soil back into flower pot 1 to cover the apple seed.\n\n>>> put down soil in flower pot 1 <<<"
+    ],
+    "28": [
+        "I have the soil in my inventory. I need to put it back into flower pot 1 to cover the apple seed. I will use the \"put down OBJ\" action.\n\n>>> put down soil <<<",
+        "I need to put the soil back into flower pot 1. I will choose option 0, assuming it means flower pot 1.\n\n>>> 0 <<<"
+    ],
+    "29": [
+        "I have put the soil down in the greenhouse. I need to put it specifically in flower pot 1 to cover the apple seed. I will try to move the soil to flower pot 1.\n\n>>> move soil to flower pot 1 <<<",
+        "I have the soil in my inventory. I need to move it to flower pot 1. I will choose option 2.\n\n>>> 2 <<<"
+    ],
+    "30": [
+        "I have successfully moved the soil to flower pot 1, covering the apple seed. Now I need to water the plant. I see a sink in the greenhouse. I will fill the jug with water from the sink.\n\n>>> fill jug with water from sink <<<"
+    ],
+    "31": [
+        "I need to water the plant. I have a jug and a sink. I need to fill the jug with water. I will try to use the jug on the sink.\n\n>>> use jug on sink <<<"
+    ],
+    "32": [
+        "I need to water the plant. I have a jug and a sink. I need to fill the jug with water. I will try to \"fill jug\".\n\n>>> fill jug <<<"
+    ],
+    "33": [
+        "I need to water the plant. I have a jug and a sink. I need to fill the jug with water. I will try to use the sink.\n\n>>> use sink <<<"
+    ],
+    "34": [
+        "I need to water the plant. I have a jug and a sink. I need to fill the jug with water. I will try to use the jug on the sink. I see \"jug\" and \"sink\" as available objects. I will try \"use jug on sink\".\n\n>>> use jug on sink <<<"
+    ],
+    "35": [
+        "I need to water the plant. I have a jug and a sink. I need to fill the jug with water. I will try to use the \"pour OBJ in OBJ\" action. I will pour water into the jug. I need to get water first. I will try to use the sink to get water.\n\n>>> use sink <<<"
+    ],
+    "36": [
+        "I need to water the plant. I have a jug and a sink. I need to fill the jug with water. I will try to use the jug on the sink. I have tried this before and it did not work.\n\nI will try to pick up the jug.\n\n>>> pick up jug <<<"
+    ],
+    "37": [
+        "I have picked up the jug. I need to fill it with water from the sink. I will try to use the jug on the sink.\n\n>>> use jug on sink <<<"
+    ],
+    "38": [
+        "I have the jug in my inventory. I need to fill it with water from the sink. I will try to \"dunk jug in sink\".\n\n>>> dunk jug in sink <<<"
+    ],
+    "39": [
+        "The sink does not contain any liquids. I need to find a source of water. I see a \"sink\" in the greenhouse. I will try to \"activate sink\" to get water.\n\n>>> activate sink <<<"
+    ],
+    "40": [
+        "The sink is now activated. I can now fill the jug with water. I have the jug in my inventory. I will try to \"dunk jug in sink\".\n\n>>> dunk jug in sink <<<"
+    ],
+    "41": [
+        "The sink is activated, but it says it does not contain any liquids. This is confusing. I need to get water. I will try to \"fill jug with water from sink\".\n\n>>> fill jug with water from sink <<<"
+    ],
+    "42": [
+        "The sink is activated, but I cannot get water from it. I need to water the plant. I have the jug in my inventory. I will try to \"pour jug in flower pot 1\".\n\n>>> pour jug in flower pot 1 <<<"
+    ],
+    "43": [
+        "I have poured the contents of the jug into flower pot 1. The jug was empty, so I still need to get water. The sink is activated, but I cannot get water from it. I will try to \"fill jug from sink\".\n\n>>> fill jug from sink <<<"
+    ],
+    "44": [
+        "I have the jug in my inventory. The sink is activated. I need to get water. I will try to \"use sink\".\n\n>>> use sink <<<"
+    ],
+    "45": [
+        "I am in the greenhouse. I have planted the apple seed in flower pot 1. I need to water it. I have the jug in my inventory. The sink is activated, but I cannot get water from it. I have tried \"dunk jug in sink\", \"fill jug from sink\", and \"use sink\". None of these actions have worked to get water.\n\nI will try to \"look in sink\" to see if there is water.\n\n>>> look in sink <<<"
+    ],
+    "46": [
+        "The sink is activated, but there is nothing in it. I need to get water. I will try to \"fill jug\".\n\n>>> fill jug <<<"
+    ],
+    "47": [
+        "I have the jug in my inventory. I need to get water. The sink is activated, but it has no water. I will try to \"use jug on sink\" again, as it is the most logical way to fill it.\n\n>>> use jug on sink <<<"
+    ],
+    "48": [
+        "I am in the greenhouse. I have planted the apple seed in flower pot 1. I need to water it. I have the jug in my inventory. The sink is activated, but it has no water. I have tried \"dunk jug in sink\", \"fill jug from sink\", and \"use sink\". None of these actions have worked to get water. I have also tried \"use jug on sink\" and it says \"I'm not sure how to use the jug.\"\n\nI will try to \"pour water in jug\".\n\n>>> pour water in jug <<<"
+    ],
+    "49": [
+        "I am in the greenhouse. I have planted the apple seed in flower pot 1. I need to water it. I have the jug in my inventory. The sink is activated, but it has no water. I have tried many ways to get water from the sink, but none have worked.\n\nI will try to \"look at sink\" to see if there is any information about how to get water from it.\n\n>>> look at sink <<<"
+    ],
+    "50": [
+        "The sink is turned on, but there is nothing in it. I have tried many ways to get water from the sink, but none have worked. I will try to \"dunk jug in sink\" again, as it is the only action that seems to relate to getting water from the sink.\n\n>>> dunk jug in sink <<<"
+    ]
+}

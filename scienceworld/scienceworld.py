@@ -371,6 +371,7 @@ class ScienceWorldEnv:
             filenameOut += "-" + str(keyFirst) + "-" + str(keyLast)
 
         filenameOut += ".json"
+        filenameOut = "results/" + filenameOut
 
         logger.info("* Saving run history (" + str(filenameOut) + ")...")
 

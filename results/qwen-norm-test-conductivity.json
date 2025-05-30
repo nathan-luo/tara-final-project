@@ -1,0 +1,152 @@
+{
+    "1": [
+        ">>> open door to workshop <<"
+    ],
+    "2": [
+        ">>> go workshop <<"
+    ],
+    "3": [
+        ">>> focus on aluminum foil <<"
+    ],
+    "4": [
+        "To determine if aluminum foil is electrically conductive, I will construct a simple circuit using the battery, aluminum foil, and red light bulb. If the bulb lights up, the foil is conductive; otherwise, it is not.\n\n1. **Connect the battery's anode to the aluminum foil** to allow current flow.\n2. **Connect the aluminum foil to the red light bulb's anode** to complete the path.\n3. **Connect the red light bulb's cathode to the battery's cathode** to close the circuit.\n4. **Observe the red light bulb** to determine if it illuminates, indicating conductivity.\n\nIf the bulb lights up, the aluminum foil is conductive and should be placed in the red box. If not, it is nonconductive and should go in the green box.\n\n>>> connect anode in battery to aluminum foil <<"
+    ],
+    "5": [
+        ">>> connect aluminum foil to anode in red light bulb <<"
+    ],
+    "6": [
+        ">>> connect cathode in red light bulb to battery cathode <<"
+    ],
+    "7": [
+        ">>> activate battery <<"
+    ],
+    "8": [
+        ">>> activate switch <<"
+    ],
+    "9": [
+        ">>> look at red light bulb <<"
+    ],
+    "10": [
+        ">>> move aluminum foil to green box <<"
+    ],
+    "11": [
+        "The experiment concluded that aluminum foil is electrically nonconductive based on the red light bulb remaining off. The aluminum foil was moved to the green box as instructed.\n\n>>> task <<"
+    ],
+    "12": [
+        ">>> reset task <<"
+    ],
+    "13": [
+        ">>> focus on aluminum foil <<"
+    ],
+    "14": [
+        "To determine if aluminum foil is electrically conductive, I will construct a circuit with the battery, aluminum foil, and a light bulb. If the bulb illuminates, the foil is conductive; otherwise, it is not.\n\n1. **Connect the battery's anode to the aluminum foil** to allow current flow.\n2. **Connect the aluminum foil to the anode of a light bulb** to complete the path.\n3. **Connect the bulb's cathode to the battery's cathode** to close the circuit.\n4. **Activate the switch** to power the circuit.\n5. **Observe the bulb** to determine conductivity.\n\nIf the bulb lights up, place the foil in the red box. If not, place it in the green box.\n\n>>> connect anode in battery to aluminum foil <<"
+    ],
+    "15": [
+        ">>> connect aluminum foil terminal 2 to anode in red light bulb <<"
+    ],
+    "16": [
+        ">>> connect aluminum foil terminal 2 to anode in green light bulb <<"
+    ],
+    "17": [
+        ">>> connect cathode in red light bulb to battery cathode <<"
+    ],
+    "18": [
+        ">>> disconnect cathode in red light bulb <<"
+    ],
+    "19": [
+        "To properly test conductivity, I'll disconnect the red light bulb to reconfigure the circuit correctly. Then I'll reconnect all components in sequence to ensure a valid circuit path before testing again.\n\n>>> disconnect red light bulb <<"
+    ],
+    "20": [
+        ">>> connect anode in battery to aluminum foil <<"
+    ],
+    "21": [
+        "To accurately determine aluminum foil's conductivity, the circuit must include the switch. Here's the corrected approach:\n\n1. **Disconnect existing connections** to reset the circuit.\n2. **Connect battery anode \u2192 switch** to integrate the switch.\n3. **Connect switch \u2192 aluminum foil** to route current through the foil.\n4. **Connect aluminum foil \u2192 red light bulb's anode** to complete the path.\n5. **Connect red light bulb's cathode \u2192 battery cathode** to close the circuit.\n6. **Activate the switch** to enable current flow.\n7. **Observe the bulb**: If it lights, the foil is conductive (red box); if not, nonconductive (green box).\n\n>>> disconnect anode in battery from aluminum foil <<"
+    ],
+    "22": [
+        "To accurately determine aluminum foil's conductivity, the circuit must include the switch in series. Here's the corrected procedure:\n\n1. **Disconnect aluminum foil** to reset all connections.\n2. **Connect battery anode \u2192 switch** to integrate the switch.\n3. **Connect switch \u2192 aluminum foil** to route current through the foil.\n4. **Connect aluminum foil \u2192 red light bulb's anode** to complete the path.\n5. **Connect red light bulb's cathode \u2192 battery cathode** to close the circuit.\n6. **Activate the switch** to enable current flow.\n7. **Observe the bulb**: If it lights, the foil is conductive (red box); if not, nonconductive (green box).\n\n>>> disconnect aluminum foil <<"
+    ],
+    "23": [
+        "To accurately test conductivity, the circuit must include the switch in series. Here's the corrected procedure:\n\n1. **Connect battery anode \u2192 switch** to integrate the switch.\n2. **Connect switch \u2192 aluminum foil** to route current through the foil.\n3. **Connect aluminum foil \u2192 red light bulb's anode** to complete the path.\n4. **Connect red light bulb's cathode \u2192 battery cathode** to close the circuit.\n5. **Activate the switch** to enable current flow.\n6. **Observe the bulb**: If it lights, the foil is conductive (red box); if not, nonconductive (green box).\n\n>>> connect anode in battery to switch <<"
+    ],
+    "24": [
+        "To accurately determine aluminum foil's conductivity, the circuit must include the switch in series. Here's the corrected procedure:\n\n1. **Connect battery anode \u2192 switch** to integrate the switch into the circuit.\n2. **Connect switch \u2192 aluminum foil** to route current through the foil.\n3. **Connect aluminum foil \u2192 red light bulb's anode** to complete the path.\n4. **Connect red light bulb's cathode \u2192 battery cathode** to close the circuit.\n5. **Activate the switch** to enable current flow.\n6. **Observe the bulb**: If it lights, the foil is conductive (red box); if not, nonconductive (green box).\n\n>>> connect anode in battery to switch <<"
+    ],
+    "25": [
+        "To accurately test aluminum foil's conductivity, the circuit must include the switch in series. Here's the corrected procedure:\n\n1. **Connect battery anode \u2192 switch terminal 1** to integrate the switch.\n2. **Connect switch terminal 2 \u2192 aluminum foil** to route current through the foil.\n3. **Connect aluminum foil \u2192 red light bulb's anode** to complete the path.\n4. **Connect red light bulb's cathode \u2192 battery cathode** to close the circuit.\n5. **Activate the switch** to enable current flow.\n6. **Observe the bulb**: If it lights, the foil is conductive (red box); if not, nonconductive (green box).\n\n>>> connect anode in battery to terminal 1 on switch <<"
+    ],
+    "26": [
+        ">>> pick up switch <<"
+    ],
+    "27": [
+        "To accurately determine aluminum foil's conductivity, the circuit must include the switch in series. Here's the corrected procedure:\n\n1. **Connect battery anode \u2192 switch** to integrate the switch into the circuit.\n2. **Connect switch \u2192 aluminum foil terminal 1** to route current through the foil.\n3. **Connect aluminum foil terminal 2 \u2192 red light bulb's anode** to complete the path.\n4. **Connect red light bulb's cathode \u2192 battery cathode** to close the circuit.\n5. **Activate the switch** to enable current flow.\n6. **Observe the bulb**: If it lights, the foil is conductive (red box); if not, nonconductive (green box).\n\n>>> connect anode in battery to switch <<"
+    ],
+    "28": [
+        "To accurately determine aluminum foil's conductivity, the circuit must include the switch with proper terminal connections. Here's the corrected procedure:\n\n1. **Connect battery anode \u2192 switch terminal 1** to integrate the switch.\n2. **Connect switch terminal 2 \u2192 aluminum foil terminal 1** to route current through the foil.\n3. **Connect aluminum foil terminal 2 \u2192 red light bulb's anode** to complete the path.\n4. **Connect red light bulb's cathode \u2192 battery cathode** to close the circuit.\n5. **Activate the switch** to enable current flow.\n6. **Observe the bulb**: If it lights, the foil is conductive (red box); if not, nonconductive (green box).\n\n>>> connect anode in battery to terminal 1 on switch <<"
+    ],
+    "29": [
+        ">>> connect anode in battery to switch <<"
+    ],
+    "30": [
+        ">>> connect anode in battery to switch <<"
+    ],
+    "31": [
+        ">>> connect anode in battery to switch <<"
+    ],
+    "32": [
+        "To accurately determine aluminum foil's conductivity, the circuit must include the battery, switch, and light bulb in series with proper connections. Here's the corrected procedure:\n\n1. **Pick up a black wire** to connect components with terminals.\n2. **Connect battery anode \u2192 black wire terminal 1** to route current.\n3. **Connect black wire terminal 2 \u2192 switch** to integrate the switch.\n4. **Connect switch \u2192 aluminum foil terminal 1** to test conductivity.\n5. **Connect aluminum foil terminal 2 \u2192 red light bulb's anode** to complete the path.\n6. **Connect red light bulb's cathode \u2192 battery cathode** to close the circuit.\n7. **Activate the switch** and observe the bulb: light = conductive (red box), no light = nonconductive (green box).\n\n>>> pick up black wire <<"
+    ],
+    "33": [
+        "To accurately test aluminum foil's conductivity, the circuit must include the battery, switch, and light bulb in series with proper terminal connections. Here's the corrected procedure:\n\n1. **Connect battery anode \u2192 black wire terminal 1** to route current.\n2. **Connect black wire terminal 2 \u2192 switch** to integrate the switch.\n3. **Connect switch \u2192 aluminum foil terminal 1** to test conductivity.\n4. **Connect aluminum foil terminal 2 \u2192 red light bulb's anode** to complete the path.\n5. **Connect red light bulb's cathode \u2192 battery cathode** to close the circuit.\n6. **Activate the switch** and observe the bulb: light = conductive (red box), no light = nonconductive (green box).\n\n>>> connect anode in battery to black wire terminal 1 <<"
+    ],
+    "34": [
+        ">>> connect black wire terminal 2 to switch <<"
+    ],
+    "35": [
+        ">>> connect black wire terminal 2 to anode in switch <<"
+    ],
+    "36": [
+        ">>> connect switch to aluminum foil terminal 1 <<"
+    ],
+    "37": [
+        ">>> connect cathode in switch to aluminum foil terminal 1 <<"
+    ],
+    "38": [
+        ">>> connect terminal 2 on aluminum foil to anode on red light bulb <<"
+    ],
+    "39": [
+        ">>> connect cathode in red light bulb to battery cathode <<"
+    ],
+    "40": [
+        ">>> activate switch <<"
+    ],
+    "41": [
+        ">>> look at red light bulb <<"
+    ],
+    "42": [
+        ">>> move aluminum foil to green box <<"
+    ],
+    "43": [
+        "The experiment concluded that aluminum foil is electrically nonconductive based on the red light bulb remaining off. The aluminum foil was moved to the green box as instructed.\n\n>>> task <<"
+    ],
+    "44": [
+        "The experiment concluded that aluminum foil is electrically nonconductive based on the red light bulb remaining off. The aluminum foil was correctly placed in the green box as instructed. The task is complete.\n\n>>> task <<"
+    ],
+    "45": [
+        "The experiment concluded that aluminum foil is electrically nonconductive based on the red light bulb remaining off. The aluminum foil was correctly placed in the green box as instructed. The task is complete.\n\n>>> task <<"
+    ],
+    "46": [
+        ">>> task <<"
+    ],
+    "47": [
+        "The experiment concluded that aluminum foil is electrically nonconductive based on the red light bulb remaining off. The aluminum foil was correctly placed in the green box as instructed. The task is complete.\n\n>>> task <<"
+    ],
+    "48": [
+        "The experiment concluded that aluminum foil is electrically nonconductive based on the red light bulb remaining off. The aluminum foil was correctly placed in the green box as instructed. The task is complete.\n\n>>> task <<"
+    ],
+    "49": [
+        ">>> reset task <<"
+    ],
+    "50": [
+        "To accurately determine aluminum foil's conductivity, the circuit must be properly configured. Here's the corrected procedure:\n\n1. **Focus on aluminum foil** to begin testing.\n2. **Connect battery anode \u2192 aluminum foil** to route current.\n3. **Connect aluminum foil \u2192 green light bulb's anode** (to test with a different bulb).\n4. **Connect green light bulb's cathode \u2192 battery cathode** to close the circuit.\n5. **Observe the bulb**: If it lights, the foil is conductive (red box); if not, nonconductive (green box).\n\n>>> focus on aluminum foil <<"
+    ]
+}

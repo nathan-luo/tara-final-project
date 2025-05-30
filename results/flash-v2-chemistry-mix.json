@@ -1,0 +1,59 @@
+{
+    "1": [
+        "The task specifies that a recipe and some ingredients might be found near the kitchen. I should go to the kitchen.\n\n>>> open door to kitchen <<<"
+    ],
+    "2": [
+        "I have opened the door to the kitchen. Now I need to go into the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "3": [
+        "I am in the kitchen. The task states that a recipe might be found near the kitchen. I see \"instructions to make salt water\" in the list of available objects. I should read these instructions.\n\n>>> read instructions to make salt water <<<"
+    ],
+    "4": [
+        "The recipe states I need sodium chloride and water. I need to find these ingredients. I don't see sodium chloride listed as an available object, but I do see a \"glass jar\". Often, salt is stored in jars. I also need water. I see a \"sink\" which usually has water. I should check the glass jar first.\n\n>>> look in glass jar <<<"
+    ],
+    "5": [
+        "I need to open the glass jar to see inside.\n\n>>> open glass jar <<<"
+    ],
+    "6": [
+        "Now that the glass jar is open, I can look inside.\n\n>>> look in glass jar <<<"
+    ],
+    "7": [
+        "I have found sodium chloride. Now I need water. I see a sink in the list of available objects. I should get water from the sink. I will need a container for the water. I see a \"cup\" in the list of available objects. I will pick up the cup and then fill it with water from the sink.\n\n>>> pick up cup <<<"
+    ],
+    "8": [
+        "I have the cup. Now I need to fill it with water from the sink.\n\n>>> fill cup with water from sink <<<"
+    ],
+    "9": [
+        "My previous attempt to fill the cup with water was not a valid action. Looking at the available actions, I see \"dunk OBJ in OBJ\" and \"pour OBJ in OBJ\". I also see \"sink\" and \"water\" is not listed as an object. This implies that the water is part of the sink. I should try to dunk the cup in the sink.\n\n>>> dunk cup in sink <<<"
+    ],
+    "10": [
+        "The sink does not contain any liquids to dunk into. This means the sink is currently dry. I need to activate the sink to get water. I see \"activate OBJ\" as an available action.\n\n>>> activate sink <<<"
+    ],
+    "11": [
+        "The sink is now activated. This means there should be water. I will try to dunk the cup in the sink again.\n\n>>> dunk cup in sink <<<"
+    ],
+    "12": [
+        "The sink is activated, but it still says there are no liquids to dunk into. This is confusing. I will try to \"look in sink\" to see if there is water.\n\n>>> look in sink <<<"
+    ],
+    "13": [
+        "The sink is activated, but there is nothing in it. The drain is open. Perhaps I need to close the drain to fill the sink with water.\n\n>>> close drain <<<"
+    ],
+    "14": [
+        "I have closed the drain. Now I need to activate the sink again to fill it with water.\n\n>>> activate sink <<<"
+    ],
+    "15": [
+        "The sink is already activated and the drain is closed. I should now be able to dunk the cup in the sink to get water.\n\n>>> dunk cup in sink <<<"
+    ],
+    "16": [
+        "I have successfully filled the cup with water. I have sodium chloride and water. The recipe says to mix them. I will pour the sodium chloride into the cup with water.\n\n>>> pour sodium chloride in cup <<<"
+    ],
+    "17": [
+        "The interface says \"I'm not sure how to pour a solid.\" This is a good point. I have sodium chloride in the glass jar. I need to get the sodium chloride out of the jar and into the cup. I can use the \"pour OBJ in OBJ\" action, but I need to specify the container of the sodium chloride.\n\n>>> pour glass jar in cup <<<"
+    ],
+    "18": [
+        "I have poured the sodium chloride from the glass jar into the cup, which already contains water. The recipe says to \"mix\" them. I see \"mix OBJ\" as an available action. I should mix the contents of the cup.\n\n>>> mix cup <<<"
+    ],
+    "19": [
+        "I have successfully created salt water in the cup. The task states \"When you are done, focus on the salt water.\"\n\n>>> focus on salt water <<<"
+    ]
+}

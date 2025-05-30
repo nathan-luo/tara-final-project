@@ -57,7 +57,7 @@
                     "inventory": "In your inventory, you see:\n\ta glass cup (containing nothing)\n\tan orange\n",
                     "isCompleted": "false",
                     "observation": "You move the glass cup to the sink.",
-                    "score": "0.027777777777777776"
+                    "score": "0.03333333333333333"
                 },
                 {
                     "action": "focus on substance in cup",
@@ -65,7 +65,7 @@
                     "inventory": "In your inventory, you see:\n\tan orange\n",
                     "isCompleted": "false",
                     "observation": "You focus on the water.",
-                    "score": "0.6944444444444444"
+                    "score": "0.7"
                 },
                 {
                     "action": "activate stove",
@@ -73,7 +73,7 @@
                     "inventory": "In your inventory, you see:\n\tan orange\n",
                     "isCompleted": "false",
                     "observation": "The stove is now activated.",
-                    "score": "0.7083333333333333"
+                    "score": "0.7166666666666667"
                 },
                 {
                     "action": "move cup to stove",
@@ -81,7 +81,7 @@
                     "inventory": "In your inventory, you see:\n\tan orange\n",
                     "isCompleted": "false",
                     "observation": "You move the glass cup to the stove.",
-                    "score": "0.7222222222222222"
+                    "score": "0.7333333333333333"
                 },
                 {
                     "action": "wait",
@@ -89,7 +89,7 @@
                     "inventory": "In your inventory, you see:\n\tan orange\n",
                     "isCompleted": "false",
                     "observation": "You decide to wait for 10 iterations.",
-                    "score": "0.736111111111111"
+                    "score": "0.75"
                 },
                 {
                     "action": "focus on substance in cup",
@@ -97,7 +97,7 @@
                     "inventory": "In your inventory, you see:\n\tan orange\n",
                     "isCompleted": "false",
                     "observation": "You focus on the water.",
-                    "score": "0.736111111111111"
+                    "score": "0.75"
                 },
                 {
                     "action": "wait",
@@ -109,9 +109,9 @@
                 }
             ],
             "simplifications": "",
-            "taskDescription": "Your task is to change the state of matter of water. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
-            "taskIdx": "1",
-            "taskName": "change-the-state-of-matter-of",
+            "taskDescription": "Your task is to boil water. For compounds without a boiling point, combusting the substance is also acceptable. First, focus on the substance. Then, take actions that will cause it to change its state of matter.",
+            "taskIdx": "0",
+            "taskName": "boil",
             "variationIdx": "0"
         },
         "notes": "test2"

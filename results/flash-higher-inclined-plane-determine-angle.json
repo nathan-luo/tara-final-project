@@ -1,0 +1,14 @@
+{
+    "1": [
+        "I need to find inclined planes B and C to determine which has the shallowest angle. Based on the current room description, I don't see any inclined planes. I need to explore other rooms. The workshop seems like the most likely place to find scientific equipment or experimental setups.\n\n>>> open workshop door <<<"
+    ],
+    "2": [
+        "I need to find inclined planes B and C. I have opened the door to the workshop. Now I need to go into the workshop.\n\n>>> go workshop <<<"
+    ],
+    "3": [
+        "I have found \"inclined plane b\" and \"inclined plane c\" in the workshop. Now I need to determine which has the shallowest angle. To do this, I need to \"look at\" each one more closely or potentially \"focus on\" them to get more details. I will start by looking at each one.\n\n>>> look at inclined plane b <<<"
+    ],
+    "4": [
+        "Looking at \"inclined plane b\" didn't give me any information about its angle. I need to try \"focus on\" to see if it provides more detail about the angle itself, or some property linked to it (like a measurement). I will try \"focus on\" for both.\n\n>>> focus on inclined plane b <<<"
+    ]
+}

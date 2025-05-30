@@ -1,0 +1,29 @@
+{
+    "1": [
+        "To begin the task, I need to access the kitchen where the thermometer and chocolate are located. The first step is to open the closed door to the kitchen.  \n>>> open door to kitchen <<"
+    ],
+    "2": [
+        ">>> go kitchen <<"
+    ],
+    "3": [
+        ">>> focus on thermometer <<"
+    ],
+    "4": [
+        ">>> look around <<"
+    ],
+    "5": [
+        ">>> open fridge <<"
+    ],
+    "6": [
+        ">>> look in fridge <<"
+    ],
+    "7": [
+        ">>> pick up chocolate <<"
+    ],
+    "8": [
+        ">>> focus on chocolate <<"
+    ],
+    "9": [
+        ">>> focus on blue box <<"
+    ]
+}

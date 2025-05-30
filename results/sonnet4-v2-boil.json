@@ -1,0 +1,53 @@
+{
+    "1": [
+        "I need to boil water. First, I need to find water to focus on. I can see I'm in a hallway with air as a substance, but I need to find water. Let me look around to see if there's water here, and if not, I'll need to explore other rooms to find water.\n\n>>> look around <<<"
+    ],
+    "2": [
+        "I need to find water to boil. I don't see any water in the hallway, so I need to explore other rooms. The kitchen seems like the most likely place to find water.\n\n>>> open door to kitchen <<<"
+    ],
+    "3": [
+        "Now I need to go to the kitchen to look for water.\n\n>>> go kitchen <<<"
+    ],
+    "4": [
+        "I'm in the kitchen now. I need to find water to boil. Let me look around to see what's available in this room.\n\n>>> look around <<<"
+    ],
+    "5": [
+        "I can see there's a sink in the kitchen, which is typically where I can get water. Let me turn on the sink to get water.\n\n>>> activate sink <<<"
+    ],
+    "6": [
+        "I need to check if water is now available in the sink since I activated it. Let me look in the sink to see if there's water there now.\n\n>>> look in sink <<<"
+    ],
+    "7": [
+        "I see the sink is activated but there's no water in it yet. I need to get water from the sink. Let me try to get water by using the glass cup to collect water from the activated sink.\n\n>>> move cup to sink <<<"
+    ],
+    "8": [
+        "I can see that the cup now has a \"substance in cup\" which should be water from the activated sink. According to the task, I need to first focus on the substance, then take actions to change its state of matter (boil it). Let me focus on the substance in the cup.\n\n>>> focus on substance in cup <<<"
+    ],
+    "9": [
+        "Perfect! I have focused on the water (substance in cup). Now I need to take actions that will cause it to change its state of matter by boiling it. I can see there's a stove available. I need to put the cup with water on the stove and then activate the stove to heat the water to boiling point.\n\n>>> move cup to stove <<<"
+    ],
+    "10": [
+        "Good! I have the cup with water on the stove and I've already focused on the water (substance in cup). Now I need to activate the stove to heat the water and cause it to boil, which will change its state of matter from liquid to gas.\n\n>>> activate stove <<<"
+    ],
+    "11": [
+        "I have focused on the water (substance in cup) and activated the stove with the cup on it. Now I need to wait for the water to heat up and boil. Let me check the current temperature and then wait for the heating process.\n\n>>> look at thermometer <<<"
+    ],
+    "12": [
+        "I have focused on the water (substance in cup) and activated the stove with the cup on it. The thermometer shows 10 degrees celsius, which is well below the boiling point of water (100 degrees celsius). I need to wait for the water to heat up and reach boiling point to change its state of matter from liquid to gas.\n\n>>> wait <<<"
+    ],
+    "13": [
+        "I have focused on the water (substance in cup) and activated the stove with the cup on it. I waited for 10 iterations but need to check if the water has heated up enough to boil. Let me check the thermometer to see the current temperature.\n\n>>> look at thermometer <<<"
+    ],
+    "14": [
+        "The temperature is still 10 degrees celsius, which means the water hasn't heated up yet. I need to check if there's something wrong with my setup. Let me look at the stove to see its current state and make sure the cup is properly positioned on it.\n\n>>> look at stove <<<"
+    ],
+    "15": [
+        "The stove is activated and the cup with water is on it, but the temperature isn't rising. I notice there's a lighter available in the kitchen. Perhaps I need to use the lighter to ignite the stove or provide additional heat. Let me try using the lighter on the stove to ensure proper heating.\n\n>>> use lighter on stove <<<"
+    ],
+    "16": [
+        "I see the issue. The stove is activated but the temperature isn't rising. Let me try using the lighter directly on the substance in the cup to provide heat and cause the water to boil.\n\n>>> use lighter on substance in cup <<<"
+    ],
+    "17": [
+        "Good! The lighter is heating up the water. I have already focused on the water (substance in cup) as required by the task. Now I need to continue using the lighter to heat the water until it boils and changes its state of matter from liquid to gas. Let me continue heating it.\n\n>>> use lighter on substance in cup <<<"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "1": [
+        "My task is to find the animal with the longest lifespan in the 'outside' location. I need to navigate to the 'outside' location first. I don't see anywhere to go directly outside. I will open the doors and look for a path that leads outside. I will try the living room door first.\n\n>>> open living room door <<<"
+    ],
+    "2": [
+        "I have opened the living room door. Now I will go into the living room to see what is there.\n\n>>> go living room <<<"
+    ],
+    "3": [
+        "I am in the living room. I need to find the \"outside\" location. I will look around to see if there is a door to the outside.\n\n>>> look around <<<"
+    ],
+    "4": [
+        "I am in the living room and do not see a door to the outside. I will go back to the hallway and check other doors.\n\n>>> go hallway <<<"
+    ],
+    "5": [
+        "I am back in the hallway. The living room did not lead to the outside. I will try the greenhouse door next.\n\n>>> open door to greenhouse <<<"
+    ],
+    "6": [
+        "The greenhouse door is now open. I will go into the greenhouse.\n\n>>> go greenhouse <<<"
+    ],
+    "7": [
+        "I am in the greenhouse. I see a `door to outside`. This is what I am looking for.\n\n>>> open door to outside <<<"
+    ],
+    "8": [
+        "I have found the door to outside. Now I will go outside.\n\n>>> go outside <<<"
+    ],
+    "9": [
+        "I am finally in the 'outside' location. Now I need to find the animals and determine which one has the longest life span. I will start by looking around to see what animals are present.\n\n>>> look around <<<"
+    ],
+    "10": [
+        "I am in the 'outside' location and I see three animals: a baby brown bear, a baby mouse, and a baby wolf. To determine the animal with the longest life span, I need to \"focus on\" each animal and check their lifespan. I will start with the baby brown bear.\n\n>>> focus on baby brown bear <<<"
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "1": [
+        "I need to find water first. I will start by looking in the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "2": [
+        "I need to open the door to the kitchen before I can go in.\n\n>>> open door to kitchen <<<"
+    ],
+    "3": [
+        "Now that the door to the kitchen is open, I can go into the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "4": [
+        "I am in the kitchen. I need to find water. I see a sink, which usually has water. I also see a cup. I will try to get water from the sink into the cup.\n\nFirst, I will pick up the cup.\n\n>>> pick up cup <<<"
+    ],
+    "5": [
+        "I have the cup. Now I need to get water from the sink into the cup.\n\n>>> dunk cup in sink <<<"
+    ],
+    "6": [
+        "The sink doesn't have water. I need to activate the sink to get water.\n\n>>> activate sink <<<"
+    ],
+    "7": [
+        "Now that the sink is activated, I should be able to get water from it. I will try to fill the cup with water from the sink.\n\n>>> fill cup with water from sink <<<"
+    ],
+    "8": [
+        "I need to get water into the cup. Since \"fill cup with water from sink\" isn't an option, I will try to use the cup on the sink.\n\n>>> use cup on sink <<<"
+    ],
+    "9": [
+        "I need to get water into the cup. Since \"use cup on sink\" didn't work, and \"fill cup with water from sink\" didn't work, I will try to \"dunk\" the cup in the sink, even though it said the sink didn't contain liquids before. Maybe activating the sink changed that.\n\n>>> dunk cup in sink <<<"
+    ],
+    "10": [
+        "I am in the kitchen and need to get water. The sink is activated, but I can't get water from it. I see a fridge and a freezer. Perhaps there is water in the fridge, or I can get ice from the freezer and melt it. I will check the fridge first.\n\n>>> open fridge <<<"
+    ],
+    "11": [
+        "I have opened the fridge. Now I need to look inside to see if there is water or anything I can use to get water.\n\n>>> look in fridge <<<"
+    ],
+    "12": [
+        "I see a wood cup containing orange juice in the fridge. This is not water. I need water. I will close the fridge and check the freezer.\n\n>>> close fridge <<<"
+    ],
+    "13": [
+        "I have checked the fridge and it doesn't have water. Now I will check the freezer.\n\n>>> open freezer <<<"
+    ],
+    "14": [
+        "I have opened the freezer. I need to look inside to see if there is water or ice.\n\n>>> look in freezer <<<"
+    ],
+    "15": [
+        "The freezer is empty. This is not helpful for finding water. I have checked the fridge and freezer, and the sink is not providing water. I need to find another source of water.\n\nI will close the freezer.\n\n>>> close freezer <<<"
+    ],
+    "16": [
+        "I am in the kitchen and have not found water. I have checked the sink, fridge, and freezer. I need to find water to freeze it.\n\nI see an apple, banana, orange, and potato. These are not water. I also see a glass jar. Perhaps I can fill the glass jar with water if I find a source.\n\nI will look around the kitchen again to see if I missed anything.\n\n>>> look around <<<"
+    ],
+    "17": [
+        "I am still in the kitchen and need to find water. The sink is on, but there's nothing in it. I have a glass cup in my inventory. I also see a glass jar containing sodium chloride. This is salt, not water.\n\nI see a door to the bathroom. Bathrooms usually have water. I will try to go to the bathroom.\n\n>>> open door to bathroom <<<"
+    ],
+    "18": [
+        "I have opened the door to the bathroom. Now I will go into the bathroom to look for water.\n\n>>> go bathroom <<<"
+    ],
+    "19": [
+        "I am in the bathroom. I see a bathtub, a sink, and a toilet. All of these typically contain or dispense water. I will start by checking the sink.\n\n>>> activate sink <<<"
+    ],
+    "20": [
+        "The sink is activated. I have a glass cup in my inventory. I will try to fill the cup with water from the sink.\n\n>>> fill cup with water from sink <<<"
+    ],
+    "21": [
+        "I am in the bathroom and the sink is activated. I have a glass cup in my inventory. I need to get water into the cup. Since \"fill cup with water from sink\" is not a valid action, I will try to \"dunk\" the cup in the sink, as that is an available action.\n\n>>> dunk cup in sink <<<",
+        "I want to dunk the glass cup that is in my inventory into the sink.\n\n>>> 1 <<<"
+    ],
+    "22": [
+        "The sink is activated but has no water. I will try the bathtub. I will activate the bathtub.\n\n>>> activate bathtub <<<"
+    ],
+    "23": [
+        "The bathtub is activated. I will try to get water from the bathtub into the glass cup. I will try to dunk the cup in the bathtub.\n\n>>> dunk glass cup in bathtub <<<",
+        "I want to dunk the glass cup that is in my inventory into the bathtub.\n\n>>> 1 <<<"
+    ],
+    "24": [
+        "I am in the bathroom. I have activated the sink and the bathtub, but neither contains water. I will try the toilet. I will activate the toilet.\n\n>>> activate toilet <<<"
+    ],
+    "25": [
+        "The toilet is activated. I will try to get water from the toilet into the glass cup. I will try to dunk the cup in the toilet.\n\n>>> dunk glass cup in toilet <<<",
+        "I want to dunk the glass cup that is in my inventory into the toilet.\n\n>>> 1 <<<"
+    ],
+    "26": [
+        "I am in the bathroom. I have activated the sink, bathtub, and toilet, but none of them contain water. I need to find water. I will look around the bathroom to see if there's anything else I missed.\n\n>>> look around <<<"
+    ],
+    "27": [
+        "I am in the bathroom. I have activated the sink, bathtub, and toilet, but none of them contain water. The toilet is flushing, and its drain is open, but still no water to collect. I have a glass cup in my inventory.\n\nI need to find water. Since the bathroom sources are not working, I will go back to the kitchen and look for other options. I will go back to the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "28": [
+        "I am back in the kitchen. I have not found water yet. I have a glass cup in my inventory. I need to find water to freeze it.\n\nI see a glass jar containing sodium chloride. This is salt, not water.\n\nI will check the cupboard. Perhaps there is water or a container I can use to get water.\n\n>>> open cupboard <<<"
+    ],
+    "29": [
+        "I have opened the cupboard. Now I need to look inside to see if there is water or a container.\n\n>>> look in cupboard <<<"
+    ],
+    "30": [
+        "I have opened the cupboard and found a ceramic cup, a metal pot, and a tin cup. None of these contain water. I still have my glass cup.\n\nI need to find water. I have checked the sink, fridge, freezer, and cupboard in the kitchen, and the sink, bathtub, and toilet in the bathroom. None of these have provided water.\n\nI will close the cupboard.\n\n>>> close cupboard <<<"
+    ],
+    "31": [
+        "I am in the kitchen and have not found water. I have exhausted most of the obvious places in the kitchen and bathroom. I need to find water.\n\nI will go back to the hallway and explore other rooms. I will go to the hallway.\n\n>>> go hallway <<<"
+    ],
+    "32": [
+        "I am in the hallway. I need to find water. I have already checked the kitchen and bathroom. I will try the greenhouse next, as it might have plants that need water, or a water source for them.\n\nFirst, I need to open the door to the greenhouse.\n\n>>> open door to greenhouse <<<"
+    ],
+    "33": [
+        "I have opened the door to the greenhouse. Now I will go into the greenhouse to look for water.\n\n>>> go greenhouse <<<"
+    ],
+    "34": [
+        "I am in the greenhouse. I see a sink and a jug. These are promising for finding water. I will check the sink first.\n\n>>> activate sink <<<"
+    ],
+    "35": [
+        "The sink is activated. I have a glass cup in my inventory. I will try to dunk the glass cup in the sink to get water.\n\n>>> dunk glass cup in sink <<<"
+    ],
+    "36": [
+        "The sink is activated but has no water. I will try the jug. I will look in the jug to see if it contains water.\n\n>>> look in jug <<<"
+    ],
+    "37": [
+        "The jug is empty. I have checked the sink and the jug in the greenhouse, and neither has water. I need to find water.\n\nI will look around the greenhouse to see if there are any other potential water sources.\n\n>>> look around <<<"
+    ],
+    "38": [
+        "I am in the greenhouse. I have checked the sink and the jug, and neither has water. I need to find water. I see a door to the outside. Perhaps there is a water source outside, like a pond or a hose.\n\nI will open the door to the outside.\n\n>>> open door to outside <<<"
+    ],
+    "39": [
+        "I have opened the door to the outside. Now I will go outside to look for water.\n\n>>> go outside <<<"
+    ],
+    "40": [
+        "I am outside. I see a fountain! Fountains usually contain water. I will look in the fountain to confirm it has water.\n\n>>> look in fountain <<<"
+    ],
+    "41": [
+        "I have found water in the fountain! This is great. My task is to freeze water. First, I need to focus on the substance.\n\n>>> focus on substance in fountain <<<"
+    ],
+    "42": [
+        "I have focused on the water in the fountain. Now I need to freeze it. I don't see any obvious freezing mechanisms here. I need to get the water into a container so I can move it to a colder place, like the freezer in the kitchen. I have a glass cup in my inventory.\n\nI will dunk the glass cup in the fountain to get water.\n\n>>> dunk glass cup in fountain <<<"
+    ],
+    "43": [
+        "I have successfully collected water in the glass cup. Now I need to freeze it. The best place to do this is the freezer in the kitchen. I will go back to the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "44": [
+        "I am outside and need to go to the kitchen. The door to the kitchen is not open. I need to open the door to the kitchen.\n\n>>> open door to kitchen <<<"
+    ],
+    "45": [
+        "I have opened the door to the kitchen. Now I will go into the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "46": [
+        "I am in the kitchen and have a glass cup containing water in my inventory. My task is to freeze water. I need to put the water in the freezer.\n\nFirst, I need to open the freezer.\n\n>>> open freezer <<<"
+    ],
+    "47": [
+        "I have opened the freezer. I have a glass cup with water in my inventory. I need to put the glass cup with water into the freezer to freeze the water.\n\n>>> put glass cup in freezer <<<"
+    ],
+    "48": [
+        "I have put the glass cup containing water into the freezer. Now I need to close the freezer so the water can freeze.\n\n>>> close freezer <<<"
+    ],
+    "49": [
+        "I have put the water in the freezer and closed the freezer door. Now I need to wait for the water to freeze. I will wait for a period of time.\n\n>>> wait <<<"
+    ],
+    "50": [
+        "I have waited for 10 iterations. The water should be frozen by now. I need to check if the water has frozen. I will open the freezer.\n\n>>> open freezer <<<"
+    ]
+}

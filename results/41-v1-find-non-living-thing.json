@@ -1,0 +1,17 @@
+{
+    "1": [
+        "I need to find a non-living thing. In the hallway, the picture is a clear non-living object. I'll start by focusing on it as required by the task. After that, I'll need to pick it up and take it to the red box in the kitchen, but first I must get to the kitchen by opening the door and entering.\n\n>>> focus on picture <<"
+    ],
+    "2": [
+        "I have focused on the picture as required. Now I need to pick it up and move it to the red box in the kitchen. Since the kitchen door is currently closed, I must first open it before entering. The sequence should be: pick up the picture, open the kitchen door, go to the kitchen, then locate the red box and move the picture to it.\n\n>>> pick up picture <<"
+    ],
+    "3": [
+        "I have the picture in my inventory, which is a non-living thing. Now I need to move it to the red box in the kitchen. First, I must enter the kitchen by opening its door since it's currently closed.\n\n>>> open door to kitchen <<"
+    ],
+    "4": [
+        "I have the picture in my inventory and the kitchen door is open. Now I need to enter the kitchen to find the red box. The task requires moving the picture to the red box specifically in the kitchen.\n\n>>> go to kitchen <<"
+    ],
+    "5": [
+        "I have the picture in my inventory and I'm now in the kitchen where the red box is located. The next step is to move the picture to the red box as specified in the task. The available objects list confirms \"red box\" is present here.\n\n>>> move picture to red box <<"
+    ]
+}

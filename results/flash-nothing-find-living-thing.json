@@ -1,0 +1,29 @@
+{
+    "1": [
+        "I need to find a living thing. The greenhouse seems like a good place to start looking for living things. I will go to the greenhouse.\n\n>>> go door to greenhouse <<<"
+    ],
+    "2": [
+        "I need to open the door to the greenhouse first.\n\n>>> open door to greenhouse <<<"
+    ],
+    "3": [
+        "Now that the door to the greenhouse is open, I can go inside.\n\n>>> go door to greenhouse <<<"
+    ],
+    "4": [
+        "I am in the greenhouse. I need to find a living thing. There are several plants listed, which are living things. I will pick one. The adult pea plant seems like a good choice.\n\n>>> focus on adult pea plant <<<"
+    ],
+    "5": [
+        "I have focused on the adult pea plant. Now I need to pick it up.\n\n>>> pick up adult pea plant <<<"
+    ],
+    "6": [
+        "I have the adult pea plant in my inventory. Now I need to go to the kitchen and move it to the red box. First, I need to go back to the hallway.\n\n>>> go door to hallway <<<"
+    ],
+    "7": [
+        "I am in the hallway. I need to go to the kitchen.\n\n>>> open door to kitchen <<<"
+    ],
+    "8": [
+        "I am in the hallway and the door to the kitchen is open. I will now go to the kitchen.\n\n>>> go door to kitchen <<<"
+    ],
+    "9": [
+        "I am in the kitchen. I have the adult pea plant in my inventory. I need to move it to the red box.\n\n>>> move adult pea plant to red box <<<"
+    ]
+}

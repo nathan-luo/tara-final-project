@@ -1,0 +1,26 @@
+{
+    "1": [
+        "First, I need to identify a non-living thing in the current location. Looking at the objects available, \"picture\" is a non-living thing. I'll focus on it first, then proceed to move it to the red box in the kitchen.\n\n>>> focus on picture <<<"
+    ],
+    "2": [
+        "Now that I've focused on the picture, I need to move it to the red box in the kitchen. First, I need to go to the kitchen where the red box is located.\n\n>>> go to kitchen <<<"
+    ],
+    "3": [
+        "I need to open the kitchen door first before I can go to the kitchen.\n\n>>> open door to kitchen <<<"
+    ],
+    "4": [
+        "Now that the kitchen door is open, I'll go to the kitchen to find the red box.\n\n>>> go to kitchen <<<"
+    ],
+    "5": [
+        "I can see the \"red box\" is already in the kitchen. Now I need to move the picture (which I focused on earlier) to the red box. First, I should bring the picture from the hallway to the kitchen. Since I can't see the picture in the current location, I'll go back to the hallway to get it.\n\n>>> go to hallway <<<"
+    ],
+    "6": [
+        "I already focused on the picture earlier, so now I need to pick it up to move it to the kitchen's red box.\n\n>>> pick up picture <<<"
+    ],
+    "7": [
+        "Now that I have the picture in my inventory, I'll go back to the kitchen to place it in the red box.\n\n>>> go to kitchen <<<"
+    ],
+    "8": [
+        "Now that I'm in the kitchen with the picture in my inventory, I'll move it to the red box to complete the task.\n\n>>> move picture to red box <<<"
+    ]
+}

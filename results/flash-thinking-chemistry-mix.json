@@ -1,0 +1,119 @@
+{
+    "1": [
+        "open kitchen door\n>>> open kitchen door <<<"
+    ],
+    "2": [
+        "go kitchen\n>>> go kitchen <<<"
+    ],
+    "3": [
+        "look at instructions to make salt water\n>>> look at instructions to make salt water <<<"
+    ],
+    "4": [
+        "read instructions to make salt water\n>>> read instructions to make salt water <<<"
+    ],
+    "5": [
+        "open cupboard\n>>> open cupboard <<<"
+    ],
+    "6": [
+        "look in cupboard\n>>> look in cupboard <<<"
+    ],
+    "7": [
+        "The recipe requires sodium chloride and water. I need to find these ingredients. I'll check the drawer in the cupboard first.\n\nopen drawer in cupboard\n>>> open drawer in cupboard <<<"
+    ],
+    "8": [
+        "look in drawer in cupboard\n>>> look in drawer in cupboard <<<"
+    ],
+    "9": [
+        "The drawer is empty. I need to find sodium chloride and water. I'll close the drawer and the cupboard, then look around the kitchen for other places to find ingredients.\n\nclose drawer in cupboard\n>>> close drawer in cupboard <<<"
+    ],
+    "10": [
+        "close cupboard\n>>> close cupboard <<<"
+    ],
+    "11": [
+        "I need to find sodium chloride and water. I've checked the cupboard and the drawer inside it. I'll look around the kitchen for other potential sources.\n\nlook around\n>>> look around <<<"
+    ],
+    "12": [
+        "pick up glass jar\n>>> pick up glass jar <<<"
+    ],
+    "13": [
+        "look in sink\n>>> look in sink <<<"
+    ],
+    "14": [
+        "activate sink\n>>> activate sink <<<"
+    ],
+    "15": [
+        "pick up glass cup\n>>> pick up glass cup <<<"
+    ],
+    "16": [
+        "fill glass cup with water from sink\n>>> fill glass cup with water from sink <<<"
+    ],
+    "17": [
+        "dunk glass cup in sink\n>>> dunk glass cup in sink <<<"
+    ],
+    "18": [
+        "get water from sink\n>>> get water from sink <<<"
+    ],
+    "19": [
+        "use glass cup on sink\n>>> use glass cup on sink <<<"
+    ],
+    "20": [
+        "put glass cup in sink\n>>> put glass cup in sink <<<"
+    ],
+    "21": [
+        "fill glass cup with water\n>>> fill glass cup with water <<<"
+    ],
+    "22": [
+        "\n\n\nWhat if I need to \"use\" the sink to get water *into* the cup?\n\"use sink on glass cup\" - \"I'm not sure how to use the sink.\"\n\nWhat if I need to \"use\" the glassI'm going to try a different approach. I will deactivate the sink, pick up the glass cup, and then try to fill it. This is a long shot, but I'm out of ideas.\n\ndeactivate sink\n>>> deactivate sink <<<"
+    ],
+    "23": [
+        "activate sink\n>>> activate sink <<<"
+    ],
+    "24": [
+        "fill glass cup\n>>> fill glass cup <<<"
+    ],
+    "25": [
+        "pick up glass cup\n>>> pick up glass cup <<<"
+    ],
+    "26": [
+        "put glass cup in sink\n>>> put glass cup in sink <<<"
+    ],
+    "27": [
+        "wait\n>>> wait <<<"
+    ],
+    "28": [
+        "look at sink\n>>> look at sink <<<"
+    ],
+    "29": [
+        "pick up glass cup\n>>> pick up glass cup <<<"
+    ],
+    "30": [
+        "open cupboard\n>>> open cupboard <<<"
+    ],
+    "31": [
+        "pick up ceramic cup\n>>> pick up ceramic cup <<<"
+    ],
+    "32": [
+        "put down ceramic cup on table\n>>> put down ceramic cup on table <<<"
+    ],
+    "33": [
+        "put down ceramic cup\n>>> put down ceramic cup <<<"
+    ],
+    "34": [
+        "pick up ceramic cup\n>>> pick up ceramic cup <<<"
+    ],
+    "35": [
+        "pour glass jar in glass cup\n>>> pour glass jar in glass cup <<<"
+    ],
+    "36": [
+        "open glass jar\n>>> open glass jar <<<"
+    ],
+    "37": [
+        "pour glass jar in glass cup\n>>> pour glass jar in glass cup <<<"
+    ],
+    "38": [
+        "mix glass cup\n>>> mix glass cup <<<"
+    ],
+    "39": [
+        "focus on salt water\n>>> focus on salt water <<<"
+    ]
+}

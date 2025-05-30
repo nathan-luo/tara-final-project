@@ -1,0 +1,152 @@
+{
+    "1": [
+        "I need to find water first. I will start by exploring the kitchen, as it's a likely place to find water.\n\n>>> open kitchen door <<<"
+    ],
+    "2": [
+        "I have opened the kitchen door. Now I will go into the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "3": [
+        "I am in the kitchen. I need to find water. A sink is a good place to find water.\n\n>>> look in sink <<<"
+    ],
+    "4": [
+        "The sink is empty. I need to find water. A fridge or freezer might contain ice, which is frozen water. I will check the freezer first.\n\n>>> open freezer <<<"
+    ],
+    "5": [
+        "I have opened the freezer. Now I will look inside the freezer to see if there is any ice.\n\n>>> look in freezer <<<"
+    ],
+    "6": [
+        "The freezer is empty. I will check the fridge next.\n\n>>> open fridge <<<"
+    ],
+    "7": [
+        "I have opened the fridge. Now I will look inside the fridge.\n\n>>> look in fridge <<<"
+    ],
+    "8": [
+        "I found a wood cup containing orange juice. This is not water. I need to find water. I will check the cupboards.\n\n>>> open cupboard <<<"
+    ],
+    "9": [
+        "I have opened the cupboard. Now I will look inside the cupboard.\n\n>>> look in cupboard <<<"
+    ],
+    "10": [
+        "I have found several cups and a metal pot, but none contain water. I will check the drawer in the cupboard.\n\n>>> open drawer in cupboard <<<"
+    ],
+    "11": [
+        "I have opened the drawer in the cupboard. Now I will look inside the drawer.\n\n>>> look in drawer in cupboard <<<"
+    ],
+    "12": [
+        "The drawer is empty. I have checked the sink, freezer, fridge, and cupboard. I still need to find water. I will try looking at the counter.\n\n>>> look at counter <<<"
+    ],
+    "13": [
+        "I have checked the counter and found a bowl of fruit and a drawer. I will check the drawer on the counter.\n\n>>> open drawer in counter <<<"
+    ],
+    "14": [
+        "I have opened the drawer on the counter. Now I will look inside.\n\n>>> look in drawer in counter <<<"
+    ],
+    "15": [
+        "I have checked all the obvious places for water in the kitchen and haven't found any. I need to find water. I will try looking in the bathroom. I need to go back to the hallway first.\n\n>>> go hallway <<<"
+    ],
+    "16": [
+        "I am in the hallway. I need to find water. I will try the bathroom. I don't see a bathroom listed as a room. I will check the bedroom.\n\n>>> open bedroom door <<<"
+    ],
+    "17": [
+        "I have opened the bedroom door. Now I will go into the bedroom.\n\n>>> go bedroom <<<"
+    ],
+    "18": [
+        "I am in the bedroom. I need to find water. I will look around the bedroom.\n\n>>> look around <<<"
+    ],
+    "19": [
+        "I am in the bedroom. I don't see any water here. I will check the closet.\n\n>>> open closet <<<"
+    ],
+    "20": [
+        "I have opened the closet. Now I will look inside the closet.\n\n>>> look in closet <<<"
+    ],
+    "21": [
+        "The closet is empty. I still haven't found water. I will go back to the hallway and try the greenhouse.\n\n>>> go hallway <<<"
+    ],
+    "22": [
+        "I am in the hallway. I need to find water. I will try the greenhouse.\n\n>>> open greenhouse door <<<"
+    ],
+    "23": [
+        "I have opened the greenhouse door. Now I will go into the greenhouse.\n\n>>> go greenhouse <<<"
+    ],
+    "24": [
+        "I am in the greenhouse. I see a sink and a jug. These are good places to find water. I will look in the sink first.\n\n>>> look in sink <<<"
+    ],
+    "25": [
+        "The sink is empty. I will check the jug.\n\n>>> look in jug <<<"
+    ],
+    "26": [
+        "The jug is also empty. I need to find water. I see a bee hive. Perhaps there is water associated with it, or I can find water outside. I will try looking outside.\n\n>>> go outside <<<"
+    ],
+    "27": [
+        "I made a mistake. I need to open the door to outside first.\n\n>>> open door to outside <<<"
+    ],
+    "28": [
+        "I have opened the door to outside. Now I will go outside.\n\n>>> go outside <<<"
+    ],
+    "29": [
+        "I am outside. I see a fountain. A fountain is a very likely place to find water. I will look in the fountain.\n\n>>> look in fountain <<<"
+    ],
+    "30": [
+        "I have found water! The task states: \"First, focus on the substance.\"\n\n>>> focus on substance in fountain <<<"
+    ],
+    "31": [
+        "I have focused on the water. The task is to melt water. Water is already a liquid, so it cannot be melted. It must be frozen water (ice) that needs to be melted. I need to find ice. I will go back to the kitchen and check the freezer again, or look for an ice maker.\n\n>>> go kitchen <<<"
+    ],
+    "32": [
+        "I am outside. I need to go back to the kitchen to look for ice. The door to the kitchen is not open. I need to open it first.\n\n>>> open door to kitchen <<<"
+    ],
+    "33": [
+        "I am outside. I have opened the door to the kitchen. Now I will go into the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "34": [
+        "I am in the kitchen. I need to find ice. I will check the freezer again.\n\n>>> open freezer <<<"
+    ],
+    "35": [
+        "The freezer is already open. I will look inside the freezer again.\n\n>>> look in freezer <<<"
+    ],
+    "36": [
+        "The freezer is still empty. I need to find ice. I will check the fridge again, maybe there's an ice maker or ice cubes in a tray.\n\n>>> look in fridge <<<"
+    ],
+    "37": [
+        "The fridge only has orange juice. I need to find ice. I will check the oven and stove, sometimes people store things there.\n\n>>> look in oven <<<"
+    ],
+    "38": [
+        "I need to open the oven first.\n\n>>> open oven <<<"
+    ],
+    "39": [
+        "I have opened the oven. Now I will look inside.\n\n>>> look in oven <<<"
+    ],
+    "40": [
+        "The oven is empty. I need to find ice. I have checked all the usual places in the kitchen. I will go back to the greenhouse. Perhaps there is ice there, or I can freeze the water I found in the fountain.\n\n>>> go greenhouse <<<"
+    ],
+    "41": [
+        "I am in the kitchen. I need to go to the greenhouse. I need to go to the hallway first.\n\n>>> go hallway <<<"
+    ],
+    "42": [
+        "I am in the hallway. I need to go to the greenhouse. The door to the greenhouse is open.\n\n>>> go greenhouse <<<"
+    ],
+    "43": [
+        "I am in the greenhouse. I need to find ice. I will check the bee hive. It's unlikely, but I'm running out of ideas.\n\n>>> look in bee hive <<<"
+    ],
+    "44": [
+        "I need to open the bee hive first.\n\n>>> open bee hive <<<"
+    ],
+    "45": [
+        "I have opened the bee hive. Now I will look inside.\n\n>>> look in bee hive <<<"
+    ],
+    "46": [
+        "I found a bee, but no ice. I need to find ice to melt. I will go back outside and see if there's anything else there.\n\n>>> go outside <<<"
+    ],
+    "47": [
+        "I am outside. I have already found water in the fountain. I need to find ice. I see a fire pit. Perhaps I can use the fire pit to melt ice if I find some. I will look around for ice. I see an axe and wood. This suggests I might be able to chop something to get ice. I will look at the ground.\n\n>>> look at ground <<<"
+    ],
+    "48": [
+        "I am outside. I need to find ice. I have looked at the ground and it's just ground. I will look at the fountain again, but this time, I will try to find ice, not water.\n\n>>> look in fountain <<<"
+    ],
+    "49": [
+        "I have water in the fountain, but I need ice to melt. I will try to find ice. I will go to the foundry. Perhaps there is something there that can help me make ice or find it.\n\n>>> open door to foundry <<<"
+    ],
+    "50": [
+        "I have opened the door to the foundry. Now I will go into the foundry.\n\n>>> go foundry <<<"
+    ]
+}

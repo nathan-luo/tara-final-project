@@ -1,0 +1,26 @@
+{
+    "1": [
+        "I need to find a plant. The first step is to focus on the thing. I don't see a plant in the current room. I need to explore other rooms. I will start by opening the door to the greenhouse, as plants are likely to be found there.\n\n>>> open door to greenhouse <<<"
+    ],
+    "2": [
+        "I have opened the door to the greenhouse. Now I need to go into the greenhouse to look for the plant.\n\n>>> go greenhouse <<<"
+    ],
+    "3": [
+        "I am in the greenhouse. I need to find a plant. I see \"adult apple tree\", \"adult cherry tree\", and \"adult pea plant\". The task specifies \"a(n) plant\", so any of these should work. I will choose the \"adult pea plant\". The first step is to \"focus on the thing\".\n\n>>> focus on adult pea plant <<<"
+    ],
+    "4": [
+        "I have focused on the adult pea plant. Now I need to move it to the red box in the kitchen. First, I need to pick up the adult pea plant.\n\n>>> pick up adult pea plant <<<"
+    ],
+    "5": [
+        "I have picked up the adult pea plant. Now I need to go to the kitchen. I am currently in the greenhouse. I need to go back to the hallway first, then go to the kitchen.\n\n>>> go hallway <<<"
+    ],
+    "6": [
+        "I am in the hallway. I need to go to the kitchen. The door to the kitchen is closed. I need to open it first.\n\n>>> open door to kitchen <<<"
+    ],
+    "7": [
+        "I am in the hallway and the door to the kitchen is open. Now I need to go into the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "8": [
+        "I am in the kitchen. I have the adult pea plant in my inventory. I need to move it to the red box.\n\n>>> move adult pea plant to red box <<<"
+    ]
+}

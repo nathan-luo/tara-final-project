@@ -1,0 +1,101 @@
+{
+    "1": [
+        "focus on air >>> focus on air <<<"
+    ],
+    "2": [
+        "go kitchen >>> go kitchen <<<"
+    ],
+    "3": [
+        "open door to kitchen >>> open door to kitchen <<<"
+    ],
+    "4": [
+        "go kitchen >>> go kitchen <<<"
+    ],
+    "5": [
+        "focus on air >>> focus on air <<<"
+    ],
+    "6": [
+        "look in sink >>> look in sink <<<"
+    ],
+    "7": [
+        "look in cupboard >>> look in cupboard <<<"
+    ],
+    "8": [
+        "open cupboard >>> open cupboard <<<"
+    ],
+    "9": [
+        "look in cupboard >>> look in cupboard <<<"
+    ],
+    "10": [
+        "pick up metal pot >>> pick up metal pot <<<"
+    ],
+    "11": [
+        "close cupboard >>> close cupboard <<<"
+    ],
+    "12": [
+        "open drawer >>> open drawer <<<"
+    ],
+    "13": [
+        "look in drawer >>> look in drawer <<<"
+    ],
+    "14": [
+        "close drawer >>> close drawer <<<"
+    ],
+    "15": [
+        "open fridge >>> open fridge <<<"
+    ],
+    "16": [
+        "look in fridge >>> look in fridge <<<"
+    ],
+    "17": [
+        "close fridge >>> close fridge <<<"
+    ],
+    "18": [
+        "open tap >>> open tap <<<"
+    ],
+    "19": [
+        "open tap on sink >>> open tap on sink <<<"
+    ],
+    "20": [
+        "look at sink >>> look at sink <<<"
+    ],
+    "21": [
+        "activate sink >>> activate sink <<<"
+    ],
+    "22": [
+        "dunk metal pot in sink >>> dunk metal pot in sink <<<"
+    ],
+    "23": [
+        "fill metal pot with water >>> fill metal pot with water <<<"
+    ],
+    "24": [
+        "put metal pot in sink >>> put metal pot in sink <<<"
+    ],
+    "25": [
+        "fill metal pot >>> fill metal pot <<<"
+    ],
+    "26": [
+        "fill metal pot with water from sink >>> fill metal pot with water from sink <<<"
+    ],
+    "27": [
+        "pour water in metal pot >>> pour water in metal pot <<<"
+    ],
+    "28": [
+        "focus on substance in metal pot >>> focus on substance in metal pot <<<"
+    ],
+    "29": [
+        "pick up metal pot >>> pick up metal pot <<<"
+    ],
+    "30": [
+        "put metal pot on stove >>> put metal pot on stove <<<"
+    ],
+    "31": [
+        "activate stove >>> activate stove <<<"
+    ],
+    "32": [
+        "wait >>> wait <<<"
+    ],
+    "33": [
+        "wait >>> wait <<<"
+    ]
+}

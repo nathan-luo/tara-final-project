@@ -32,7 +32,11 @@ dependencies = [
     "sqlalchemy>=2.0.40",
     "psycopg2-binary>=2.9.10",
     "python-telegram-bot>=22.0",
-    "py4j"
+    "py4j",
+    "matplotlib>=3.10.3",
+    "seaborn>=0.13.2",
+    "notebook>=7.4.3",
+    "numpy>=2.2.6",
 ]
 
 [project.urls]

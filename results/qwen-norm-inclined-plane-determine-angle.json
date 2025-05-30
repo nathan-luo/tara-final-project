@@ -1,0 +1,44 @@
+{
+    "1": [
+        ">>> open door to workshop <<"
+    ],
+    "2": [
+        ">>> go workshop <<"
+    ],
+    "3": [
+        ">>> pick up stopwatch <<"
+    ],
+    "4": [
+        ">>> pick up block <<"
+    ],
+    "5": [
+        ">>> move block to inclined plane b <<"
+    ],
+    "6": [
+        ">>> activate stopwatch <<"
+    ],
+    "7": [
+        ">>> wait <<"
+    ],
+    "8": [
+        ">>> deactivate stopwatch <<"
+    ],
+    "9": [
+        ">>> move block to inclined plane c <<"
+    ],
+    "10": [
+        ">>> activate stopwatch <<"
+    ],
+    "11": [
+        ">>> focus on inclined plane c <<"
+    ],
+    "12": [
+        ">>> focus on inclined plane c <<"
+    ],
+    "13": [
+        ">>> move block to inclined plane b <<"
+    ],
+    "14": [
+        "To determine which inclined plane (B or C) has the shallowest angle, I will focus on each plane to examine their angles directly. \n\nFirst, I will focus on inclined plane B to check its angle. Then, I will focus on inclined plane C to compare its angle with B. Once I have the angle measurements, I will identify the shallower one and focus on it as required.\n\n>>> focus on inclined plane b <<"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "1": [
+        "I need to find the 'outside' location. None of the doors in the hallway lead directly to 'outside'. I will start by exploring the available rooms. I'll begin with the living room.\n\n>>> open door to living room <<<"
+    ],
+    "2": [
+        "I have opened the door to the living room. Now I will go into the living room.\n\n>>> go door to living room <<<"
+    ],
+    "3": [
+        "I am in the living room. I need to find the 'outside' location to find the animals. I will look around the living room to see if there's an exit to 'outside' or another room that might lead there.\n\n>>> look around <<<"
+    ],
+    "4": [
+        "I am in the living room. There is no obvious exit to 'outside' here. I will check the desk drawer to see if there's anything useful inside.\n\n>>> open drawer <<<"
+    ],
+    "5": [
+        "The drawer is open. I will look inside the drawer to see if there's anything that might help me find the 'outside' location or information about the animals.\n\n>>> look in drawer <<<"
+    ],
+    "6": [
+        "The drawer is empty. I will close the drawer and continue searching for the 'outside' location.\n\n>>> close drawer <<<"
+    ],
+    "7": [
+        "Since the living room doesn't have an exit to 'outside', I will go back to the hallway and try another door.\n\n>>> go door to hallway <<<"
+    ],
+    "8": [
+        "I am back in the hallway. I have already explored the living room. I will now try the greenhouse, as it seems like a likely place to have an 'outside' connection or animals.\n\n>>> open door to greenhouse <<<"
+    ],
+    "9": [
+        "I have opened the door to the greenhouse. Now I will go into the greenhouse.\n\n>>> go door to greenhouse <<<"
+    ],
+    "10": [
+        "I am in the greenhouse. I see a \"door to outside\". This is exactly what I'm looking for! I will go through this door to reach the 'outside' location.\n\n>>> go door to outside <<<"
+    ],
+    "11": [
+        "My apologies, I forgot to open the door to outside. I will open it now.\n\n>>> open door to outside <<<"
+    ],
+    "12": [
+        "I have opened the door to outside. Now I will go through it to reach the 'outside' location.\n\n>>> go door to outside <<<"
+    ],
+    "13": [
+        "I am now outside. My task is to find the animal with the shortest life span. I need to identify the animals present and then determine their life spans. I will start by looking around to see what animals are here.\n\n>>> look around <<<"
+    ],
+    "14": [
+        "I am outside and I see three animals: a baby brown bear, a baby mouse, and a baby wolf. I need to determine which of these has the shortest life span.\n\nBased on general knowledge:\n*   **Mice** typically have a very short lifespan, often 1-3 years in the wild.\n*   **Wolves** have a longer lifespan, usually 6-8 years in the wild, sometimes up to 13.\n*   **Brown bears** have a significantly longer lifespan, often 20-25 years in the wild.\n\nTherefore, the baby mouse has the shortest life span. My task is to \"focus on the animal with the shortest life span.\"\n\n>>> focus on baby mouse <<<"
+    ]
+}

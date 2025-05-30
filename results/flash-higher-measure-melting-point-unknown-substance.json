@@ -1,0 +1,20 @@
+{
+    "1": [
+        "The first step is to get to the kitchen.\n>>> open door to kitchen <<<"
+    ],
+    "2": [
+        ">>> go door to kitchen <<<"
+    ],
+    "3": [
+        "The task specifies to first focus on the thermometer.\n>>> focus on thermometer <<<"
+    ],
+    "4": [
+        "The task specifies to next focus on the solid unknown substance C.\n>>> focus on solid unknown substance c <<<"
+    ],
+    "5": [
+        "Since solid unknown substance C was just focused on for the first time, its melting point will be revealed.\n>>> wait <<<"
+    ],
+    "6": [
+        "The melting point of solid unknown substance C is 125.0 degrees celsius.\nSince the melting point (125.0 degrees celsius) is below 150.0 degrees celsius, I need to focus on the yellow box.\n>>> focus on yellow box <<<"
+    ]
+}

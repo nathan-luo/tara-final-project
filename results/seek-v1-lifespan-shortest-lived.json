@@ -1,0 +1,17 @@
+{
+    "1": [
+        "I need to get to the 'outside' location to find the animals, but none of the visible doors lead directly outside. I'll check if any of these rooms might have an exit to outside. The greenhouse seems like the most likely candidate since greenhouses often have outdoor access.\n\nFirst, I'll open the greenhouse door to explore that possibility.\n\n>>> open door to greenhouse <<<"
+    ],
+    "2": [
+        "I'll enter the greenhouse to see if there's a way to get outside from there.\n\n>>> go greenhouse <<<"
+    ],
+    "3": [
+        "I see there's a door to outside in the greenhouse! I'll open that door to access the outside location where the animals are.\n\n>>> open door to outside <<<"
+    ],
+    "4": [
+        "Now that the door to outside is open, I'll go outside to find the animals and identify the one with the shortest lifespan.\n\n>>> go outside <<<"
+    ],
+    "5": [
+        "I see three animals here: a baby brown bear, a baby mouse, and a baby wolf. To complete the task, I need to identify which of these has the shortest lifespan. \n\nAmong these animals, mice typically have the shortest lifespan compared to bears and wolves. I'll focus on the baby mouse since it's likely the animal with the shortest lifespan here.\n\n>>> focus on baby baby mouse <<<"
+    ]
+}

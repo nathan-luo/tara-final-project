@@ -1,0 +1,471 @@
+{
+    "0": {
+        "episodeIdx": 0,
+        "history": {
+            "history": [
+                {
+                    "action": "look around",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)",
+                    "score": "0.0"
+                },
+                {
+                    "action": "open door to greenhouse",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.0"
+                },
+                {
+                    "action": "go to greenhouse",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the greenhouse.",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "pick up seed square blue unknown e seed",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a square blue unknown E seed, a round brown unknown E seed)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the unknown E seed to the inventory.",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "plant seed in flower pot 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta square blue unknown E seed\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "move unknown E seed to soil in flower pot 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta square blue unknown E seed\n",
+                    "isCompleted": "false",
+                    "observation": "Ambiguous request: Please enter the number for the action you intended (or blank to cancel):\n0:\tmove unknown E seed (in seed jar, in greenhouse) to soil (in flower pot 1, in greenhouse)\n1:\tmove unknown E seed (in inventory, in agent, in greenhouse) to soil (in flower pot 1, in greenhouse)\n",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta square blue unknown E seed\n",
+                    "isCompleted": "false",
+                    "observation": "That can't be moved there.",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "use unknown E seed on soil in flower pot 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta square blue unknown E seed\n",
+                    "isCompleted": "false",
+                    "observation": "Ambiguous request: Please enter the number for the action you intended (or blank to cancel):\n0:\tuse unknown E seed (in seed jar, in greenhouse) on soil (in flower pot 1, in greenhouse)\n1:\tuse unknown E seed (in inventory, in agent, in greenhouse) on soil (in flower pot 1, in greenhouse)\n",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta square blue unknown E seed\n",
+                    "isCompleted": "false",
+                    "observation": "I'm not sure how to use the unknown E seed.",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "pick up shovel",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta square blue unknown E seed\n",
+                    "isCompleted": "false",
+                    "observation": "You move the shovel to the inventory.",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "use shovel on soil in flower pot 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta shovel\n\ta square blue unknown E seed\n",
+                    "isCompleted": "false",
+                    "observation": "I'm not sure how to use those two things together.",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "move unknown E seed to soil in flower pot 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta shovel\n\ta square blue unknown E seed\n",
+                    "isCompleted": "false",
+                    "observation": "Ambiguous request: Please enter the number for the action you intended (or blank to cancel):\n0:\tmove unknown E seed (in seed jar, in greenhouse) to soil (in flower pot 1, in greenhouse)\n1:\tmove unknown E seed (in inventory, in agent, in greenhouse) to soil (in flower pot 1, in greenhouse)\n",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "dig hole in soil in flower pot 1 with shovel",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta shovel\n\ta square blue unknown E seed\n",
+                    "isCompleted": "false",
+                    "observation": "",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "use unknown E seed on flower pot 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta shovel\n\ta square blue unknown E seed\n",
+                    "isCompleted": "false",
+                    "observation": "Ambiguous request: Please enter the number for the action you intended (or blank to cancel):\n0:\tuse unknown E seed (in seed jar, in greenhouse) on flower pot 1 (in greenhouse)\n1:\tuse unknown E seed (in inventory, in agent, in greenhouse) on flower pot 1 (in greenhouse)\n",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta shovel\n\ta square blue unknown E seed\n",
+                    "isCompleted": "false",
+                    "observation": "I'm not sure how to use the unknown E seed.",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "dig hole in soil in flower pot 1 with shovel",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta shovel\n\ta square blue unknown E seed\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "move unknown E seed to flower pot 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta shovel\n\ta square blue unknown E seed\n",
+                    "isCompleted": "false",
+                    "observation": "Ambiguous request: Please enter the number for the action you intended (or blank to cancel):\n0:\tmove unknown E seed (in seed jar, in greenhouse) to flower pot 1 (in greenhouse)\n1:\tmove unknown E seed (in inventory, in agent, in greenhouse) to flower pot 1 (in greenhouse)\n",
+                    "score": "0.10999999999999999"
+                },
+                {
+                    "action": "1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta shovel\n\ta square blue unknown E seed\n",
+                    "isCompleted": "false",
+                    "observation": "You move the unknown E seed to the flower pot 1.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "move unknown E seed to soil in flower pot 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "Ambiguous request: Please enter the number for the action you intended (or blank to cancel):\n0:\tmove unknown E seed (in seed jar, in greenhouse) to soil (in flower pot 1, in greenhouse)\n1:\tmove unknown E seed (in flower pot 1, in greenhouse) to soil (in flower pot 1, in greenhouse)\n",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "That can't be moved there.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "look at flower pot 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "a flower pot 1 (containing soil, a square blue unknown E seed)",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "look at living thing in ceramic cup",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "a round brown unknown E seed",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "look at living thing in flower pot",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "a square blue unknown E seed",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "pick up bee hive",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "You move the bee hive to the inventory.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "use shovel on soil in flower pot 3",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is closed. \n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "I'm not sure how to use those two things together.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "move living thing in ceramic cup to soil in flower pot 3",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is closed. \n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "That can't be moved there.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "use living thing in ceramic cup on soil in flower pot 3",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is closed. \n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "I'm not sure how to use the unknown E seed.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "move living thing in ceramic cup to soil in flower pot 3",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is closed. \n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "That can't be moved there.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "look at bee hive",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is closed. \n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "a bee hive. The bee hive door is closed.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "open bee hive",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is closed. \n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "The bee hive is now open.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "connect bee 0 to living thing in ceramic cup",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\ta adult bee\n\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "terminal 1 on bee 0 is now connected to terminal 1 on unknown E seed",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "pick up jug",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta jug (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "You move the jug to the inventory.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "dunk living thing in ceramic cup in soil in flower pot 3",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "The soil does not contain any liquids to dunk into.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "dunk jug in sink",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "The sink does not contain any liquids to dunk into.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "use living thing in ceramic cup on soil in flower pot 3",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "I'm not sure how to use the unknown E seed.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "activate sink",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "The sink is now activated.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "dunk jug in sink",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "The sink does not contain any liquids to dunk into.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "connect bee 0 to living thing in ceramic cup",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "terminal 2 on bee 0 is now connected to terminal 2 on unknown E seed",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "connect bee 0 to living thing in ceramic cup",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "connect bee 0 to living thing in ceramic cup",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "connect bee 2 to living thing in ceramic cup",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "unknown E seed is already connected, and must be disconnected before it can be connected to something else",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "disconnect bee 0",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "bee 0 has been disconnected",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "connect bee 0 to living thing in ceramic cup",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "terminal 1 on bee 0 is now connected to terminal 1 on unknown E seed",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "wait",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "You decide to wait for 10 iterations.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "look at ceramic cup",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "a seed jar (containing a round brown unknown E seed)",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "look at living thing in flower pot",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "a square blue unknown E seed",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "look in ceramic cup",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the seed jar is: \n\ta round brown unknown E seed",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "wait",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "You decide to wait for 10 iterations.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "look in red box",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the red box is: \n\tnothing",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "look in ceramic cup",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the seed jar is: \n\ta round brown unknown E seed",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "reset task",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "You reset the goal progress and focus.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "move living thing in ceramic cup to soil in flower pot 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "That can't be moved there.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "use living thing in ceramic cup on soil in flower pot 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "I'm not sure how to use the unknown E seed.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "dunk jug in sink",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "The sink does not contain any liquids to dunk into.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "move living thing in ceramic cup to flower pot 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing a round brown unknown E seed)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "(disconnecting unknown E seed)You move the unknown E seed to the flower pot 1.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "move round brown unknown e seed to soil in flower pot 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed, a round brown unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing nothing)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "That can't be moved there.",
+                    "score": "0.11999999999999998"
+                },
+                {
+                    "action": "connect bee 0 to round brown unknown e seed",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta flower pot 1 (containing soil, a square blue unknown E seed, a round brown unknown E seed)\n\ta flower pot 3 (containing soil)\n\ta flower pot 6 (containing soil)\n\ta flower pot 7 (containing soil)\n\ta flower pot 8 (containing soil)\n\ta flower pot 9 (containing soil)\n\ta green box (containing nothing)\n\ta red box (containing nothing)\n\ta seed jar (containing nothing)\n\ta sink, which is turned on. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\ta jug (containing nothing)\n\tan orange\n\ta shovel\n",
+                    "isCompleted": "false",
+                    "observation": "terminal 1 on bee 0 is now connected to terminal 1 on unknown E seed",
+                    "score": "0.11999999999999998"
+                }
+            ],
+            "simplifications": "",
+            "taskDescription": "Your task is to determine whether blue seed color is a dominant or recessive trait in the unknown E plant. If the trait is dominant, focus on the red box. If the trait is recessive, focus on the green box.",
+            "taskIdx": "24",
+            "taskName": "mendelian-genetics-unknown-plant",
+            "variationIdx": "0"
+        },
+        "notes": "v1"
+    }
+}

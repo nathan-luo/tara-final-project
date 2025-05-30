@@ -1,0 +1,35 @@
+{
+    "1": [
+        "I need to find a non-living thing. From the current room, 'picture' is a non-living thing. I will focus on the picture.\n\n>>> focus on picture <<<"
+    ],
+    "2": [
+        "I have focused on the picture. Now I need to move it to the red box in the kitchen. First, I need to go to the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "3": [
+        "I need to open the door to the kitchen.\n\n>>> open door to kitchen <<<"
+    ],
+    "4": [
+        "The door to the kitchen is open. Now I can go to the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "5": [
+        "I am in the kitchen and I am still focused on the picture (which is now called painting in the kitchen). I need to move the painting to the red box.\n\n>>> move painting to red box <<<"
+    ],
+    "6": [
+        "I have successfully moved the painting (a non-living thing) to the red box in the kitchen. The task is complete.\n\n>>> task <<<"
+    ],
+    "7": [
+        "I have already moved the painting to the red box. The task is complete.\n\n>>> task <<<"
+    ],
+    "8": [
+        "I have already moved the painting to the red box. The task is complete. I will try to end the task.\n\n>>> task <<<"
+    ],
+    "9": [
+        "I have already completed the task. I moved the painting (a non-living thing) to the red box in the kitchen. Since the interface is not ending, I will try to restart the task and complete it again, making sure to follow every step precisely.\n\n>>> restart task <<<"
+    ],
+    "10": [
+        "My apologies, I used the wrong command. I need to use 'reset task'.\n\n>>> reset task <<<"
+    ],
+    "11": [
+        "I am currently in the kitchen. I need to find a non-living thing. Looking at the available objects, 'painting' is a non-living thing. I will focus on the painting.\n\n>>> focus on painting <<<"
+    ]
+}

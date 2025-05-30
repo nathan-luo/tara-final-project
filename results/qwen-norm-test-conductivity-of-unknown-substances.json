@@ -1,0 +1,35 @@
+{
+    "1": [
+        ">>> open door to workshop <<"
+    ],
+    "2": [
+        ">>> go workshop <<"
+    ],
+    "3": [
+        ">>> focus on unknown substance <<"
+    ],
+    "4": [
+        ">>> connect battery to switch <<"
+    ],
+    "5": [
+        ">>> connect anode in battery to anode in red light bulb <<"
+    ],
+    "6": [
+        ">>> connect cathode in red light bulb to unknown substance <<"
+    ],
+    "7": [
+        ">>> connect terminal 2 in unknown substance B to battery cathode <<"
+    ],
+    "8": [
+        ">>> activate battery <<"
+    ],
+    "9": [
+        ">>> activate switch <<"
+    ],
+    "10": [
+        ">>> look at red light bulb <<"
+    ],
+    "11": [
+        "The red light bulb remains off after activating the switch, indicating that the circuit is not completed. Since the unknown substance B is part of the circuit and the bulb does not light up, it means the substance is electrically nonconductive. \n\n>>> move unknown substance B to green box <<"
+    ]
+}

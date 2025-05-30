@@ -1,0 +1,423 @@
+{
+    "0": {
+        "episodeIdx": 0,
+        "history": {
+            "history": [
+                {
+                    "action": "look around",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)",
+                    "score": "0.0"
+                },
+                {
+                    "action": "open workshop door",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.0"
+                },
+                {
+                    "action": "go workshop",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the workshop.",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "go hallway",
+                    "freelook": "This room is called the workshop. In it, you see: \n\tthe agent\n\ta substance called air\n\ta table. On the table is: a battery, a black wire, a blue wire, a green light bulb, which is off, a orange wire, a switch, which is off, a violet light bulb, which is off, a yellow light bulb, which is off.\n\ta ultra low temperature freezer. The ultra low temperature freezer door is closed. \nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the hallway.",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "open greenhouse door",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is closed)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "go greenhouse",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the greenhouse.",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "look in sink",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the sink is: \n\tnothing\n You also see: A drain, which is open.",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "look at bee hive",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "a bee hive. The bee hive door is closed.",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "open bee hive",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is closed. \n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The bee hive is now open.",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "look in bee hive",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: a adult bee, a adult bee, a adult bee.\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the bee hive is: \n\ta adult bee\n\ta adult bee\n\ta adult bee",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "flush bee hive",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: a adult bee.\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "It's not clear how to flush that.",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "flush bee 1",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "It's not clear how to flush that.",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "pick up bee hive",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta bee hive. The bee hive door is open. In the bee hive is: nothing.\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the bee hive to the inventory.",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "look in bee hive",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the bee hive is: \n\tnothing",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "look under sink",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "go hallway",
+                    "freelook": "This room is called the greenhouse. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta jug (containing nothing)\n\ta shovel\n\ta sink, which is turned off. In the sink is: nothing.\nYou also see:\n\tA door to the hallway (that is open)\n\tA door to the outside (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the hallway.",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "open art studio door",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta adult bee\n\ta picture\nYou also see:\n\tA door to the art studio (that is closed)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.03333333333333333"
+                },
+                {
+                    "action": "go art studio",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta picture\nYou also see:\n\tA door to the art studio (that is open)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move to the art studio.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "pour cup containing yellow paint in jug",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is closed. \n\ta paint cupboard. The paint cupboard door is closed. \n\ta table. On the table is: a jug (containing nothing).\n\ta wood cup (containing blue paint)\n\ta wood cup (containing yellow paint)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You pour the contents of the wood cup into the jug.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "pour cup containing blue paint in jug",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta large cupboard. The large cupboard door is closed. \n\ta paint cupboard. The paint cupboard door is closed. \n\ta table. On the table is: a jug (containing yellow paint).\n\ta wood cup (containing blue paint)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You pour the contents of the wood cup into the jug.",
+                    "score": "0.16666666666666666"
+                },
+                {
+                    "action": "mix jug",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta large cupboard. The large cupboard door is closed. \n\ta paint cupboard. The paint cupboard door is closed. \n\ta table. On the table is: a jug (containing blue paint, yellow paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Blue and yellow paint mix to produce green paint.",
+                    "score": "0.26666666666666666"
+                },
+                {
+                    "action": "focus on green paint",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta large cupboard. The large cupboard door is closed. \n\ta paint cupboard. The paint cupboard door is closed. \n\ta table. On the table is: a jug (containing green paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You focus on the green paint.",
+                    "score": "0.7666666666666666"
+                },
+                {
+                    "action": "pour cup containing blue paint in jug",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta large cupboard. The large cupboard door is closed. \n\ta paint cupboard. The paint cupboard door is closed. \n\ta table. On the table is: a jug (containing green paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.7666666666666666"
+                },
+                {
+                    "action": "open paint cupboard",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta large cupboard. The large cupboard door is closed. \n\ta paint cupboard. The paint cupboard door is closed. \n\ta table. On the table is: a jug (containing green paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The paint cupboard is now open.",
+                    "score": "0.7666666666666666"
+                },
+                {
+                    "action": "look in paint cupboard",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta large cupboard. The large cupboard door is closed. \n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the paint cupboard is: \n\ta drawer\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)",
+                    "score": "0.7666666666666666"
+                },
+                {
+                    "action": "open large cupboard",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is closed. \n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The large cupboard is now open.",
+                    "score": "0.7666666666666666"
+                },
+                {
+                    "action": "look in large cupboard",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing blue paint), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the large cupboard is: \n\ta drawer\n\ta wood cup (containing yellow paint)\n\ta wood cup (containing blue paint)\n\ta wood cup (containing red paint)",
+                    "score": "0.7666666666666666"
+                },
+                {
+                    "action": "pour cup containing blue paint in jug",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing blue paint), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You pour the contents of the wood cup into the jug.",
+                    "score": "0.8"
+                },
+                {
+                    "action": "mix jug",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing blue paint, green paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "Blue and green paint mix to produce blue green paint.",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "focus on green paint",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "restart task",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.8333333333333333"
+                },
+                {
+                    "action": "reset task",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You reset the goal progress and focus.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "open art studio door",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "open door to the art studio",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "open door",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is already open.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "go art studio",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "It's not clear how to get there from here.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "go art studio",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "It's not clear how to get there from here.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "close door",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now closed.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "open door",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is closed)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "The door is now open.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "go art studio",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "It's not clear how to get there from here.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "go door",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move through the door to the hallway.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "go through art studio door",
+                    "freelook": "This room is called the hallway. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta picture\nYou also see:\n\tA door to the art studio (that is open)\n\tA door to the bedroom (that is closed)\n\tA door to the greenhouse (that is open)\n\tA door to the kitchen (that is closed)\n\tA door to the living room (that is closed)\n\tA door to the workshop (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move through the door to the art studio.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "inventory",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "pick up cup containing yellow paint",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing yellow paint), a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n",
+                    "isCompleted": "false",
+                    "observation": "You move the wood cup to the inventory.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "open large cupboard",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n\ta wood cup (containing yellow paint)\n",
+                    "isCompleted": "false",
+                    "observation": "The large cupboard is already open.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "look in large cupboard",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta adult bee\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n\ta wood cup (containing yellow paint)\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the large cupboard is: \n\ta drawer\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "look in paint cupboard",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n\ta wood cup (containing yellow paint)\n",
+                    "isCompleted": "false",
+                    "observation": "Inside the paint cupboard is: \n\ta drawer\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "inventory",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n\ta wood cup (containing yellow paint)\n",
+                    "isCompleted": "false",
+                    "observation": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n\ta wood cup (containing yellow paint)",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "look at green-blue paint",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n\ta wood cup (containing yellow paint)\n",
+                    "isCompleted": "false",
+                    "observation": "green-blue paint",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "search paint",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n\ta wood cup (containing yellow paint)\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.13333333333333333"
+                },
+                {
+                    "action": "I cannot complete this task because the required object (green-blue paint) already exists in the game world, and the necessary raw material (blue paint) is unavailable to allow me to \"create\" it using chemistry. The game state is inconsistent with the task requirements.",
+                    "freelook": "This room is called the art studio. In it, you see: \n\tthe agent\n\ta substance called air\n\ta adult bee\n\ta large cupboard. The large cupboard door is open. In the large cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing red paint).\n\ta paint cupboard. The paint cupboard door is open. In the paint cupboard is: a drawer, a wood cup (containing nothing), a wood cup (containing nothing), a wood cup (containing nothing).\n\ta table. On the table is: a jug (containing green-blue paint).\n\ta wood cup (containing nothing)\n\ta wood cup (containing nothing)\n\ta wood cup (containing red paint)\nYou also see:\n\tA door to the hallway (that is open)\n",
+                    "inventory": "In your inventory, you see:\n\ta bee hive. The bee hive door is open. In the bee hive is: \n\tnothing\n\tan orange\n\ta wood cup (containing yellow paint)\n",
+                    "isCompleted": "false",
+                    "observation": "No known action matches that input.",
+                    "score": "0.13333333333333333"
+                }
+            ],
+            "simplifications": "",
+            "taskDescription": "Your task is to use chemistry to create green-blue paint. When you are part-way done, focus on the intermediate (secondary color) paint you created.  When you are completely done, focus on the green paint.",
+            "taskIdx": "4",
+            "taskName": "chemistry-mix-paint-tertiary-color",
+            "variationIdx": "0"
+        },
+        "notes": "v1"
+    }
+}

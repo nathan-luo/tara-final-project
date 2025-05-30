@@ -1,0 +1,41 @@
+{
+    "1": [
+        ">>> open door to workshop <<"
+    ],
+    "2": [
+        ">>> go workshop <<"
+    ],
+    "3": [
+        ">>> pick up block <<"
+    ],
+    "4": [
+        ">>> move block to inclined plane with a unknown material c surface <<"
+    ],
+    "5": [
+        ">>> activate inclined plane with a unknown material c surface <<"
+    ],
+    "6": [
+        ">>> activate stopwatch <<"
+    ],
+    "7": [
+        ">>> deactivate stopwatch <<"
+    ],
+    "8": [
+        ">>> look at inclined plane with a unknown material c surface <<"
+    ],
+    "9": [
+        ">>> pick up block <<"
+    ],
+    "10": [
+        ">>> move block to inclined plane with a unknown material c surface <<"
+    ],
+    "11": [
+        ">>> move block to inclined plane with a unknown material h surface <<"
+    ],
+    "12": [
+        ">>> look at inclined plane with a unknown material h surface <<"
+    ],
+    "13": [
+        ">>> focus on inclined plane with a unknown material h surface <<"
+    ]
+}

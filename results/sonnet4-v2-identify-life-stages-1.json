@@ -1,0 +1,152 @@
+{
+    "1": [
+        "I need to focus on the 4 life stages of the turtle, starting from earliest to latest. First, let me look around to understand my current environment and see if there are any turtle-related items or information visible.\n\n>>> look around <<<"
+    ],
+    "2": [
+        "I need to focus on the 4 life stages of the turtle, starting from earliest to latest. Let me first examine the picture in this hallway to see if it contains information about turtle life stages.\n\n>>> look at picture <<<"
+    ],
+    "3": [
+        "The picture shows a farm, not turtle life stages. I need to explore the different rooms to find information about turtle life stages. Let me start by opening the door to the greenhouse, as that seems like a likely place to find information about living creatures and their life cycles.\n\n>>> open door to greenhouse <<<"
+    ],
+    "4": [
+        "Now that the greenhouse door is open, let me go into the greenhouse to look for information about turtle life stages.\n\n>>> go greenhouse <<<"
+    ],
+    "5": [
+        "I'm now in the greenhouse. Let me look around to see what's available here and check if there are any turtle-related items or information.\n\n>>> look around <<<"
+    ],
+    "6": [
+        "I don't see any turtle-related items in the greenhouse. Let me check the bee hive to see if there's anything inside that might be relevant to turtle life stages.\n\n>>> open bee hive <<<"
+    ],
+    "7": [
+        "I can see there are bees in the hive now, but I need to focus on turtle life stages. Let me look in the bee hive to see what's there, then continue searching other rooms for turtle-related information.\n\n>>> look in bee hive <<<"
+    ],
+    "8": [
+        "I see adult bees, but I need to focus on turtle life stages. The bees aren't relevant to my task. Let me go back to the hallway and explore other rooms to find turtle-related information.\n\n>>> go hallway <<<"
+    ],
+    "9": [
+        "I need to focus on the 4 life stages of the turtle, starting from earliest to latest. Let me try the living room next, as it might contain educational materials or books about turtle life cycles.\n\n>>> open door to living room <<<"
+    ],
+    "10": [
+        "I see the living room door is now open. Let me go into the living room to look for turtle-related information.\n\n>>> go living room <<<"
+    ],
+    "11": [
+        "I'm now in the living room. Let me look around to see what's available here and check for any turtle-related items or information.\n\n>>> look around <<<"
+    ],
+    "12": [
+        "I can see there's a painting in the living room. Let me examine it to see if it contains information about turtle life stages.\n\n>>> look at painting <<<"
+    ],
+    "13": [
+        "The painting shows a meadow, not turtle life stages. I notice there's a drawer on the desk - let me check if it contains any turtle-related materials or information.\n\n>>> open drawer <<<"
+    ],
+    "14": [
+        "Now that the drawer is open, let me look inside it to see if there are any turtle-related materials.\n\n>>> look in drawer <<<"
+    ],
+    "15": [
+        "The drawer is empty. I need to continue searching for turtle-related information. Let me go back to the hallway and try another room. The art studio might have educational materials or artwork about turtle life stages.\n\n>>> go hallway <<<"
+    ],
+    "16": [
+        "I see the available actions and objects. I notice there's a \"focus on OBJ\" action available, and my task is specifically to \"focus on the 4 life stages of the turtle, starting from earliest to latest.\" However, I don't see any turtle-related objects in the available objects list yet. Let me try the art studio, as it might contain educational artwork about turtle life stages.\n\n>>> open art studio door <<<"
+    ],
+    "17": [
+        "I can see the art studio door is now open. Let me go into the art studio to look for turtle-related materials or artwork that might show the 4 life stages of the turtle.\n\n>>> go art studio <<<"
+    ],
+    "18": [
+        "I'm now in the art studio. Let me look around to see what's available here and check for any turtle-related items or artwork.\n\n>>> look around <<<"
+    ],
+    "19": [
+        "I can see there's a large cupboard in the art studio that might contain turtle-related materials or artwork. Let me open it to see what's inside.\n\n>>> open cupboard <<<"
+    ],
+    "20": [
+        "Now that the cupboard is open, let me look inside it to see if there are any turtle-related materials or artwork.\n\n>>> look in cupboard <<<"
+    ],
+    "21": [
+        "I can see there's a drawer inside the cupboard. Let me open it to see if it contains any turtle-related materials.\n\n>>> open drawer <<<"
+    ],
+    "22": [
+        "I can see the drawer is now open. Let me look inside this drawer to see if it contains any turtle-related materials.\n\n>>> look in drawer <<<"
+    ],
+    "23": [
+        "I notice that the interface is reminding me of my task and showing available actions. I can see \"focus on OBJ\" is available, but I still haven't found any turtle-related objects. Let me continue searching other rooms. I should try the bedroom next.\n\n>>> go hallway <<<"
+    ],
+    "24": [
+        "I can see that there are bee objects available (bee 0, bee 2, bee 4), but I need to find turtle-related objects to focus on their 4 life stages. Let me try the bedroom next to continue searching for turtle materials.\n\n>>> open bedroom door <<<"
+    ],
+    "25": [
+        "I can see the bedroom door is now open. Let me go into the bedroom to search for turtle-related materials.\n\n>>> go bedroom <<<"
+    ],
+    "26": [
+        "I'm now in the bedroom. Let me look around to see what's available here and check for any turtle-related items or information.\n\n>>> look around <<<"
+    ],
+    "27": [
+        "I can see there's a painting in the bedroom and a closet that's closed. Let me first check the painting to see if it shows turtle life stages.\n\n>>> look at painting <<<"
+    ],
+    "28": [
+        "The painting shows rolling hills, not turtle life stages. Let me check the closet, as it might contain educational materials or books about turtle life cycles.\n\n>>> open closet <<<"
+    ],
+    "29": [
+        "Now that the closet is open, let me look inside it to see if there are any turtle-related materials or educational items.\n\n>>> look in closet <<<"
+    ],
+    "30": [
+        "The closet is empty. I notice that I still haven't found any turtle-related objects. Let me continue searching the remaining rooms. I should try the kitchen next.\n\n>>> go hallway <<<"
+    ],
+    "31": [
+        "I can see that I still haven't found any turtle-related objects in my available objects list. Let me try the kitchen next to continue searching for turtle materials.\n\n>>> open door to kitchen <<<"
+    ],
+    "32": [
+        "I can see the kitchen door is now open. Let me go into the kitchen to search for turtle-related materials.\n\n>>> go kitchen <<<"
+    ],
+    "33": [
+        "I'm now in the kitchen. Let me look around to see what's available here and check for any turtle-related items or information.\n\n>>> look around <<<"
+    ],
+    "34": [
+        "I can see there's a painting in the kitchen. Let me check if this painting shows turtle life stages.\n\n>>> look at painting <<<"
+    ],
+    "35": [
+        "The painting shows abstract shapes, not turtle life stages. I can see there are several closed containers in the kitchen that might contain turtle-related materials. Let me check the cupboard first.\n\n>>> open cupboard <<<"
+    ],
+    "36": [
+        "I can see the cupboard is now open and there are new objects available, including a drawer in the cupboard. Let me look inside the cupboard to see what's there.\n\n>>> look in cupboard <<<"
+    ],
+    "37": [
+        "I can see there's a drawer in the cupboard. Let me open it to see if it contains any turtle-related materials.\n\n>>> open drawer in cupboard <<<"
+    ],
+    "38": [
+        "I can see the drawer in the cupboard is now open. Let me look inside this drawer to see if it contains any turtle-related materials.\n\n>>> look in drawer in cupboard <<<"
+    ],
+    "39": [
+        "I can see there's still a drawer in the counter that I haven't checked yet. Let me open that drawer to see if it contains any turtle-related materials.\n\n>>> open drawer in counter <<<"
+    ],
+    "40": [
+        "I can see the drawer in the counter is now open. Let me look inside this drawer to see if it contains any turtle-related materials.\n\n>>> look in drawer in counter <<<"
+    ],
+    "41": [
+        "I can see that I still don't have any turtle-related objects in my available objects list. Let me check the freezer to see if it contains any turtle-related materials.\n\n>>> open freezer <<<"
+    ],
+    "42": [
+        "I can see the freezer is now open. Let me look inside the freezer to see if it contains any turtle-related materials.\n\n>>> look in freezer <<<"
+    ],
+    "43": [
+        "I can see that I still don't have any turtle-related objects in my available objects list. Let me check the fridge to see if it contains any turtle-related materials.\n\n>>> open fridge <<<"
+    ],
+    "44": [
+        "I can see the fridge is now open and there's orange juice available. Let me look inside the fridge to see if it contains any turtle-related materials.\n\n>>> look in fridge <<<"
+    ],
+    "45": [
+        "I can see that I still don't have any turtle-related objects in my available objects list. Let me check the oven to see if it contains any turtle-related materials.\n\n>>> open oven <<<"
+    ],
+    "46": [
+        "I can see the oven is now open. Let me look inside the oven to see if it contains any turtle-related materials.\n\n>>> look in oven <<<"
+    ],
+    "47": [
+        "I can see that I still don't have any turtle-related objects in my available objects list. There's a bathroom door that I haven't explored yet. Let me check the bathroom to see if it contains any turtle-related materials.\n\n>>> open bathroom door <<<"
+    ],
+    "48": [
+        "I can see the bathroom door is now open. Let me go into the bathroom to search for turtle-related materials.\n\n>>> go bathroom <<<"
+    ],
+    "49": [
+        "I'm now in the bathroom. Let me look around to see what's available here and check for any turtle-related items or information.\n\n>>> look around <<<"
+    ],
+    "50": [
+        "I can see there's a drawing in the bathroom! This might contain information about turtle life stages. Let me examine the drawing to see if it shows the 4 life stages of the turtle.\n\n>>> look at drawing <<<"
+    ]
+}

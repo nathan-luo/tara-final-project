@@ -1,0 +1,50 @@
+{
+    "1": [
+        "I will go to the kitchen.\n>>> open door to kitchen <<<"
+    ],
+    "2": [
+        ">>> go kitchen <<<"
+    ],
+    "3": [
+        ">>> look at sink <<<"
+    ],
+    "4": [
+        ">>> activate sink <<<"
+    ],
+    "5": [
+        ">>> pick up cup <<<"
+    ],
+    "6": [
+        ">>> dunk cup in sink <<<"
+    ],
+    "7": [
+        ">>> look at sink <<<"
+    ],
+    "8": [
+        ">>> close drain <<<"
+    ],
+    "9": [
+        ">>> look in sink <<<"
+    ],
+    "10": [
+        ">>> focus on substance in sink <<<"
+    ],
+    "11": [
+        ">>> pour substance in sink in cup <<<"
+    ],
+    "12": [
+        ">>> dunk cup in sink <<<"
+    ],
+    "13": [
+        ">>> open freezer <<<"
+    ],
+    "14": [
+        ">>> put cup in freezer <<<"
+    ],
+    "15": [
+        ">>> wait <<<"
+    ],
+    "16": [
+        ">>> wait <<<"
+    ]
+}

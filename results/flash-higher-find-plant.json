@@ -1,0 +1,26 @@
+{
+    "1": [
+        "Okay, I need to find a plant, focus on it, and then move it to the red box in the kitchen.\n\nFirst, I need to find a plant. The greenhouse seems like the most likely place to find a plant. I'll go there.\n\n>>> open door to the greenhouse <<<"
+    ],
+    "2": [
+        "Now that the door to the greenhouse is open, I can go inside.\n\n>>> go greenhouse <<<"
+    ],
+    "3": [
+        "I am in the greenhouse. I need to find a plant. There are several plants listed: 'adult apple tree', 'adult cherry tree', and 'adult pea plant'. I will focus on the 'adult pea plant' as it clearly states \"plant\".\n\n>>> focus on adult pea plant <<<"
+    ],
+    "4": [
+        "I have focused on the `adult pea plant`. Now I need to move it to the red box in the kitchen. To do that, I first need to be able to carry it. The game doesn't specify if the `adult pea plant` can be picked up directly, but usually, I would need to pick it up to move it.\n\n>>> pick up adult pea plant <<<"
+    ],
+    "5": [
+        "I have picked up the `adult pea plant`. Now I need to take it to the kitchen. I am currently in the greenhouse. I need to go back to the hallway, and then to the kitchen.\n\n>>> go hallway <<<"
+    ],
+    "6": [
+        "I have successfully picked up the `adult pea plant` and moved to the hallway. Now I need to go to the kitchen. The kitchen door is currently closed, so I will need to open it first.\n\n>>> open door to the kitchen <<<"
+    ],
+    "7": [
+        "I have opened the door to the kitchen. Now I can enter the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "8": [
+        "I am in the kitchen and have the `adult pea plant` in my inventory. The task is to move it to the `red box` in the kitchen.\n\n>>> move adult pea plant to red box <<<"
+    ]
+}

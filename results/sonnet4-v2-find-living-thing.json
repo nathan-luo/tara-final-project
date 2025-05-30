@@ -1,0 +1,26 @@
+{
+    "1": [
+        "I need to find a living thing, focus on it, and then move it to the red box in the kitchen. First, let me explore the rooms to find a living thing. The greenhouse sounds like a promising place to find living things like plants.\n\n>>> open door to greenhouse <<<"
+    ],
+    "2": [
+        "Now I need to go into the greenhouse to look for living things.\n\n>>> go greenhouse <<<"
+    ],
+    "3": [
+        "Perfect! I can see several living things in the greenhouse: adult apple tree, adult cherry tree, adult pea plant, and there's also a bee hive. Let me focus on one of these living things first. I'll start with the adult pea plant as it might be easier to move.\n\n>>> focus on adult pea plant <<<"
+    ],
+    "4": [
+        "Good! I've focused on the adult pea plant, which is a living thing. Now I need to move it to the red box in the kitchen. First, let me pick up the pea plant so I can move it.\n\n>>> pick up adult pea plant <<<"
+    ],
+    "5": [
+        "Great! I have the adult pea plant in my inventory, which is a living thing that I've focused on. Now I need to go to the kitchen to find the red box and move the pea plant there. Let me go back to the hallway first.\n\n>>> go hallway <<<"
+    ],
+    "6": [
+        "Now I need to go to the kitchen to find the red box. Let me open the door to the kitchen first.\n\n>>> open door to kitchen <<<"
+    ],
+    "7": [
+        "Now I need to go into the kitchen to find the red box.\n\n>>> go kitchen <<<"
+    ],
+    "8": [
+        "Perfect! I can see the red box in the kitchen. I have already found a living thing (the adult pea plant), focused on it, and now I need to move it to the red box. Since I have the pea plant in my inventory, I need to move it to the red box.\n\n>>> move adult pea plant to red box <<<"
+    ]
+}

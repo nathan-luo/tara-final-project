@@ -1,0 +1,9 @@
+flash-v2-find-plant,google/gemini-2.5-flash-preview-05-20,50a48eb2-45ef-4cc6-a082-56b42667447a,find-plant,0,v1,8,True,100,10
+flash-v2-find-non-living-thing,google/gemini-2.5-flash-preview-05-20,5504e706-5708-4576-b620-54ecb7be267d,find-non-living-thing,0,v1,11,True,100,5
+flash-v2-chemistry-mix,google/gemini-2.5-flash-preview-05-20,9def93ec-3a12-4539-aa99-709a7db22380,chemistry-mix,0,v1,19,True,100,24
+flash-v2-boil,google/gemini-2.5-flash-preview-05-20,d1c9395e-cd69-4775-9785-b22b73dad844,boil,0,v1,33,True,-100,39
+flash-v2-find-living-thing,google/gemini-2.5-flash-preview-05-20,f57dd510-32ba-4d18-a7ec-4d422c551b22,find-living-thing,0,v1,34,True,-100,10
+flash-v2-freeze,google/gemini-2.5-flash-preview-05-20,489aaa77-6788-4472-8037-4191c1250e6d,freeze,0,v1,51,False,10,26
+flash-v2-find-animal,google/gemini-2.5-flash-preview-05-20,21b4cb4f-4e66-4d27-9753-75ab8d0da5a3,find-animal,0,v1,51,False,83,10
+flash-v2-change-the-state-of-matter-of,google/gemini-2.5-flash-preview-05-20,8741b8d8-dd93-4d8f-a1b3-70769a592e62,change-the-state-of-matter-of,0,v1,51,False,-100,26
+flash-v2-chemistry-mix-paint-secondary-color,google/gemini-2.5-flash-preview-05-20,482028eb-b63a-4684-9b88-0c6a58556d21,chemistry-mix-paint-secondary-color,0,v1,51,False,30,21

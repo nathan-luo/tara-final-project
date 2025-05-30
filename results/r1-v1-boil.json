@@ -1,0 +1,50 @@
+{
+    "1": [
+        "I need to boil water, but there's no water in the hallway. I must find water first. The kitchen is the most likely place to contain water. Since the kitchen door is closed, I'll open it and enter.\n\nAction sequence:\n1. Open the kitchen door to access the kitchen.\n2. Go to the kitchen to search for water.\n\nStarting with step 1:\n>>> open door to kitchen <<"
+    ],
+    "2": [
+        "I need to get to the kitchen to find water. Since the kitchen door is now open, I'll go there.\n\n>>> go kitchen <<"
+    ],
+    "3": [
+        "I need to obtain water to boil. The sink is the most likely source. I'll check if I can get water from it. First, I'll look at the sink to understand its state.\n\n>>> look at sink <<"
+    ],
+    "4": [
+        "I need to obtain water to boil. The sink is currently empty, so I must first get water flowing. I'll turn on the sink to fill a container. Since I need a container, I'll look for one - the cupboard might hold useful items like cups or pots.\n\n>>> look at cupboard <<"
+    ],
+    "5": [
+        "I need to access the cupboard to find a container for water. Since the cupboard door is closed, I'll open it first.\n\n>>> open cupboard <<"
+    ],
+    "6": [
+        "I need to obtain a container to hold water. The metal pot is ideal for boiling since it can be placed on the stove. I'll take it from the cupboard.\n\n>>> pick up metal pot <<"
+    ],
+    "7": [
+        "Now that I have a metal pot, I need to fill it with water. The sink is the source of water, but currently it's empty and the drain is open. I'll place the pot in the sink to prepare for filling it.\n\n>>> move metal pot to sink <<"
+    ],
+    "8": [
+        "Now I need to fill the metal pot with water. The sink drain is currently open, so I must close it first to prevent water from draining out. Then I'll activate (turn on) the sink to fill the pot.\n\nAction sequence:\n1. Close the sink drain to contain water.\n2. Activate the sink to start water flow.\n\nStarting with step 1:\n>>> close sink drain <<"
+    ],
+    "9": [
+        "The sink drain is now closed, so water won't drain out. I'll activate (turn on) the sink to fill the metal pot with water. This will give me the water substance needed for boiling.\n\n>>> activate sink <<"
+    ],
+    "10": [
+        "I have water in the metal pot (substance in metal pot). Following the task requirement to \"first focus on the substance\" before changing its state:\n\n>>> focus on substance in metal pot <<"
+    ],
+    "11": [
+        "I have focused on the water substance as required. Now I need to change its state by boiling it. The stove is the appropriate appliance for heating. I'll move the metal pot containing water to the stove to prepare for heating.\n\n>>> move metal pot to stove <<"
+    ],
+    "12": [
+        "I have the metal pot containing water on the stove. To boil the water, I need to heat it using the stove. Since I've already focused on the water substance, I'll now activate the stove to start heating. This should cause the water to change state from liquid to gas (boiling).\n\n>>> activate stove <<"
+    ],
+    "13": [
+        "I have activated the stove with the metal pot containing water on it. Now I need to wait for the water to boil. Since boiling requires time for heat transfer, I'll use the \"wait\" action to allow time to pass. This should cause the water to change state from liquid to gas.\n\n>>> wait <<"
+    ],
+    "14": [
+        "I have activated the stove and waited, but the water hasn't boiled yet. I need to verify the state of the water and ensure the heating process is ongoing. I'll check the substance in the metal pot to see if it's boiling. If not, I'll continue heating.\n\n>>> look at substance in metal pot <<"
+    ],
+    "15": [
+        "I have the water in the metal pot on the activated stove, but after waiting, it hasn't boiled yet. I need to verify if the water is heating properly. I'll check the metal pot's contents to see if the state is changing. If it's still liquid, I may need to wait longer or ensure the stove is heating effectively.\n\n>>> look at metal pot <<"
+    ],
+    "16": [
+        "I have activated the stove and waited, but the water hasn't boiled yet. I need to ensure the heating process continues. Since the stove is already activated, I'll wait longer to allow sufficient time for the water to reach boiling point. Water typically boils at 100\u00b0C, and heat transfer takes time.\n\n>>> wait <<"
+    ]
+}

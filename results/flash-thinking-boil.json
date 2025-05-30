@@ -1,0 +1,53 @@
+{
+    "1": [
+        "open kitchen door\n>>> open kitchen door <<<"
+    ],
+    "2": [
+        "go kitchen\n>>> go kitchen <<<"
+    ],
+    "3": [
+        "look at sink\n>>> look at sink <<<"
+    ],
+    "4": [
+        "activate sink\n>>> activate sink <<<"
+    ],
+    "5": [
+        "pick up cup\n>>> pick up cup <<<"
+    ],
+    "6": [
+        "fill cup with water\n>>> fill cup with water <<<"
+    ],
+    "7": [
+        "pour sink in cup\n>>> pour sink in cup <<<"
+    ],
+    "8": [
+        "look at sink\n>>> look at sink <<<"
+    ],
+    "9": [
+        "close drain\n>>> close drain <<<"
+    ],
+    "10": [
+        "focus on substance in sink\n>>> focus on substance in sink <<<"
+    ],
+    "11": [
+        "pick up substance in sink\n>>> pick up substance in sink <<<"
+    ],
+    "12": [
+        "dunk cup in sink\n>>> dunk cup in sink <<<"
+    ],
+    "13": [
+        "focus on water in cup\n>>> focus on water in cup <<<"
+    ],
+    "14": [
+        "put cup on stove\n>>> put cup on stove <<<"
+    ],
+    "15": [
+        "activate stove\n>>> activate stove <<<"
+    ],
+    "16": [
+        "wait\n>>> wait <<<"
+    ],
+    "17": [
+        "wait\n>>> wait <<<"
+    ]
+}

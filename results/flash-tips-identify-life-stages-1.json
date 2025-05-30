@@ -1,0 +1,152 @@
+{
+    "1": [
+        "I need to focus on the 4 life stages of the turtle, starting from earliest to latest. I don't see any turtles or information about them in the hallway. I need to find where I can learn about turtles. I will start by looking at the picture.\n\n>>> look at picture <<<"
+    ],
+    "2": [
+        "The picture is of a farm, which doesn't seem related to turtles. I need to find information about turtles. I will try opening one of the doors to explore other rooms. I'll start with the greenhouse, as it might contain animals or information about nature.\n\n>>> open door to greenhouse <<<"
+    ],
+    "3": [
+        "I have opened the door to the greenhouse. Now I need to go into the greenhouse to see if there's anything related to turtles there.\n\n>>> go greenhouse <<<"
+    ],
+    "4": [
+        "I am in the greenhouse. I need to find information about the 4 life stages of the turtle. I see a \"bee hive\" and a \"jug\", \"shovel\", and \"sink\". None of these seem directly related to turtles. I will look around the greenhouse to see if there are any other objects or information sources.\n\n>>> look around <<<"
+    ],
+    "5": [
+        "I am in the greenhouse. I still haven't found anything about turtles. I see a \"bee hive\" and a \"door to the outside\". The bee hive is unlikely to contain turtle information. The door to the outside might lead to a pond or a natural habitat where turtles could be found. I will open the door to the outside.\n\n>>> open door to outside <<<"
+    ],
+    "6": [
+        "I have opened the door to the outside. Now I need to go outside to see if there's anything related to turtles there.\n\n>>> go outside <<<"
+    ],
+    "7": [
+        "I am outside. I see \"egg turtle\" listed as an available object! This is exactly what I need to find information about the life stages of a turtle. I will focus on the \"egg turtle\" to learn more about it.\n\n>>> focus on egg turtle <<<"
+    ],
+    "8": [
+        "I have focused on the \"egg turtle\". This is the first stage of a turtle's life. I need to find the other three stages. I will look at the \"egg turtle\" to see if it provides any more information.\n\n>>> look at egg turtle <<<"
+    ],
+    "9": [
+        "I have focused on the \"egg turtle\" and looked at it. It is simply described as \"a turtle egg\". This confirms it's the first stage. Now I need to find the next stage. I see \"baby baby beaver\" and \"baby baby wolf\" but no \"baby turtle\". However, I do see \"egg giant tortoise\". While not a turtle, it's another egg. I need to find the next stage of the *turtle*. I will look around to see if there are any other objects that might represent the next stage of a turtle's life.\n\n>>> look around <<<"
+    ],
+    "10": [
+        "I have identified the \"turtle egg\" as the first stage. I need to find the next stage. I see \"baby baby beaver\" and \"baby baby wolf\", but no \"baby turtle\". I also see \"egg giant tortoise\" and \"egg parrot\" and \"butterfly egg\". I need to find the next stage of the *turtle*. Since I don't see an obvious \"baby turtle\", I will try to interact with the \"turtle egg\" to see if it can hatch or transform. I will try to \"activate\" the \"turtle egg\" to see if it hatches.\n\n>>> activate egg turtle <<<"
+    ],
+    "11": [
+        "I tried to activate the \"egg turtle\" but it cannot be activated. This means it won't hatch by itself. I need to find the next stage. I see \"baby baby beaver\" and \"baby baby wolf\" but no \"baby turtle\". I need to find the next stage of the *turtle*. I will look around again, specifically for anything that might be a young turtle. Since I'm outside, there might be a pond or water source where turtles live. I see a \"fountain (containing a substance called water)\". Perhaps a baby turtle is in the fountain or can be found near it. I will look in the fountain.\n\n>>> look in fountain <<<"
+    ],
+    "12": [
+        "I looked in the fountain, and it only contains water. I still need to find the next stage of the turtle. I have the \"turtle egg\" as the first stage. I need to find the next three stages. I will look around again, very carefully, for anything that might be a young turtle. I see \"baby baby beaver\" and \"baby baby wolf\", but no \"baby turtle\". I will try to pick up the \"turtle egg\" to see if it gives me any more options or information.\n\n>>> pick up egg turtle <<<"
+    ],
+    "13": [
+        "I have picked up the \"turtle egg\" and it is now in my inventory. This is the first stage. I need to find the next three stages. I still don't see any obvious \"baby turtle\" or \"juvenile turtle\" objects. I will look at my inventory to confirm the \"turtle egg\" is there and to see if any new options appear.\n\n>>> inventory <<<"
+    ],
+    "14": [
+        "I have the \"turtle egg\" in my inventory, which is the first stage. I need to find the next three stages. I still don't see any obvious \"baby turtle\" or \"juvenile turtle\" objects in the current location. I will try going back to the greenhouse, as it's a more controlled environment and might have exhibits or information.\n\n>>> go greenhouse <<<"
+    ],
+    "15": [
+        "I am back in the greenhouse. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I will look around the greenhouse again, very carefully, for anything that might be a young turtle or information about turtles. I see a \"bee hive\". While unlikely, sometimes unexpected information is found in strange places in this game. I will look at the bee hive.\n\n>>> look at bee hive <<<"
+    ],
+    "16": [
+        "I am in the greenhouse. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. Looking at the bee hive didn't provide any information. I will try to open the bee hive, just in case there's something inside.\n\n>>> open bee hive <<<"
+    ],
+    "17": [
+        "I have opened the bee hive. I see \"bee 0\", \"bee 1\", \"bee 3\", \"bee 4\", and \"adult bee in greenhouse\". None of these are turtles. I need to find the next stages of the turtle. I will look inside the bee hive to see if there's anything else.\n\n>>> look in bee hive <<<"
+    ],
+    "18": [
+        "I have looked in the bee hive, and it only contains adult bees. This is not helping me find the turtle stages. I have the \"turtle egg\" in my inventory. I need to find the next three stages. I will close the bee hive as it's not relevant.\n\nI need to think about where else I might find information about turtles. I've been to the outside and the greenhouse. I will go back to the hallway and try another room. I will try the \"art studio\" next, as sometimes art can depict nature or animals.\n\n>>> close bee hive <<<"
+    ],
+    "19": [
+        "I have closed the bee hive. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I will go back to the hallway and try the art studio.\n\n>>> go hallway <<<"
+    ],
+    "20": [
+        "I am in the hallway. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I will open the door to the art studio and go inside.\n\n>>> open door to art studio <<<"
+    ],
+    "21": [
+        "I am in the hallway. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I have opened the door to the art studio. Now I will go into the art studio.\n\n>>> go art studio <<<"
+    ],
+    "22": [
+        "I am in the art studio. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I see \"blue paint\", \"red paint\", \"yellow paint\", \"cupboard\", and \"table\". None of these seem directly related to turtles. I will look around the art studio to see if there are any other objects or information sources.\n\n>>> look around <<<"
+    ],
+    "23": [
+        "I am in the art studio. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I see \"adult bee\" here, which is strange for an art studio. I also see a \"large cupboard\". Perhaps there are art books or models of animals inside. I will open the large cupboard.\n\n>>> open large cupboard <<<"
+    ],
+    "24": [
+        "I am in the art studio. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I have opened the large cupboard. Now I will look inside the large cupboard to see if there's anything related to turtles.\n\n>>> look in large cupboard <<<"
+    ],
+    "25": [
+        "I am in the art studio. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I looked inside the large cupboard, and it contains paint cups and a \"drawer\". A drawer might contain documents or smaller objects. I will open the drawer.\n\n>>> open drawer <<<"
+    ],
+    "26": [
+        "I am in the art studio. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I have opened the drawer. Now I will look inside the drawer to see if there's anything related to turtles.\n\n>>> look in drawer <<<"
+    ],
+    "27": [
+        "I am in the art studio. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. The drawer is empty. This room is not proving useful. I will close the drawer and the cupboard.\n\nI need to find the next stages of the turtle. I have the \"turtle egg\" (stage 1). I will go back to the hallway and try another room. I will try the \"living room\" next, as it might have books or a display about animals.\n\n>>> close drawer <<<"
+    ],
+    "28": [
+        "I have closed the drawer. I will now close the large cupboard.\n\n>>> close large cupboard <<<"
+    ],
+    "29": [
+        "I have closed the large cupboard. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I will go back to the hallway and try the living room.\n\n>>> go hallway <<<"
+    ],
+    "30": [
+        "I am in the hallway. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I will open the door to the living room and go inside.\n\n>>> open door to living room <<<"
+    ],
+    "31": [
+        "I am in the hallway. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I have opened the door to the living room. Now I will go into the living room.\n\n>>> go living room <<<"
+    ],
+    "32": [
+        "I am in the living room. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I see \"chair\", \"cloth sittable\", \"desk\", \"door\", \"drawer\", \"hallway\", \"living room\", \"object\", and \"painting\". A desk or a painting might have information. I will look at the painting first.\n\n>>> look at painting <<<"
+    ],
+    "33": [
+        "The painting is of a meadow and doesn't seem to contain information about turtles. I need to find the next three stages of the turtle. I will now look at the desk, as it might contain books or documents.\n\n>>> look at desk <<<"
+    ],
+    "34": [
+        "I am in the living room. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I am looking at the desk, and it has a \"drawer\". I will open the drawer to see if there's anything inside.\n\n>>> open drawer <<<"
+    ],
+    "35": [
+        "I am in the living room. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I have opened the drawer. Now I will look inside the drawer to see if there's anything related to turtles.\n\n>>> look in drawer <<<"
+    ],
+    "36": [
+        "I am in the living room. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. The drawer is empty. This room is not proving useful. I will close the drawer.\n\nI need to find the next stages of the turtle. I have the \"turtle egg\" (stage 1). I will go back to the hallway and try another room. I will try the \"kitchen\" next, as it might have food items or a cookbook that could mention animals.\n\n>>> close drawer <<<"
+    ],
+    "37": [
+        "I have closed the drawer. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I will go back to the hallway and try the kitchen.\n\n>>> go hallway <<<"
+    ],
+    "38": [
+        "I am in the hallway. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I will open the door to the kitchen and go inside.\n\n>>> open door to kitchen <<<"
+    ],
+    "39": [
+        "I am in the hallway. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I have opened the door to the kitchen. Now I will go into the kitchen.\n\n>>> go kitchen <<<"
+    ],
+    "40": [
+        "I am in the kitchen. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I see \"apple\", \"banana\", \"bowl\", \"chair\", \"counter\", \"cup\", \"cupboard\", \"drawer\", \"freezer\", \"fridge\", \"glass jar\", \"lighter\", \"oven\", \"potato\", \"sink\", \"soap\", \"stopwatch\", \"stove\", \"table\", and \"thermometer\". None of these seem directly related to turtles.\n\nI will look around the kitchen to see if there are any other objects or information sources. I will start by looking in the fridge, as sometimes food items can be related to animals or there might be a calendar or magnet with animal information.\n\n>>> look in fridge <<<"
+    ],
+    "41": [
+        "I am in the kitchen. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I tried to look in the fridge, but it's closed. I need to open it first.\n\n>>> open fridge <<<"
+    ],
+    "42": [
+        "I am in the kitchen. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I have opened the fridge. Now I will look inside the fridge.\n\n>>> look in fridge <<<"
+    ],
+    "43": [
+        "I am in the kitchen. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. The fridge only contains orange juice. This is not helpful. I will close the fridge.\n\nI need to find the next stages of the turtle. I have the \"turtle egg\" (stage 1). I will go back to the hallway and try the \"bedroom\" next. It might have books or a computer with information.\n\n>>> close fridge <<<"
+    ],
+    "44": [
+        "I am in the kitchen. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I have explored the kitchen and found nothing. I will go back to the hallway and try the bedroom.\n\n>>> go hallway <<<"
+    ],
+    "45": [
+        "I am in the hallway. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I will open the door to the bedroom and go inside.\n\n>>> open door to bedroom <<<"
+    ],
+    "46": [
+        "I am in the hallway. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I have opened the door to the bedroom. Now I will go into the bedroom.\n\n>>> go bedroom <<<"
+    ],
+    "47": [
+        "I am in the bedroom. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I see \"bed\", \"closet\", \"painting\", and \"table\". A painting or a closet might contain information. I will look at the painting first.\n\n>>> look at painting <<<"
+    ],
+    "48": [
+        "The painting is of rolling hills and doesn't seem to contain information about turtles. I need to find the next three stages of the turtle. I will now look at the closet, as it might contain books or other items.\n\n>>> look at closet <<<"
+    ],
+    "49": [
+        "I am in the bedroom. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I am looking at the closet, and it's closed. I will open the closet.\n\n>>> open closet <<<"
+    ],
+    "50": [
+        "I am in the bedroom. I have the \"turtle egg\" in my inventory. I need to find the next three stages of the turtle. I have opened the closet. Now I will look inside the closet.\n\n>>> look in closet <<<"
+    ]
+}
