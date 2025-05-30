@@ -56,34 +56,34 @@ def userConsole(args):
     print("Possible actions: " + str(env.get_possible_actions()))
     print("Possible objects: " + str(env.get_possible_objects()))
     templates, lut = env.get_possible_action_object_combinations()
-    print("Possible action/object combinations: " + str(templates))
+    # print("Possible action/object combinations: " + str(templates))
+    # # print("Object IDX to Object Referent LUT: " + str(lut))
+    # print("Vocabulary: " + str(env.get_vocabulary()))
+    # print("Possible actions (with IDs): " + str(env.get_possible_actions_with_IDs()))
+    # print("Possible object types: " + str(env.get_object_types()))
     # print("Object IDX to Object Referent LUT: " + str(lut))
-    print("Vocabulary: " + str(env.get_vocabulary()))
-    print("Possible actions (with IDs): " + str(env.get_possible_actions_with_IDs()))
-    print("Possible object types: " + str(env.get_object_types()))
-    print("Object IDX to Object Referent LUT: " + str(lut))
-    print("\n")
-    print("Possible object referents LUT: " + str(env.get_possible_object_referent_LUT()))
-    print("\n")
-    print(
-        "Valid action-object combinations: "
-        + str(env.get_valid_action_object_combinations())
-    )
-    print("\n")
-    print("Object_ids to type_ids: " + str(env.get_all_object_types_LUTJSON()))
-    print("\n")
-    print(
-        "All objects, their ids, types, and referents: "
-        + str(env.get_all_object_ids_types_referents_LUTJSON())
-    )
-    print("\n")
-    print(
-        "Valid action-object combinations (with templates): "
-        + str(env.get_valid_action_object_combinations_with_templates())
-    )
-    print("\n")
-    print("Object Type LUT: " + str(env.get_possible_object_referent_types_LUT()))
-    print("Variations (train): " + str(env.get_variations_train()))
+    # print("\n")
+    # print("Possible object referents LUT: " + str(env.get_possible_object_referent_LUT()))
+    # print("\n")
+    # print(
+    #     "Valid action-object combinations: "
+    #     + str(env.get_valid_action_object_combinations())
+    # )
+    # print("\n")
+    # print("Object_ids to type_ids: " + str(env.get_all_object_types_LUTJSON()))
+    # print("\n")
+    # print(
+    #     "All objects, their ids, types, and referents: "
+    #     + str(env.get_all_object_ids_types_referents_LUTJSON())
+    # )
+    # print("\n")
+    # print(
+    #     "Valid action-object combinations (with templates): "
+    #     + str(env.get_valid_action_object_combinations_with_templates())
+    # )
+    # print("\n")
+    # print("Object Type LUT: " + str(env.get_possible_object_referent_types_LUT()))
+    # print("Variations (train): " + str(env.get_variations_train()))
 
     print("")
     print(

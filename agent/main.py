@@ -5,12 +5,13 @@ from llmgine.llm.models.openai_models import Gpt41, Gpt41Mini
 from llmgine.llm.providers.providers import Providers
 from llmgine.prompts.prompts import get_prompt
 from llmgine.llm.providers.openai_provider import OpenAIProvider
+from llmgine.llm.providers.openrouter import OpenRouterProvider
 import re
 import copy
 import os
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(override=True)
 
 env: ScienceWorldEnv = None
 
@@ -33,11 +34,6 @@ def setup_env_from_task_name(
     env.load(task_name, variation, simplifications)
     print("Starting Task " + str(task_name))
     return env
-
-
-def temp(env: ScienceWorldEnv):
-    print(env.get_possible_actions())
-    print(env.get_possible_objects())
 
 
 def construct_prompt(
@@ -71,7 +67,10 @@ class Ariel:
         self.tool_manager = ToolManager(
             engine_id=self.engine_id, session_id=self.session_id
         )
-        self.model = OpenAIProvider(model="gpt-4.1", api_key=os.getenv("OPENAI_API_KEY"))
+        # self.model = OpenAIProvider(model="gpt-4.1", api_key=os.getenv("OPENAI_API_KEY"))
+        self.model = OpenRouterProvider(
+            model="deepseek/deepseek-r1-0528", api_key=os.getenv("OPENROUTER_API_KEY")
+        )
         self.system_prompt = get_prompt("agent/prompts/system_prompt.md")
         self.context_store.set_system_prompt(
             self.system_prompt.format(task_desc=env.get_task_description())
@@ -112,7 +111,7 @@ class Ariel:
             response = await self.model.generate(messages=history)
             self.context_store.store_string(response.content, role="assistant")
             try:
-                action = re.search(r">>> (.*?) <<<$", response.content).group(1)
+                action = re.search(r">>> (.*?) <<", response.content).group(1)
                 print(f"Agent action: {action}")
                 break
             except AttributeError:
@@ -120,7 +119,7 @@ class Ariel:
                 continue
         self.current_step = self.env.step(action)
         if self.current_step[2]:
-            print(f"Task completed!!!!!!!!!! Score: {self.current_step[1]}")
+            print(f"Task completed!!!!!!!!!! Score: {self.current_step}")
             return True
         self.context_store.store_string(self.current_step[0], role="user")
         return False
