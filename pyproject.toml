@@ -1,0 +1,130 @@
+[project]
+name = "template"
+version = "0.0.1"
+description = "Template for new llmgine applications"
+authors = [{ name = "Name", email = "email@example.com" }]
+readme = "README.md"
+requires-python = ">=3.13"
+keywords = ['python']
+classifiers = [
+    "Intended Audience :: Developers",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+dependencies = [
+    "discord>=2.3.2",
+    "icecream>=2.1.4",
+    "ipdb>=0.13.13",
+    "ipython>=8.18.1",
+    "litellm>=1.63.12",
+    "load-dotenv>=0.1.0",
+    "notion-client>=2.3.0",
+    "pyreadline>=2.1",
+    "pytest>=8.3.5",
+    "pytest-asyncio>=0.25.3",
+    "rich>=13.9.4",
+    "textual>=2.1.2",
+    "llmgine @ {root:parent:uri}/llmgine",
+    "google-auth-oauthlib>=1.0.0",
+    "google-auth-httplib2>=0.1.0",
+    "google-api-python-client>=2.86.0",
+    "sqlalchemy>=2.0.40",
+    "psycopg2-binary>=2.9.10",
+    "python-telegram-bot>=22.0",
+    "py4j"
+]
+
+[project.urls]
+Homepage = "https://nathan-luo.github.io/llmgine/"
+Repository = "https://github.com/nathan-luo/llmgine"
+Documentation = "https://nathan-luo.github.io/llmgine/"
+
+[dependency-groups]
+dev = [
+    "pytest>=7.2.0",
+    "pytest-asyncio>=0.23.0",
+    "pre-commit>=2.20.0",
+    "tox-uv>=1.11.3",
+    "deptry>=0.22.0",
+    "mypy>=0.991",
+    "ruff>=0.9.2",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build]
+packages = ["src", "tools"]
+# This tells Hatch to look for packages in the right location
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.mypy]
+disallow_untyped_defs = true
+disallow_any_unimported = true
+no_implicit_optional = true
+check_untyped_defs = true
+warn_return_any = true
+warn_unused_ignores = true
+show_error_codes = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-sv --log-cli-level=0"
+
+[tool.ruff]
+target-version = "py39"
+line-length = 90
+fix = true
+
+[tool.ruff.lint]
+select = [
+    # flake8-2020
+    "YTT",
+    # flake8-bandit
+    "S",
+    # flake8-bugbear
+    "B",
+    # flake8-builtins
+    "A",
+    # flake8-comprehensions
+    "C4",
+    # flake8-debugger
+    "T10",
+    # flake8-simplify
+    "SIM",
+    # isort
+    "I",
+    # mccabe
+    "C90",
+    # pycodestyle
+    "E",
+    "W",
+    # pyflakes
+    "F",
+    # pygrep-hooks
+    "PGH",
+    # ruff
+    "RUF",
+]
+ignore = [
+    # LineTooLong
+    "E501",
+    # DoNotAssignLambda
+    "E731",
+    # Blank line contains whitespace
+    "W293",
+    # Allow assert statements
+    "S101",
+    # Allow os.system()
+    "S605",
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["S101"]
+
+[tool.ruff.format]
+preview = true
